@@ -1,0 +1,56 @@
+<projectMD xmlns="https://github.com/dariok/wdbplus/wdbmeta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/dariok/wdbplus/wdbmeta https://raw.githubusercontent.com/dariok/wdbmeta/master/wdbmeta.xsd" xml:id="jg1721">
+	<projectID pid="http://hdl.handle.net/21.11115/0000-000C-D8CE-9">jg1721</projectID>
+	<titleData>
+		<title>Wiennerisches Diarium – 1721</title>
+		<date>1721-01-01</date>
+		<date>1721-12-31</date>
+		<place ref="https://d-nb.info/gnd/4066009-6">Wien</place>
+		<language>de-Goth-AT</language>
+		<language>la</language>
+		<language>fr</language>
+		<language>it</language>
+		<type>Newspaper</type>
+	</titleData>
+	<metaData>
+		<contentGroup>
+			<content xml:id="originalImages">
+				<description>Original images</description>
+			</content>
+			<content xml:id="processedImages">
+				<description>Deskewed and otherwise processed images</description>
+			</content>
+			<content xml:id="fulltext">
+				<description>Proofread full text</description>
+			</content>
+		</contentGroup>
+		<involvement>
+			<org role="publisher disseminator editor" xml:id="oeaw" contribution="fulltext processedImages">Österreichische Akademie der Wissenschaften</org>
+			<org role="imageProvider" xml:id="oenb" contribution="originalImages">Österreichische Nationalbibliothek</org>
+		</involvement>
+		<legal>
+			<licence content="originalImages" href="http://anno.onb.ac.at/faq.htm">Original Images taken from the ANNO proced</licence>
+			<licence content="processedImages">Images deskewed and otherwise post-processed</licence>
+			<licence content="fulltext" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">High quality full text</licence>
+		</legal>
+	</metaData>
+	<files>
+		<file xml:id="edoc_wd_1721-04-12" path="04/1721-04-12.xml" date="2020-03-25T12:30:11.06Z" uuid="79a8baea-1ecf-3fca-88c4-3b12b0d6e8fb" pid="http://hdl.handle.net/21.11115/0000-000C-D8C9-E"/>
+		<file xml:id="edoc_wd_1721-04-16" path="04/1721-04-16.xml" date="2020-03-25T12:30:10.488Z" uuid="add1ee30-e48d-382a-a958-99a963ce1d6d" pid="http://hdl.handle.net/21.11115/0000-000C-D8CA-D"/>
+		<file xml:id="edoc_wd_1721-04-19" path="04/1721-04-19.xml" date="2020-03-25T12:30:09.915Z" uuid="da763b19-b0eb-3eed-88ad-dba1fbb19966" pid="http://hdl.handle.net/21.11115/0000-000C-D8CB-C"/>
+		<file xml:id="edoc_wd_1721-05-10" path="05/1721-05-10.xml" date="2020-03-25T12:30:10.597Z" uuid="ef8e5ea8-da44-37a7-84eb-7d8a8ebe1c8c" pid="http://hdl.handle.net/21.11115/0000-000C-D8CC-B"/>
+		<file xml:id="edoc_wd_1721-05-14" path="05/1721-05-14.xml" date="2020-03-25T12:30:09.539Z" uuid="155ee0dc-c033-3f34-8c92-42e35eec93e0" pid="http://hdl.handle.net/21.11115/0000-000C-D8CD-A"/>
+	</files>
+	<process><process target="html"><command type="xsl">/db/apps/edoc/data/xslt/tei-transcript.xsl</command></process><process target="txt" view="noske"><command type="xquery">wdbPF:noske</command></process></process>
+	<struct label="1721" order="1721">
+		<import path="../wdbmeta.xml"/>
+		<struct label="April" order="04">
+			<view file="edoc_wd_1721-04-12" label="Nr. 1847, 12.–15. April 1721" order="1847"/>
+			<view file="edoc_wd_1721-04-16" label="Nr. 1848, 16.–18. April 1721" order="1848"/>
+			<view file="edoc_wd_1721-04-19" label="Nr. 1849, 19.–22. April 1721" order="1849"/>
+		</struct>
+		<struct label="Mai" order="05">
+			<view file="edoc_wd_1721-05-10" label="Nr. 1855, 10.–13. Mai 1721" order="1855"/>
+			<view file="edoc_wd_1721-05-14" label="Nr. 1856, 14.–16. Mai 1721" order="1856"/>
+		</struct>
+	</struct>
+</projectMD>

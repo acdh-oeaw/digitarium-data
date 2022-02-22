@@ -1,0 +1,54 @@
+<projectMD xmlns="https://github.com/dariok/wdbplus/wdbmeta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/dariok/wdbplus/wdbmeta https://raw.githubusercontent.com/dariok/wdbmeta/master/wdbmeta.xsd" xml:id="jg1745">
+	<projectID pid="http://hdl.handle.net/21.11115/0000-000C-D830-A">jg1745</projectID>
+	<titleData>
+		<title>Wien[n]erisches Diarium – 1745</title>
+		<date>1745-01-01</date>
+		<date>1745-12-31</date>
+		<place ref="https://d-nb.info/gnd/4066009-6">Wien</place>
+		<language>de-Goth-AT</language>
+		<language>la</language>
+		<language>fr</language>
+		<language>it</language>
+		<type>Newspaper</type>
+	</titleData>
+	<metaData>
+		<contentGroup>
+			<content xml:id="originalImages">
+				<description>Original images</description>
+			</content>
+			<content xml:id="processedImages">
+				<description>Deskewed and otherwise processed images</description>
+			</content>
+			<content xml:id="fulltext">
+				<description>Proofread full text</description>
+			</content>
+		</contentGroup>
+		<involvement>
+			<org role="publisher disseminator editor" xml:id="oeaw" contribution="fulltext processedImages">Österreichische Akademie der Wissenschaften</org>
+			<org role="imageProvider" xml:id="oenb" contribution="originalImages">Österreichische Nationalbibliothek</org>
+		</involvement>
+		<legal>
+			<licence content="originalImages" href="http://anno.onb.ac.at/faq.htm">Original Images taken from the ANNO proced</licence>
+			<licence content="processedImages">Images deskewed and otherwise post-processed</licence>
+			<licence content="fulltext" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">High quality full text</licence>
+		</legal>
+	</metaData>
+	<files>
+		<file xml:id="edoc_wd_1745-10-13" path="10/1745-10-13.xml" date="2020-02-04T11:21:18.433Z" uuid="86268e11-2c9a-37dd-bf63-5f5c8e817f5d" pid="http://hdl.handle.net/21.11115/0000-000C-D82B-1"/>
+		<file xml:id="edoc_wd_1745-10-16" path="10/1745-10-16.xml" date="2020-02-04T13:05:28.57Z" uuid="80ab7c49-233e-3914-b2db-8e779eafe551" pid="http://hdl.handle.net/21.11115/0000-000C-D82C-0"/>
+		<file xml:id="edoc_wd_1745-10-20" path="10/1745-10-20.xml" date="2020-02-04T14:23:27.992Z" uuid="f203a4f4-4b18-324a-931f-9b78871a5679" pid="http://hdl.handle.net/21.11115/0000-000C-D82D-F"/>
+		<file xml:id="edoc_wd_1745-10-23" path="10/1745-10-23.xml" date="2020-02-21T16:48:22.126Z" uuid="27632a7e-0f71-318a-a61f-de7e13e0058b" pid="http://hdl.handle.net/21.11115/0000-000C-D82E-E"/>
+		<file xml:id="edoc_wd_1745-10-27" path="10/1745-10-27.xml" date="2020-02-24T11:16:49.86Z" uuid="574f8ca1-75b6-33c6-98de-e9062e5978c5" pid="http://hdl.handle.net/21.11115/0000-000C-D82F-D"/>
+	</files>
+	<process><process target="html"><command type="xsl">/db/apps/edoc/data/xslt/tei-transcript.xsl</command></process><process target="txt" view="noske"><command type="xquery">wdbPF:noske</command></process></process>
+	<struct label="1745" order="1745">
+		<import path="../wdbmeta.xml"/>
+		<struct label="Oktober" order="10">
+			<view file="edoc_wd_1745-10-13" label="Nr. 82, 13. Oktober 1745" order="82"/>
+			<view file="edoc_wd_1745-10-16" label="Nr. 83, 16. Oktober 1745 " order="83"/>
+			<view file="edoc_wd_1745-10-20" label="Nr. 84, 20. Oktober 1745" order="84"/>
+			<view file="edoc_wd_1745-10-23" label="Nr. 85, 23. Oktober 1745" order="85"/>
+			<view file="edoc_wd_1745-10-27" label="Nr. 86, 27. Oktober 1745" order="86"/>
+		</struct>
+	</struct>
+</projectMD>

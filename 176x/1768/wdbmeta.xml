@@ -1,0 +1,73 @@
+<projectMD xmlns="https://github.com/dariok/wdbplus/wdbmeta"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://github.com/dariok/wdbplus/wdbmeta https://raw.githubusercontent.com/dariok/wdbmeta/master/wdbmeta.xsd"
+	xml:id="jg1768">
+	<projectID>jg1768</projectID>
+	<titleData>
+		<title>Wien[n]erisches Diarium – 1768</title>
+		<date>1768-01-01</date>
+		<date>1768-12-31</date>
+		<place ref="https://d-nb.info/gnd/4066009-6">Wien</place>
+		<language>de-Goth-AT</language>
+		<language>la</language>
+		<language>fr</language>
+		<language>it</language>
+		<type>Newspaper</type>
+	</titleData>
+	<metaData>
+		<contentGroup>
+			<content xml:id="originalImages">
+				<description>Original images</description>
+			</content>
+			<content xml:id="processedImages">
+				<description>Deskewed and otherwise processed images</description>
+			</content>
+			<content xml:id="fulltext">
+				<description>Proofread full text</description>
+			</content>
+		</contentGroup>
+		<involvement>
+			<org role="publisher disseminator editor" xml:id="oeaw" contribution="fulltext processedImages">Österreichische Akademie der Wissenschaften</org>
+			<org role="imageProvider" xml:id="oenb" contribution="originalImages">Österreichische Nationalbibliothek</org>
+		</involvement>
+		<legal>
+			<licence content="originalImages" href="http://anno.onb.ac.at/faq.htm">Original Images taken from the ANNO proced</licence>
+			<licence content="processedImages">Images deskewed and otherwise post-processed</licence>
+			<licence content="fulltext" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">High quality full text</licence>
+		</legal>
+	</metaData>
+	<files>
+		<file path="02/1768-02-24.xml" xml:id="edoc_wd_1768-02-24"
+			uuid="0e21ce87-25f5-3152-abe2-f8ccaf54c7df" date="2019-01-10T12:54:34.457Z"/>
+		<file path="02/1768-02-27.xml" xml:id="edoc_wd_1768-02-27"
+			uuid="4c7a4db0-76a3-3f27-8ea0-6e62ff7820ac" date="2019-01-10T16:14:22.707Z"/>
+		<file path="03/1768-03-02.xml" xml:id="edoc_wd_1768-03-02"
+			uuid="4f94dd0e-6851-36b5-8c7c-47d73c4fd189" date="2019-01-15T11:13:47.505Z"/>
+		<file path="03/1768-03-05.xml" xml:id="edoc_wd_1768-03-05"
+			uuid="28b8e76c-92bf-3edf-acc6-5f14901cc84e" date="2019-01-15T13:54:22.814Z"/>
+		<file path="12/1768-12-10.xml" xml:id="edoc_wd_1768-12-10"
+			uuid="4ac21a29-ea3b-3aa8-87f0-7c1121f5f73a" date="2019-01-15T14:33:38.564Z"/>
+	</files>
+	<process target="html">
+		<command type="xsl">/db/apps/edoc/data/xslt/tei-transcript.xsl</command>
+	</process>
+	<struct label="1768" order="1768">
+		<import path="../wdbmeta.xml"/>
+		<struct label="Februar" order="02">
+			<view file="edoc_wd_1768-02-24" label="Num. 16. Mittwoch den 24. Hornung 1768."
+				private="false" order="16"/>
+			<view file="edoc_wd_1768-02-27" label="Num. 17. Sonnabend den 27. Hornung 1768."
+				private="false" order="17"/>
+		</struct>
+		<struct label="März" order="03">
+			<view file="edoc_wd_1768-03-02" label="Num. 18. Mittwoch den 2. Märtz 1768." private="false"
+				order="18"/>
+			<view file="edoc_wd_1768-03-05" label="Num. 19. Sonnabend den 5. Märtz 1768." private="false"
+				order="19"/>
+		</struct>
+		<struct label="Dezember" order="12">
+			<view file="edoc_wd_1768-12-10" label="Num. 99. Sonnabend den 10. Christm. 1768."
+				private="false" order="99"/>
+		</struct>
+	</struct>
+</projectMD>

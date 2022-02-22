@@ -1,0 +1,64 @@
+<projectMD xmlns="https://github.com/dariok/wdbplus/wdbmeta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://github.com/dariok/wdbplus/wdbmeta https://raw.githubusercontent.com/dariok/wdbmeta/master/wdbmeta.xsd"
+	xml:id="jg1706">
+	<projectID>jg1706</projectID>
+	<titleData>
+		<title>Wiennerisches Diarium – 1706</title>
+		<date>1706-01-01</date>
+		<date>1706-12-31</date>
+		<place ref="https://d-nb.info/gnd/4066009-6">Wien</place>
+		<language>de-Goth-AT</language>
+		<language>la</language>
+		<language>fr</language>
+		<language>it</language>
+		<type>Newspaper</type>
+	</titleData>
+	<metaData>
+		<contentGroup>
+			<content xml:id="originalImages">
+				<description>Original images</description>
+			</content>
+			<content xml:id="processedImages">
+				<description>Deskewed and otherwise processed images</description>
+			</content>
+			<content xml:id="fulltext">
+				<description>Proofread full text</description>
+			</content>
+		</contentGroup>
+		<involvement>
+			<org role="publisher disseminator editor" xml:id="oeaw" contribution="fulltext processedImages">Österreichische Akademie der Wissenschaften</org>
+			<org role="imageProvider" xml:id="oenb" contribution="originalImages">Österreichische Nationalbibliothek</org>
+		</involvement>
+		<legal>
+			<licence content="originalImages" href="http://anno.onb.ac.at/faq.htm">Original Images taken from the ANNO proced</licence>
+			<licence content="processedImages">Images deskewed and otherwise post-processed</licence>
+			<licence content="fulltext" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">High quality full text</licence>
+		</legal>
+	</metaData>
+	<files>
+		<file path="01/1706-01-30.xml" xml:id="edoc_wd_1706-01-30" uuid="3967f6a6-c805-3e38-9cb7-50c08af5fe08" date="2019-02-06T16:10:43.416Z"/>
+		<file path="02/1706-02-03.xml" xml:id="edoc_wd_1706-02-03" uuid="d1ca39e6-520f-3b28-bd96-0731c8b9bcca" date="2019-02-06T16:10:48.672Z"/>
+		<file path="05/1706-05-05.xml" xml:id="edoc_wd_1706-05-05" uuid="90792568-6e37-33d9-a49b-675c98fbb5cf" date="2019-02-06T16:10:53.307Z"/>
+		<file path="12/1706-12-25.xml" xml:id="edoc_wd_1706-12-25" uuid="f7894b80-3084-3a7a-ac2d-04787b689d43" date="2019-02-06T16:10:57.697Z"/>
+		<file path="12/1706-12-29.xml" xml:id="edoc_wd_1706-12-29" uuid="8a10201b-fb79-3c78-8584-3bc64088c31e" date="2019-02-06T16:11:01.236Z"/>
+	</files>
+	<process target="html">
+		<command type="xsl">/db/apps/edoc/data/xslt/tei-transcript.xsl</command>
+	</process>
+	<struct label="1706" order="1706">
+		<import path="../wdbmeta.xml"/>
+		<struct label="Jänner" order="01">
+			<view file="edoc_wd_1706-01-30" label="Nr. 261, 30. Jänner–2. Februar 1706" private="true" order="261"/>
+		</struct>
+		<struct label="Februar" order="02">
+			<view file="edoc_wd_1706-02-03" label="Nr. 262, 3.–5. Februar 1706" private="true" order="262"/>
+		</struct>
+		<struct label="Mai" order="05">
+			<view file="edoc_wd_1706-05-05" label="Nr. 288, 5.–7. Mai 1706" private="true" order="288"/>
+		</struct>
+		<struct label="Dezember" order="12">
+			<view file="edoc_wd_1706-12-25" label="Nr. 355, 25.–28. Dezember 1706" private="true" order="355"/>
+			<view file="edoc_wd_1706-12-29" label="Nr. , 29.–31. Dezember 1706" private="true" order="29"/>
+		</struct>
+	</struct>
+</projectMD>

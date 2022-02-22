@@ -1,0 +1,67 @@
+<projectMD xmlns="https://github.com/dariok/wdbplus/wdbmeta"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://github.com/dariok/wdbplus/wdbmeta https://raw.githubusercontent.com/dariok/wdbmeta/master/wdbmeta.xsd"
+	xml:id="jg1765">
+	<projectID>jg1765</projectID>
+	<titleData>
+		<title>Wien[n]erisches Diarium – 1765</title>
+		<date>1765-01-01</date>
+		<date>1765-12-31</date>
+		<place ref="https://d-nb.info/gnd/4066009-6">Wien</place>
+		<language>de-Goth-AT</language>
+		<language>la</language>
+		<language>fr</language>
+		<language>it</language>
+		<type>Newspaper</type>
+	</titleData>
+	<metaData>
+		<contentGroup>
+			<content xml:id="originalImages">
+				<description>Original images</description>
+			</content>
+			<content xml:id="processedImages">
+				<description>Deskewed and otherwise processed images</description>
+			</content>
+			<content xml:id="fulltext">
+				<description>Proofread full text</description>
+			</content>
+		</contentGroup>
+		<involvement>
+			<org role="publisher disseminator editor" xml:id="oeaw" contribution="fulltext processedImages">Österreichische Akademie der Wissenschaften</org>
+			<org role="imageProvider" xml:id="oenb" contribution="originalImages">Österreichische Nationalbibliothek</org>
+		</involvement>
+		<legal>
+			<licence content="originalImages" href="http://anno.onb.ac.at/faq.htm">Original Images taken from the ANNO proced</licence>
+			<licence content="processedImages">Images deskewed and otherwise post-processed</licence>
+			<licence content="fulltext" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">High quality full text</licence>
+		</legal>
+	</metaData>
+	<files>
+		<file path="08/1765-08-21.xml" xml:id="edoc_wd_1765-08-21"
+			uuid="a169f483-682c-30fd-9de3-ce1f0f67b126" date="2018-06-14T09:44:24.939Z"/>
+		<file path="08/1765-08-24.xml" xml:id="edoc_wd_1765-08-24"
+			uuid="8f663eff-12e6-3866-9f32-a5e7f1056e53" date="2018-06-14T09:44:50.565Z"/>
+		<file path="08/1765-08-31.xml" xml:id="edoc_wd_1765-08-31"
+			uuid="32a9c326-24ce-3c92-a2dd-16bb664b42cb" date="2018-06-14T09:45:12.534Z"/>
+		<file path="09/1765-09-04.xml" xml:id="edoc_wd_1765-09-04"
+			uuid="7d3a7ee5-faca-39db-a5e0-864ed7265b41" date="2018-06-14T09:45:37.912Z"/>
+		<file path="09/1765-09-07.xml" xml:id="edoc_wd_1765-09-07"
+			uuid="b8a46f19-9fd6-3c6e-ab60-f864fb787275" date="2018-06-14T09:45:59.443Z"/>
+	</files>
+	<process target="html">
+		<command type="xsl">/db/apps/edoc/data/xslt/tei-transcript.xsl</command>
+	</process>
+	<struct label="1765" order="1765">
+		<import path="../wdbmeta.xml"/>
+		<struct label="August" order="08">
+			<view file="edoc_wd_1765-08-21" label="Constantinopel 1. Julii." private="true" order="1"/>
+			<view file="edoc_wd_1765-08-24" label="Num. 68. Samstag den 24. Augusti 1765." private="true"
+				order="68"/>
+			<view file="edoc_wd_1765-08-31" label="Londen 13. August." private="true" order="13"/>
+		</struct>
+		<struct label="September" order="09">
+			<view file="edoc_wd_1765-09-04" label="Rom 5. Aug." private="true" order="5"/>
+			<view file="edoc_wd_1765-09-07" label="Londen vom 23. Aug." private="true" order="23"/>
+		</struct>
+	</struct>
+</projectMD>

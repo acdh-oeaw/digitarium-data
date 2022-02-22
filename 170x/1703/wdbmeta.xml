@@ -1,0 +1,59 @@
+<?xml-model href="file:/home/dario/git/wdbmeta/wdbmeta.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<projectMD xmlns="https://github.com/dariok/wdbplus/wdbmeta" xml:id="jg1703">
+  <projectID pid="http://hdl.handle.net/21.11115/0000-000C-35E4-7">jg1703</projectID>
+  <titleData>
+    <title type="main">Wiennerisches Diarium – 1703</title>
+    <date>1703-08-08</date>
+    <date>1703-12-31</date>
+    <place ref="https://d-nb.info/gnd/4066009-6">Wien</place>
+    <language>de-Goth-AT</language>
+    <language>la</language>
+    <language>fr</language>
+    <language>it</language>
+    <type>Newspaper</type>
+  </titleData>
+  <metaData>
+    <contentGroup>
+      <content xml:id="originalImages">
+        <description>Original images</description>
+      </content>
+      <content xml:id="processedImages">
+        <description>Deskewed and otherwise processed images</description>
+      </content>
+      <content xml:id="fulltext">
+        <description>Proofread full text</description>
+      </content>
+    </contentGroup>
+    <involvement>
+      <org role="publisher disseminator editor" xml:id="oeaw" contribution="fulltext processedImages">Österreichische Akademie der Wissenschaften</org>
+      <org role="imageProvider" xml:id="oenb" contribution="originalImages">Österreichische Nationalbibliothek</org>
+    </involvement>
+    <legal>
+      <licence content="originalImages" href="http://anno.onb.ac.at/faq.htm">Original Images taken from the ANNO proced</licence>
+      <licence content="processedImages" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">Images deskewed and otherwise post-processed</licence>
+      <licence content="fulltext" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">High quality full text</licence>
+    </legal>
+  </metaData>
+  <files>
+    <file xml:id="edoc_wd_1703-08-08" path="08/1703-08-08.xml" date="2019-09-30T11:58:31.267Z" uuid="de79dd5a-902a-34f3-8100-24322337cc7f" pid="http://hdl.handle.net/21.11115/0000-000C-35F2-7"/>
+    <file xml:id="edoc_wd_1703-08-13" path="08/1703-08-13.xml" date="2019-09-30T11:58:31.268Z" uuid="279bbfaf-9a90-3058-b49a-4b046e27bbc1" pid="http://hdl.handle.net/21.11115/0000-000C-35F3-6"/>
+    <file xml:id="edoc_wd_1703-08-17" path="08/1703-08-17.xml" date="2019-09-30T11:58:31.269Z" uuid="254cb057-059b-32c0-93f3-09ae53e854a7" pid="http://hdl.handle.net/21.11115/0000-000C-35F4-5"/>
+    <file xml:id="edoc_wd_1703-08-20" path="08/1703-08-20.xml" date="2019-09-30T11:58:31.27Z" uuid="82170bca-0d92-35ad-bb1e-bad9b4495cb9" pid="http://hdl.handle.net/21.11115/0000-000C-35F5-4"/>
+    <file xml:id="edoc_wd_1703-11-19" path="11/1703-11-19.xml" date="2019-09-30T11:58:31.271Z" uuid="530a8b46-40e9-3148-be1b-26238ca92ecc" pid="http://hdl.handle.net/21.11115/0000-000C-35F6-3"/>
+  </files>
+  <process target="html">
+    <command type="xsl">/db/apps/edoc/data/xslt/tei-transcript.xsl</command>
+  </process>
+  <struct label="1703" order="1703">
+    <import path="../wdbmeta.xml"/>
+    <struct label="August" order="08">
+      <view file="edoc_wd_1703-08-13" label="Nr. 2, 8.–11. August 1703" order="2"/>
+      <view file="edoc_wd_1703-08-08" label="Nr. 1, [2.–7. August 1703]" order="1"/>
+      <view file="edoc_wd_1703-08-17" label="Nr. 3, 11.–15. August 1703" order="3"/>
+      <view file="edoc_wd_1703-08-20" label="Nr. 4, 15.–18. August 1703" order="4"/>
+    </struct>
+    <struct label="November" order="11">
+      <view file="edoc_wd_1703-11-19" label="Nr. 30, 14.–15. November 1703" order="30"/>
+    </struct>
+    </struct>
+</projectMD>

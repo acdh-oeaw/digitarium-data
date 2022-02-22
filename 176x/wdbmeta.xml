@@ -1,0 +1,64 @@
+<projectMD xmlns="https://github.com/dariok/wdbplus/wdbmeta"
+	xmlns:meta="https://github.com/dariok/wdbplus/wdbmeta"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="https://github.com/dariok/wdbplus/wdbmeta https://raw.githubusercontent.com/dariok/wdbmeta/master/wdbmeta.xsd"
+	xml:id="jg176x">
+	<projectID>jg176x</projectID>
+	<titleData>
+		<title>Wien[n]erisches Diarium – 1760er Jahre</title>
+		<date>1760-01-01</date>
+		<date>1769-12-31</date>
+		<place ref="https://d-nb.info/gnd/4066009-6">Wien</place>
+		<language>de-Goth-AT</language>
+		<language>la</language>
+		<language>fr</language>
+		<language>it</language>
+		<type>Newspaper</type>
+	</titleData>
+	<metaData>
+		<contentGroup>
+			<content xml:id="originalImages">
+				<description>Original images</description>
+			</content>
+			<content xml:id="processedImages">
+				<description>Deskewed and otherwise processed images</description>
+			</content>
+			<content xml:id="fulltext">
+				<description>Proofread full text</description>
+			</content>
+		</contentGroup>
+		<involvement>
+			<org role="publisher disseminator editor" xml:id="oeaw" contribution="fulltext processedImages">Österreichische Akademie der Wissenschaften</org>
+			<org role="imageProvider" xml:id="oenb" contribution="originalImages">Österreichische Nationalbibliothek</org>
+		</involvement>
+		<legal>
+			<licence content="originalImages" href="http://anno.onb.ac.at/faq.htm">Original Images taken from the ANNO proced</licence>
+			<licence content="processedImages">Images deskewed and otherwise post-processed</licence>
+			<licence content="fulltext" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">High quality full text</licence>
+		</legal>
+	</metaData>
+	<files>
+		<ptr path="1760/wdbmeta.xml" xml:id="jg1760"/>
+		<ptr path="1761/wdbmeta.xml" xml:id="jg1761"/>
+		<ptr path="1762/wdbmeta.xml" xml:id="jg1762"/>
+		<ptr path="1763/wdbmeta.xml" xml:id="jg1763"/>
+		<ptr path="1764/wdbmeta.xml" xml:id="jg1764"/>
+		<ptr path="1765/wdbmeta.xml" xml:id="jg1765"/>
+		<ptr path="1766/wdbmeta.xml" xml:id="jg1766"/>
+		<ptr path="1767/wdbmeta.xml" xml:id="jg1767"/>
+		<ptr path="1768/wdbmeta.xml" xml:id="jg1768"/>
+		<ptr path="1769/wdbmeta.xml" xml:id="jg1769"/>
+	</files>
+	<process target="html">
+		<command type="xsl">xmldb:///db/apps/edoc/data/xslt/tei-transcript.xsl</command>
+	</process>
+	<struct label="176x">
+		<import path="../wdbmeta.xml"/>
+		<struct file="jg1760" label="1760" order="0"/>
+		<struct file="jg1765" label="1765" order="5"/>
+		<struct file="jg1768" label="1768" order="8"/>
+		<struct file="jg1761" label="1761" order="1"/>
+		<struct file="jg1764" label="1764" order="4"/>
+		<struct file="jg1766" label="1766" order="6"/>
+	</struct>
+</projectMD>

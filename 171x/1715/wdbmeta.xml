@@ -1,0 +1,58 @@
+<projectMD xmlns="https://github.com/dariok/wdbplus/wdbmeta" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="https://github.com/dariok/wdbplus/wdbmeta https://raw.githubusercontent.com/dariok/wdbmeta/master/wdbmeta.xsd" xml:id="jg1715">
+	<projectID>jg1715</projectID>
+	<titleData>
+		<title>Wien[n]erisches Diarium – 1715</title>
+		<date>1715-01-01</date>
+		<date>1715-12-31</date>
+		<place ref="https://d-nb.info/gnd/4066009-6">Wien</place>
+		<language>de-Goth-AT</language>
+		<language>la</language>
+		<language>fr</language>
+		<language>it</language>
+		<type>Newspaper</type>
+	</titleData>
+	<metaData>
+		<contentGroup>
+			<content xml:id="originalImages">
+				<description>Original images</description>
+			</content>
+			<content xml:id="processedImages">
+				<description>Deskewed and otherwise processed images</description>
+			</content>
+			<content xml:id="fulltext">
+				<description>Proofread full text</description>
+			</content>
+		</contentGroup>
+		<involvement>
+			<org role="publisher disseminator editor" xml:id="oeaw" contribution="fulltext processedImages">Österreichische Akademie der Wissenschaften</org>
+			<org role="imageProvider" xml:id="oenb" contribution="originalImages">Österreichische Nationalbibliothek</org>
+		</involvement>
+		<legal>
+			<licence content="originalImages" href="http://anno.onb.ac.at/faq.htm">Original Images taken from the ANNO proced</licence>
+			<licence content="processedImages">Images deskewed and otherwise post-processed</licence>
+			<licence content="fulltext" href="https://creativecommons.org/licenses/by-sa/4.0/legalcode.de">High quality full text</licence>
+		</legal>
+	</metaData>
+	<files>
+		<file path="06/1715-06-22.xml" xml:id="edoc_wd_1715-06-22" uuid="244d20f6-1926-33ba-ae8b-52584f2eed4d" date="2018-06-14T09:37:22.533Z"/>
+		<file path="07/1715-07-03.xml" xml:id="edoc_wd_1715-07-03" uuid="2d72a8a5-a88a-3ba3-a010-a3bedc160e65" date="2018-06-14T09:37:41.375Z"/>
+		<file path="07/1715-07-06.xml" xml:id="edoc_wd_1715-07-06" uuid="ce27a184-7628-311e-a380-4b69cfc684f7" date="2018-06-14T09:38:00.641Z"/>
+		<file path="07/1715-07-10.xml" xml:id="edoc_wd_1715-07-10" uuid="e99dec1e-a882-3690-975a-8860fa02b2fd" date="2018-06-14T09:38:20.044Z"/>
+		<file path="07/1715-07-13.xml" xml:id="edoc_wd_1715-07-13" uuid="5dd2e8a0-312f-32c0-89bc-269dc4988d3b" date="2018-06-14T09:38:39.271Z"/>
+	</files>
+	<process target="html">
+		<command type="xsl">/db/apps/edoc/data/xslt/tei-transcript.xsl</command>
+	</process>
+	<struct label="1715" order="1715">
+		<import path="../wdbmeta.xml"/>
+		<struct label="Juni" order="06">
+			<view file="edoc_wd_1715-06-22" label="Num. 1240." private="true" order="1240"/>
+		</struct>
+		<struct label="Juli" order="07">
+			<view file="edoc_wd_1715-07-03" label="Num. 1243." private="true" order="1243"/>
+			<view file="edoc_wd_1715-07-06" label="Nuo. 12. 44" private="true" order="12"/>
+			<view file="edoc_wd_1715-07-10" label="Num. 1245." private="true" order="1245"/>
+			<view file="edoc_wd_1715-07-13" label="Num. 12. | 6. enr,gesM urin, Enlhaltendallehadjenigelwuas von Tog zu Cesn. in dieser Mesdenz=GtadtWsen enewürdigeo, und h zugelragenz; Als auch, was dergleichen n hicyslch aellda eieg.n sait enen Auhong jedermalige Verzei uust: istlnh deen tä lich a. = menden Zweyen diren n und vor dritat getaunssen ader: Dten deren Verehlichten und Verdtenw deen versierhsaen Pesonen. Mit Jhrer Rönmisch Maiserlichen asestätallergnädigster eyheit, u sandenim roten gal." private="true" order="12"/>
+		</struct>
+	</struct>
+</projectMD>
