@@ -4115,7 +4115,7 @@
                             <tei:w xml:id="w4607">NB</tei:w>
                             <tei:pc xml:id="w4608">.</tei:pc>
                         </tei:hi> </tei:head>
-					<tei:p xml:id="p44" rendition="#l" facs="#facs_7_TextRegion_1512585277475_15">
+					<tei:p xml:id="p44a" rendition="#l" facs="#facs_7_TextRegion_1512585277475_15">
 						<tei:lb xml:id="z614a" facs="#facs_7_tl_36"/>
                         <tei:w xml:id="w4609">Bey</tei:w> <tei:w xml:id="w4610">mir</tei:w> <tei:w xml:id="w4611">Johann</tei:w> <tei:w xml:id="w4612">Peter</tei:w> <tei:w xml:id="w4613">v</tei:w>
                         <tei:pc xml:id="w4614">.</tei:pc> <tei:w xml:id="w4615">Ghelen</tei:w> <tei:pc xml:id="w4616">/</tei:pc> <tei:w xml:id="w4617">ist</tei:w> <tei:w xml:id="w4618">der</tei:w> 
