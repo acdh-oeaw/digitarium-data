@@ -46,7 +46,7 @@
 			<zone rendition="TextRegion" subtype="header" xml:id="facs_1_region_1506388875590_2" points="21,356 200,356 200,452 21,452">
 					<zone rendition="Line" xml:id="facs_1_line_1506388995198_8" points="33,390 183,390 183,441 33,441"/>
 				</zone>
-			<zone rendition="TextRegion" subtype="headaer" xml:id="facs_1_region_1506388877245_3" points="1856,372 2026,372 2026,472 1856,472">
+			<zone rendition="TextRegion" subtype="header" xml:id="facs_1_region_1506388877245_3b" points="1856,372 2026,372 2026,472 1856,472">
 					<zone rendition="Line" xml:id="facs_1_line_1506388998229_9" points="1879,405 2021,405 2021,459 1879,459"/>
 				</zone>
 			<zone rendition="TextRegion" subtype="header" xml:id="facs_1_region_1506497153573_6" points="222,590 761,590 761,857 222,857">
@@ -2143,7 +2143,7 @@
 				<fw xml:id="fw1" facs="#facs_1_region_1506388870747_1" type="pageNum" rendition="#fc">
 						<lb xml:id="z1" facs="#facs_1_line_1506388992417_7"/><w xml:id="w1">1705</w> </fw><div xml:id="d1"/><docTitle><titlePart xml:id="tit1" facs="#facs_1_region_1506388875590_2" rendition="#l">
 						<lb xml:id="z2" facs="#facs_1_line_1506388995198_8"/><w xml:id="w2">Nro</w><pc xml:id="w3">.</pc> </titlePart><titlePart xml:id="tit2" facs="#facs_1_region_1506497153573_6" rendition="#lc">
-						<lb xml:id="z3" facs="#facs_1_line_1506497166541_8"/><w xml:id="w4">Mit</w> <w xml:id="w5">k</w><pc xml:id="w6">.</pc> <w xml:id="w7">k</w><pc xml:id="w8">.</pc> <w xml:id="w9">allergnä</w> </titlePart></docTitle><fw xml:id="fw2" facs="#facs_1_region_1506388877245_3" rendition="#rr"><zone points="1856,372 2026,372 2026,472 1856,472" rendition="TextRegion" subtype="headaer" xml:id="facs_1_region_1506388877245_3"> <zone points="1880,405 2021,409 2020,459 1879,455" rendition="Line" xml:id="facs_1_line_1506388998229_9"/> </zone></fw>
+						<lb xml:id="z3" facs="#facs_1_line_1506497166541_8"/><w xml:id="w4">Mit</w> <w xml:id="w5">k</w><pc xml:id="w6">.</pc> <w xml:id="w7">k</w><pc xml:id="w8">.</pc> <w xml:id="w9">allergnä</w> </titlePart></docTitle><fw xml:id="fw2" facs="#facs_1_region_1506388877245_3a" rendition="#rr"><zone points="1856,372 2026,372 2026,472 1856,472" rendition="TextRegion" subtype="header" xml:id="facs_1_region_1506388877245_3"> <zone points="1880,405 2021,409 2020,459 1879,455" rendition="Line" xml:id="facs_1_line_1506388998229_9"/> </zone></fw>
 				</titlePage>
 		</front>
 		<body>
