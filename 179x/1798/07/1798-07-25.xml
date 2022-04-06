@@ -2635,7 +2635,7 @@
 						<lb xml:id="z1" facs="#facs_1_r_7_1l2"/><w xml:id="w1">2215</w></fw><fw rendition="#f" xml:id="fw2"><milestone type="separator" rend="horizontal" unit="section" rendition="#f"/></fw><docTitle><titlePart xml:id="tit1" facs="#facs_1_TextRegion_1517737075301_1" rendition="#f">
 						<lb xml:id="z2" facs="#facs_1_line_1517737104921_2"/><hi style="font-family: Antiqua;"><w xml:id="w2">Nro</w><pc xml:id="w3">.</pc> <w xml:id="w4">59</w><pc xml:id="w5">.</pc></hi></titlePart><titlePart xml:id="tit2" type="main" facs="#facs_1_region_1515169866744_329" rendition="#fc">
 						<lb xml:id="z3" facs="#facs_1_line_1515170136279_332"/><w xml:id="w6">Wiener</w> <w xml:id="w7">Zeitung</w><pc xml:id="w8">.</pc></titlePart><titlePart xml:id="tit3" facs="#facs_1_r_3_1" rendition="#fc">
-						<lb xml:id="z4" facs="#facs_1_r_3_1l1"/><w xml:id="w9">Mittewoche</w><pc xml:id="w10">,</pc> <w xml:id="w11">den</w> <w xml:id="w12">25</w><pc xml:id="w13">.</pc> <w xml:id="w14">Julius</w> <w xml:id="w15">1798</w><pc xml:id="w16">.</pc></titlePart></docTitle><fw xml:id="fw2" facs="#facs_1_r_2" rendition="#f"><figure type="graphic" facs="#facs_1_r_2"/></fw>
+						<lb xml:id="z4" facs="#facs_1_r_3_1l1"/><w xml:id="w9">Mittewoche</w><pc xml:id="w10">,</pc> <w xml:id="w11">den</w> <w xml:id="w12">25</w><pc xml:id="w13">.</pc> <w xml:id="w14">Julius</w> <w xml:id="w15">1798</w><pc xml:id="w16">.</pc></titlePart></docTitle><fw xml:id="fw2a" facs="#facs_1_r_2" rendition="#f"><figure type="graphic" facs="#facs_1_r_2"/></fw>
 				</titlePage>
 		</front>
 		<body>
@@ -2693,7 +2693,7 @@
 						<w xml:id="w304">un<pc xml:id="w305">=</pc><lb xml:id="z45" facs="#facs_1_r_6_1l20"/>parteische</w> <w xml:id="w306">Geschichte</w> <w xml:id="w307">wird</w> <w xml:id="w308">ihn</w> <w xml:id="w309"><choice><orig>ungezwei</orig><reg>ungezweifelt</reg></choice></w><pc xml:id="w310">=</pc></p></div>
 				</div>
 			<div type="page" n="2">
-					<pb xml:id="pag2" n="2" facs="#"/><fw xml:id="fw3" facs="#facs_2_r_1_1" type="pageNum" rendition="#fc">
+					<pb xml:id="pag2" n="2" facs="#"/><fw xml:id="fw3a" facs="#facs_2_r_1_1" type="pageNum" rendition="#fc">
 						<lb xml:id="z46" facs="#facs_2_r_1_1l1"/><w xml:id="w311">2216</w></fw><div xml:id="d5">
 						<milestone type="separator" rend="horizontal" unit="section" rendition="#f"/>
 					<p xml:id="p8" rendition="#l" facs="#facs_2_TextRegion_1515170216815_333">
@@ -3466,7 +3466,7 @@
 				</div>
 			<div type="page" n="9">
 					<pb xml:id="pag9" n="9" facs="#"/><fw xml:id="fw10" facs="#facs_9_r_1_1" type="pageNum" rendition="#fc">
-						<lb xml:id="z721" facs="#facs_9_r_1_1l1"/><w xml:id="w4833">2223</w> </fw><fw xml:id="fw11" facs="#facs_9_r_2_1" type="main" rendition="#fc"><fw rendition="#f" xml:id="fw2"><milestone type="separator" rend="horizontal" unit="section" rendition="#f"/></fw><lb xml:id="z722" facs="#facs_9_r_2_1l1"/><w xml:id="w4834">Anhang</w> <w xml:id="w4835">zur</w><pc xml:id="w4836">,</pc> <w xml:id="w4837">Wiener</w><pc xml:id="w4838">=</pc><w xml:id="w4839">Zeitung</w> <hi style="font-family: Antiqua;"><w xml:id="w4840">Nro</w></hi><pc xml:id="w4841">.</pc> <w xml:id="w4842">59</w><pc xml:id="w4843">.</pc> <w xml:id="w4844">1798</w><pc xml:id="w4845">.</pc></fw><div xml:id="d27">
+						<lb xml:id="z721" facs="#facs_9_r_1_1l1"/><w xml:id="w4833">2223</w> </fw><fw xml:id="fw11" facs="#facs_9_r_2_1" type="main" rendition="#fc"><fw rendition="#f" xml:id="fw2b"><milestone type="separator" rend="horizontal" unit="section" rendition="#f"/></fw><lb xml:id="z722" facs="#facs_9_r_2_1l1"/><w xml:id="w4834">Anhang</w> <w xml:id="w4835">zur</w><pc xml:id="w4836">,</pc> <w xml:id="w4837">Wiener</w><pc xml:id="w4838">=</pc><w xml:id="w4839">Zeitung</w> <hi style="font-family: Antiqua;"><w xml:id="w4840">Nro</w></hi><pc xml:id="w4841">.</pc> <w xml:id="w4842">59</w><pc xml:id="w4843">.</pc> <w xml:id="w4844">1798</w><pc xml:id="w4845">.</pc></fw><div xml:id="d27">
 					<head xml:id="hl11" rendition="#fc" facs="#facs_9_TextRegion_1517737524498_11">
 						<lb xml:id="z723" facs="#facs_9_TextRegion_1517737524498_11l1"/><w xml:id="w4846">Niederösterreich</w><pc xml:id="w4847">=</pc><w xml:id="w4848">Ständische</w> <w xml:id="w4849">Classen</w><pc xml:id="w4850">=</pc><w xml:id="w4851">Lotterie</w><pc xml:id="w4852">.</pc>
 						<lb xml:id="z724" facs="#facs_9_TextRegion_1517737524498_11l2"/><w xml:id="w4853">Errichtet</w> <w xml:id="w4854">und</w> <w xml:id="w4855">kundgemacht</w> <w xml:id="w4856">Kraft</w> <w xml:id="w4857">Ständischen</w> <w xml:id="w4858">Patents</w> <w xml:id="w4859">vom</w> <w xml:id="w4860">31</w><pc xml:id="w4861">.</pc> <w xml:id="w4862">Jänner</w> <w xml:id="w4863">1795</w><pc xml:id="w4864">.</pc></head></div>
