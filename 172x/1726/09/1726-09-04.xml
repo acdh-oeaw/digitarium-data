@@ -8352,7 +8352,7 @@
                                     <pc xml:id="w9431">.</pc> <w xml:id="w9432">Schein</w>
                                     <pc xml:id="w9433">=</pc>
                                     <w xml:id="w9434">Zeug</w> <w xml:id="w9435">mit</w> <w xml:id="w9436">der</w> <w xml:id="w9437">Zugehör</w>
-                                    <pc xml:id="w9438">.</pc> <cell xml:id="cell425"> <w xml:id="w9439">28</w>
+                                    <pc xml:id="w9438">.</pc> <cell xml:id="cell426"> <w xml:id="w9439">28</w>
                                         <pc xml:id="w9440">-</pc>
                                         <w xml:id="w9441">39</w>
                                     </cell> <w xml:id="w9442">28</w>
@@ -8365,7 +8365,7 @@
                             <cell xml:id="cell427">
 						<lb xml:id="z1118" facs="#facs_12_r_1_41l1"/>
                                 <unclear>
-                                    <w xml:id="w9445">9812</w> <cell xml:id="cell427"> <w xml:id="w9446">2</w> <w xml:id="w9447">Leffel</w>
+                                    <w xml:id="w9445">9812</w> <cell xml:id="cell428"> <w xml:id="w9446">2</w> <w xml:id="w9447">Leffel</w>
                                         <pc xml:id="w9448">.</pc>
                                     </cell> <w xml:id="w9449">2</w> <w xml:id="w9450">Leffel</w>
                                     <pc xml:id="w9451">.</pc>
@@ -8379,7 +8379,7 @@
                             <cell xml:id="cell430">
 						<lb xml:id="z1119" facs="#facs_12_r_1_42l1"/>
                                 <unclear>
-                                    <w xml:id="w9455">9815</w> <cell xml:id="cell430"> <w xml:id="w9456">1</w> <w xml:id="w9457">Silb</w>
+                                    <w xml:id="w9455">9815</w> <cell xml:id="cell430a"> <w xml:id="w9456">1</w> <w xml:id="w9457">Silb</w>
                                         <pc xml:id="w9458">.</pc> <w xml:id="w9459">Gürtl</w> <pc xml:id="w9460">/</pc> <w xml:id="w9461">w</w>
                                         <pc xml:id="w9462">.</pc> <w xml:id="w9463">1</w>
                                         <pc xml:id="w9464">.</pc> <w xml:id="w9465">M</w>
@@ -8404,7 +8404,7 @@
                             <cell xml:id="cell433">
 						<lb xml:id="z1120" facs="#facs_12_r_1_42l2"/>
                                 <unclear>
-                                    <w xml:id="w9492">9819</w> <cell xml:id="cell433"> <w xml:id="w9493">Alrc</w> <w xml:id="w9494">Für</w>
+                                    <w xml:id="w9492">9819</w> <cell xml:id="cell433a"> <w xml:id="w9493">Alrc</w> <w xml:id="w9494">Für</w>
                                         <pc xml:id="w9495">=</pc>
                                         <w xml:id="w9496">Zeug</w>
                                         <pc xml:id="w9497">.</pc> </cell> <w xml:id="w9498">Alrc</w> <w xml:id="w9499">Für</w>
@@ -8423,7 +8423,7 @@
                             <cell xml:id="cell436">
 						<lb xml:id="z1121" facs="#facs_12_r_1_43l1"/>
                                 <unclear>
-                                    <w xml:id="w9509">9822</w> <cell xml:id="cell436"> <w xml:id="w9510">1</w>
+                                    <w xml:id="w9509">9822</w> <cell xml:id="cell436a"> <w xml:id="w9510">1</w>
                                         <pc xml:id="w9511">.</pc> <w xml:id="w9512">Led</w>
                                         <pc xml:id="w9513">.</pc> <w xml:id="w9514">Stein</w>
                                         <pc xml:id="w9515">.</pc> </cell> <w xml:id="w9516">1</w>
@@ -8442,7 +8442,7 @@
                             <cell xml:id="cell439">
 						<lb xml:id="z1122" facs="#facs_12_line_1532366779786_364"/>
                                 <unclear>
-                                    <w xml:id="w9528">9823</w> <cell xml:id="cell439"> <w xml:id="w9529">1</w> <w xml:id="w9530">Zeig</w>
+                                    <w xml:id="w9528">9823</w> <cell xml:id="cell439a"> <w xml:id="w9529">1</w> <w xml:id="w9530">Zeig</w>
                                         <pc xml:id="w9531">.</pc> <w xml:id="w9532">Heng</w> <w xml:id="w9533">Feder</w>
                                         <pc xml:id="w9534">=</pc>
                                         <w xml:id="w9535">Uhr</w>
@@ -8472,7 +8472,7 @@
                             <cell xml:id="cell444">
 						<lb xml:id="z1124" facs="#facs_12_line_1532366800173_365"/>
                                 <unclear>
-                                    <w xml:id="w9555">9836</w> <cell xml:id="cell444"> <hi style="font-family: Antiqua;">
+                                    <w xml:id="w9555">9836</w> <cell xml:id="cell444a"> <hi style="font-family: Antiqua;">
                                             <w xml:id="w9556">Div</w>
                                             <pc xml:id="w9557">.</pc>
                                         </hi> <w xml:id="w9558">Wäsch</w>
@@ -8493,7 +8493,7 @@
                             <cell xml:id="cell447">
 						<lb xml:id="z1125" facs="#facs_12_line_1532366812005_366"/>
                                 <unclear>
-                                    <w xml:id="w9570">9871</w> <cell xml:id="cell447"> <w xml:id="w9571">1</w> <hi style="font-family: Antiqua;">
+                                    <w xml:id="w9570">9871</w> <cell xml:id="cell447a"> <w xml:id="w9571">1</w> <hi style="font-family: Antiqua;">
                                             <w xml:id="w9572">Manto</w>
                                             <pc xml:id="w9573">,</pc>
                                         </hi> <w xml:id="w9574">5</w>
@@ -8516,7 +8516,7 @@
                             <cell xml:id="cell450">
 						<lb xml:id="z1126" facs="#facs_12_r_1_48l1"/>
                                 <unclear>
-                                    <w xml:id="w9593">9877</w> <cell xml:id="cell450"> <w xml:id="w9594">1</w> <w xml:id="w9595">Rok</w> <pc xml:id="w9596">/</pc> <w xml:id="w9597">1</w>
+                                    <w xml:id="w9593">9877</w> <cell xml:id="cell450a"> <w xml:id="w9594">1</w> <w xml:id="w9595">Rok</w> <pc xml:id="w9596">/</pc> <w xml:id="w9597">1</w>
                                         <pc xml:id="w9598">.</pc> <w xml:id="w9599">Veste</w> <pc xml:id="w9600">/</pc> <w xml:id="w9601">2</w>
                                         <pc xml:id="w9602">.</pc> <w xml:id="w9603">Leilacher</w>
                                         <pc xml:id="w9604">.</pc> </cell> <w xml:id="w9605">1</w> <w xml:id="w9606">Rok</w> <pc xml:id="w9607">/</pc> <w xml:id="w9608">1</w>
