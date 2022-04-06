@@ -1648,7 +1648,7 @@
 	            <pb xml:id="pag2" n="2" facs="#"/>
 	            <fw xml:id="fw8" facs="#facs_2_r_2_1" type="pageNum" rendition="#fc">           
 						<lb xml:id="z76" facs="#facs_2_tl_1"/>
-	                <w xml:id="w438">2</w> 
+	                <w xml:id="w438a">2</w> 
 	            </fw> 
 	            <fw xml:id="fw9" rendition="#f"><milestone type="separator" rend="horizontal" unit="section" rendition="#f"/> 
 	            </fw>
