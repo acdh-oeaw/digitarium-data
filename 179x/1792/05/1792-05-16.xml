@@ -5748,7 +5748,7 @@
                         <pc xml:id="w24">.</pc>
                     </titlePart>
                 </docTitle>
-                <fw xml:id="fw2" facs="#facs_1_region_1540731977600_5" rendition="#fc">
+                <fw xml:id="fw2a" facs="#facs_1_region_1540731977600_5" rendition="#fc">
 					<p xml:id="p4" rendition="#fc" facs="#facs_1_region_1540731977600_5">
 						<lb xml:id="z6" facs="#facs_1_line_1540731977767_6"/>
                         <w xml:id="w7">Mit</w> <w xml:id="w8">allergnä</w> <w xml:id="w9">digster</w> <w xml:id="w10">Freiheit</w>
@@ -5764,7 +5764,7 @@
                         </hi>
                     </p>
                 </fw>
-								<fw rendition="#f" xml:id="fw2"><milestone type="separator" rend="horizontal" unit="section" rendition="#f"/></fw>
+								<fw rendition="#f" xml:id="fw2b"><milestone type="separator" rend="horizontal" unit="section" rendition="#f"/></fw>
 				</titlePage>
 		</front>
 		<body>
