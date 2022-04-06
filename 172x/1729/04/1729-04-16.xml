@@ -4096,10 +4096,10 @@
                     </tei:lg>
 					<tei:p rendition="#lr" xml:id="p43">
                         <tei:hi style="font-family: Antiqua;">
-                            <tei:lb xml:id="z611" facs="#facs_7_tl_33"/>
+                            <tei:lb xml:id="z611a" facs="#facs_7_tl_33"/>
                             <tei:w xml:id="w4591">Ita</tei:w> <tei:w xml:id="w4592">canit</tei:w> <tei:w xml:id="w4593">Divi</tei:w> <tei:w xml:id="w4594">Joannis</tei:w> <tei:w xml:id="w4595">Nep</tei:w>
                             <tei:pc xml:id="w4596">.</tei:pc> <tei:w xml:id="w4597">infimus</tei:w> <tei:w xml:id="w4598">venerator</tei:w>
-						<tei:lb xml:id="z612" facs="#facs_7_tl_34"/>
+						<tei:lb xml:id="z612a" facs="#facs_7_tl_34"/>
                             <tei:w xml:id="w4599">Franciscus</tei:w> <tei:w xml:id="w4600">Pankl</tei:w>
                             <tei:pc xml:id="w4601">,</tei:pc> <tei:w xml:id="w4602">Presb</tei:w>
                             <tei:pc xml:id="w4603">.</tei:pc> <tei:w xml:id="w4604">Poëta</tei:w> <tei:w xml:id="w4605">Laur</tei:w>
@@ -4110,41 +4110,41 @@
 				<tei:div xml:id="d31">
 					<tei:milestone type="separator" rend="horizontal" unit="section" rendition="#l"/>
 					<tei:head xml:id="hl21" rendition="#lc" facs="#facs_7_r_2_1">
-						<tei:lb xml:id="z613" facs="#facs_7_tl_35"/>
+						<tei:lb xml:id="z613a" facs="#facs_7_tl_35"/>
                         <tei:hi style="font-family: Antiqua;">
                             <tei:w xml:id="w4607">NB</tei:w>
                             <tei:pc xml:id="w4608">.</tei:pc>
                         </tei:hi> </tei:head>
 					<tei:p xml:id="p44" rendition="#l" facs="#facs_7_TextRegion_1512585277475_15">
-						<tei:lb xml:id="z614" facs="#facs_7_tl_36"/>
+						<tei:lb xml:id="z614a" facs="#facs_7_tl_36"/>
                         <tei:w xml:id="w4609">Bey</tei:w> <tei:w xml:id="w4610">mir</tei:w> <tei:w xml:id="w4611">Johann</tei:w> <tei:w xml:id="w4612">Peter</tei:w> <tei:w xml:id="w4613">v</tei:w>
                         <tei:pc xml:id="w4614">.</tei:pc> <tei:w xml:id="w4615">Ghelen</tei:w> <tei:pc xml:id="w4616">/</tei:pc> <tei:w xml:id="w4617">ist</tei:w> <tei:w xml:id="w4618">der</tei:w> 
-						<tei:lb xml:id="z615" facs="#facs_7_tl_37"/>
+						<tei:lb xml:id="z615a" facs="#facs_7_tl_37"/>
                         <tei:w xml:id="w4619">neu</tei:w>
                         <tei:pc xml:id="w4620">=</tei:pc>
                         <tei:w xml:id="w4621">verbesserte</tei:w> <tei:hi style="font-family: Antiqua;">
                             <tei:w xml:id="w4622">Plan</tei:w>
                         </tei:hi> <tei:w xml:id="w4623">von</tei:w> <tei:w xml:id="w4624">der</tei:w> <tei:w xml:id="w4625">Königlichen</tei:w> 
-						<tei:lb xml:id="z616" facs="#facs_7_tl_38"/>
+						<tei:lb xml:id="z616a" facs="#facs_7_tl_38"/>
                         <tei:hi style="font-family: Antiqua;">
                             <tei:w xml:id="w4626">Lotterie</tei:w>
                             <tei:pc xml:id="w4627">,</tei:pc>
                         </tei:hi> <tei:w xml:id="w4628">welche</tei:w> <tei:w xml:id="w4629">in</tei:w> <tei:w xml:id="w4630">denen</tei:w> <tei:w xml:id="w4631">Oesterreichischen</tei:w> 
-						<tei:lb xml:id="z617" facs="#facs_7_tl_39"/>
+						<tei:lb xml:id="z617a" facs="#facs_7_tl_39"/>
                         <tei:w xml:id="w4632">Niederlanden</tei:w> <tei:w xml:id="w4633">mit</tei:w> <tei:hi style="font-family: Antiqua;">
                             <tei:w xml:id="w4634">Privilegio</tei:w>
                         </tei:hi> <tei:w xml:id="w4635">Jhro</tei:w> <tei:w xml:id="w4636">Römisch</tei:w>
                         <tei:pc xml:id="w4637">=</tei:pc>
-						<tei:lb xml:id="z618" facs="#facs_7_tl_40"/>
+						<tei:lb xml:id="z618a" facs="#facs_7_tl_40"/>
                         <tei:w xml:id="w4638">Kaiserl</tei:w>
                         <tei:pc xml:id="w4639">.</tei:pc> <tei:w xml:id="w4640">und</tei:w> <tei:w xml:id="w4641">Catholischen</tei:w> <tei:w xml:id="w4642">Majestät</tei:w> 
 						<tei:w xml:id="w4643">aufge<tei:pc xml:id="w4644">=</tei:pc>
-                            <tei:lb xml:id="z619" facs="#facs_7_tl_41"/>richtet</tei:w> <tei:w xml:id="w4645">worden</tei:w> <tei:pc xml:id="w4646">/</tei:pc> <tei:w xml:id="w4647">und</tei:w> <tei:w xml:id="w4648">die</tei:w> <tei:w xml:id="w4649">ohne</tei:w> <tei:w xml:id="w4650">weiterem</tei:w> 
+                            <tei:lb xml:id="z619a" facs="#facs_7_tl_41"/>richtet</tei:w> <tei:w xml:id="w4645">worden</tei:w> <tei:pc xml:id="w4646">/</tei:pc> <tei:w xml:id="w4647">und</tei:w> <tei:w xml:id="w4648">die</tei:w> <tei:w xml:id="w4649">ohne</tei:w> <tei:w xml:id="w4650">weiterem</tei:w> 
 						<tei:w xml:id="w4651">Auf<tei:pc xml:id="w4652">=</tei:pc>
-                            <tei:lb xml:id="z620" facs="#facs_7_tl_42"/>schub</tei:w> <tei:w xml:id="w4653">auf</tei:w> <tei:w xml:id="w4654">den</tei:w> <tei:w xml:id="w4655">nechstkünftigen</tei:w> <tei:w xml:id="w4656">20sten</tei:w> <tei:w xml:id="w4657">Junii</tei:w> 
-						<tei:lb xml:id="z621" facs="#facs_7_tl_43"/>
+                            <tei:lb xml:id="z620a" facs="#facs_7_tl_42"/>schub</tei:w> <tei:w xml:id="w4653">auf</tei:w> <tei:w xml:id="w4654">den</tei:w> <tei:w xml:id="w4655">nechstkünftigen</tei:w> <tei:w xml:id="w4656">20sten</tei:w> <tei:w xml:id="w4657">Junii</tei:w> 
+						<tei:lb xml:id="z621a" facs="#facs_7_tl_43"/>
                         <tei:w xml:id="w4658">zu</tei:w> <tei:w xml:id="w4659">Antwerpen</tei:w> <tei:w xml:id="w4660">solle</tei:w> <tei:w xml:id="w4661">anfangen</tei:w> <tei:w xml:id="w4662">gezogen</tei:w> <tei:w xml:id="w4663">zu</tei:w> 
-						<tei:lb xml:id="z622" facs="#facs_7_tl_44"/>
+						<tei:lb xml:id="z622a" facs="#facs_7_tl_44"/>
                         <tei:w xml:id="w4664">werden</tei:w> <tei:pc xml:id="w4665">/</tei:pc> <tei:hi style="font-family: Antiqua;">
                             <tei:w xml:id="w4666">gratis</tei:w>
                         </tei:hi> <tei:w xml:id="w4667">zu</tei:w> <tei:w xml:id="w4668">bekommen</tei:w>
@@ -4153,26 +4153,26 @@
 				<tei:div xml:id="d32">
 					<tei:milestone type="separator" rend="horizontal" unit="section" rendition="#l"/>
 					<tei:head xml:id="hl22" rendition="#l" facs="#facs_7_r_3_4">
-						<tei:lb xml:id="z623" facs="#facs_7_tl_45"/>
+						<tei:lb xml:id="z623a" facs="#facs_7_tl_45"/>
                         <tei:hi style="font-family: Antiqua;">
                             <tei:w xml:id="w4670">NB</tei:w>
                             <tei:pc xml:id="w4671">.</tei:pc>
                         </tei:hi> </tei:head>
 					<tei:p xml:id="p45" rendition="#l" facs="#facs_7_r_3_5">
-						<tei:lb xml:id="z624" facs="#facs_7_tl_46"/>
+						<tei:lb xml:id="z624a" facs="#facs_7_tl_46"/>
                         <tei:w xml:id="w4672">Es</tei:w> <tei:w xml:id="w4673">wird</tei:w> <tei:w xml:id="w4674">jedermänniglich</tei:w> <tei:w xml:id="w4675">zuwissen</tei:w> <tei:w xml:id="w4676">gemacht</tei:w> <tei:pc xml:id="w4677">/</tei:pc>
-						<tei:lb xml:id="z625" facs="#facs_7_tl_47"/>
+						<tei:lb xml:id="z625a" facs="#facs_7_tl_47"/>
                         <tei:w xml:id="w4678">daß</tei:w> <tei:w xml:id="w4679">übermorgen</tei:w> <tei:pc xml:id="w4680">/</tei:pc> <tei:w xml:id="w4681">als</tei:w> <tei:w xml:id="w4682">am</tei:w> <tei:w xml:id="w4683">Oster</tei:w>
                         <tei:pc xml:id="w4684">=</tei:pc>
                         <tei:w xml:id="w4685">Montag</tei:w> <tei:pc xml:id="w4686">/</tei:pc>
-						<tei:lb xml:id="z626" facs="#facs_7_tl_48"/>
+						<tei:lb xml:id="z626a" facs="#facs_7_tl_48"/>
                         <tei:w xml:id="w4687">den</tei:w> <tei:w xml:id="w4688">19den</tei:w> <tei:w xml:id="w4689">April</tei:w> <tei:w xml:id="w4690">1729</tei:w>
                         <tei:pc xml:id="w4691">.</tei:pc> <tei:w xml:id="w4692">wiederum</tei:w> <tei:w xml:id="w4693">bey</tei:w> 
 						<tei:w xml:id="w4694">Jo<tei:pc xml:id="w4695">=</tei:pc>
-                            <tei:lb xml:id="z627" facs="#facs_7_tl_49"/>hann</tei:w> <tei:w xml:id="w4696">Swoboda</tei:w> <tei:pc xml:id="w4697">/</tei:pc> <tei:w xml:id="w4698">Burgerlichen</tei:w> <tei:w xml:id="w4699">Stadt</tei:w>
+                            <tei:lb xml:id="z627a" facs="#facs_7_tl_49"/>hann</tei:w> <tei:w xml:id="w4696">Swoboda</tei:w> <tei:pc xml:id="w4697">/</tei:pc> <tei:w xml:id="w4698">Burgerlichen</tei:w> <tei:w xml:id="w4699">Stadt</tei:w>
                         <tei:pc xml:id="w4700">=</tei:pc>
                         <tei:w xml:id="w4701">Koch</tei:w> <tei:pc xml:id="w4702">/</tei:pc>
-						<tei:lb xml:id="z628" facs="#facs_7_tl_50"/>
+						<tei:lb xml:id="z628a" facs="#facs_7_tl_50"/>
                         <tei:w xml:id="w4703">auf</tei:w> <tei:w xml:id="w4704">dem</tei:w> <tei:w xml:id="w4705">Kohlmarkt</tei:w> <tei:pc xml:id="w4706">/</tei:pc> <tei:w xml:id="w4707">die</tei:w> <tei:w xml:id="w4708">gerechte</tei:w> <tei:w xml:id="w4709">
                             <tei:choice>
                                 <tei:orig>Kräuter</tei:orig>
@@ -4181,27 +4181,27 @@
                         </tei:w>
                         <tei:pc xml:id="w4710">=</tei:pc> </tei:p>
 					<tei:p xml:id="p46" rendition="#r" facs="#facs_7_TextRegion_1512585500714_16" rend="noindent">
-						<tei:lb xml:id="z629" facs="#facs_7_tl_51"/>
+						<tei:lb xml:id="z629a" facs="#facs_7_tl_51"/>
                         <tei:w xml:id="w4711">Suppen</tei:w> <tei:w xml:id="w4712">vor</tei:w> <tei:w xml:id="w4713">das</tei:w> <tei:w xml:id="w4714">erstemal</tei:w> <tei:w xml:id="w4715">wird</tei:w> <tei:w xml:id="w4716">ausgegeben</tei:w> 
-						<tei:lb xml:id="z630" facs="#facs_7_tl_52"/>
+						<tei:lb xml:id="z630a" facs="#facs_7_tl_52"/>
                         <tei:w xml:id="w4717">werden</tei:w>
                         <tei:pc xml:id="w4718">.</tei:pc> </tei:p>
                 </tei:div>
 				<tei:div xml:id="d33">
 					<tei:head xml:id="hl23" rendition="#rc" facs="#facs_7_r_5_1">
 						<tei:milestone type="separator" rend="horizontal" unit="section" rendition="#r"/>
-						<tei:lb xml:id="z631" facs="#facs_7_tl_53"/>
+						<tei:lb xml:id="z631a" facs="#facs_7_tl_53"/>
                         <tei:hi style="font-family: Antiqua;">
                             <tei:w xml:id="w4719">NB</tei:w>
                             <tei:pc xml:id="w4720">.</tei:pc>
                         </tei:hi> </tei:head>
 					<tei:p xml:id="p47" rendition="#r" facs="#facs_7_r_5_2">
-						<tei:lb xml:id="z632" facs="#facs_7_tl_54"/>
+						<tei:lb xml:id="z632a" facs="#facs_7_tl_54"/>
                         <tei:w xml:id="w4721">Den</tei:w> <tei:w xml:id="w4722">21sten</tei:w> <tei:w xml:id="w4723">dieses</tei:w> <tei:w xml:id="w4724">Monats</tei:w> <tei:w xml:id="w4725">Aprilis</tei:w> 
 						<tei:w xml:id="w4726">wer<tei:pc xml:id="w4727">=</tei:pc>
-                            <tei:lb xml:id="z633" facs="#facs_7_tl_55"/>den</tei:w> <tei:w xml:id="w4728">in</tei:w> <tei:w xml:id="w4729">dem</tei:w> <tei:w xml:id="w4730">Thomasischen</tei:w> <tei:w xml:id="w4731">Haus</tei:w> <tei:w xml:id="w4732">in</tei:w> <tei:w xml:id="w4733">der</tei:w> 
+                            <tei:lb xml:id="z633a" facs="#facs_7_tl_55"/>den</tei:w> <tei:w xml:id="w4728">in</tei:w> <tei:w xml:id="w4729">dem</tei:w> <tei:w xml:id="w4730">Thomasischen</tei:w> <tei:w xml:id="w4731">Haus</tei:w> <tei:w xml:id="w4732">in</tei:w> <tei:w xml:id="w4733">der</tei:w> 
 						<tei:w xml:id="w4734">O<tei:pc xml:id="w4735">=</tei:pc>
-                            <tei:lb xml:id="z634" facs="#facs_7_tl_56"/>bern</tei:w>
+                            <tei:lb xml:id="z634a" facs="#facs_7_tl_56"/>bern</tei:w>
                         <tei:pc xml:id="w4736">=</tei:pc>
                         <tei:w xml:id="w4737">Becker</tei:w>
                         <tei:pc xml:id="w4738">=</tei:pc>
