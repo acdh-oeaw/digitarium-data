@@ -5537,7 +5537,7 @@
                         <pc xml:id="w25">.</pc>
                     </titlePart>
                 </docTitle>
-                <fw xml:id="fw2" facs="#facs_1_TextRegion_1529185888131_165" rendition="#fc">
+                <fw xml:id="fw2a" facs="#facs_1_TextRegion_1529185888131_165" rendition="#fc">
 					<p xml:id="p4" rendition="#fc" facs="#facs_1_TextRegion_1529185888131_165">
 						<lb xml:id="z5" facs="#facs_1_line_1529185873920_162"/>
                         <w xml:id="w7">Mit</w> <w xml:id="w8">k</w>
@@ -5714,7 +5714,7 @@
 				</div>
 			<div type="page" n="2">
 					<pb xml:id="pag2" n="2" facs="#facs_2"/>
-                <fw xml:id="fw3" facs="#facs_2_r_1_1" type="pageNum" rendition="#fc">
+                <fw xml:id="fw3a" facs="#facs_2_r_1_1" type="pageNum" rendition="#fc">
 						<lb xml:id="z48" facs="#facs_2_r_1_1l1"/>
                     <w xml:id="w289">1676</w>
                 </fw>
