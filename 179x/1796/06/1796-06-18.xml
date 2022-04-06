@@ -5904,7 +5904,7 @@
 				</div>
 			<div type="page" n="2">
 					<pb xml:id="pag2" n="2" facs="#facs_2"/>
-                <fw xml:id="fw2" facs="#facs_2_r_1_1" type="pageNum" rendition="#fc">
+                <fw xml:id="fw2a" facs="#facs_2_r_1_1" type="pageNum" rendition="#fc">
 						<lb xml:id="z46" facs="#facs_2_r_1_1l3"/>
                     <w xml:id="w271">1784</w>
                 </fw>
