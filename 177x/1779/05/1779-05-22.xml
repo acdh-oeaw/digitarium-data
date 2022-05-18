@@ -3,18 +3,24 @@
         <fileDesc>
 			<titleStmt>
 				<title type="main">Wienerisches Diarium.</title>
-                <title type="num">Nr. 41, 6. Mai 1779</title>
+                <title type="num">Nr. 41, 22. Mai 1779</title>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>tranScriptorium</publisher>
+			    <publisher>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</publisher>
 			</publicationStmt>
-			<sourceDesc>
-				<bibl>
-                    <title>wd17790522</title>
-                    <publisher>TRP document creator: Dario.Kampkaspar@oeaw.ac.at</publisher>
-                    <date when="1779-05-22">1779-05-22</date>
-                </bibl>
-			</sourceDesc>
+            <sourceDesc default="false">
+                <biblStruct>
+                    <monogr>
+                        <idno/>
+                        <title>
+                            <date type="published" when="1779-05-22"/>
+                        </title>
+                        <imprint>
+                            <publisher>Johann Peter van Ghelen</publisher>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
 		</fileDesc>
         <encodingDesc>
             <listPrefixDef>
@@ -23,6 +29,11 @@
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
+        <revisionDesc status="draft">
+            <list>
+                <!--<item>bisher keine Korrektur</item>-->
+            </list>
+        </revisionDesc>
     </teiHeader>
     <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="1607" lry="2116">

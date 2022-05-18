@@ -91,7 +91,7 @@
 		</tei:profileDesc>
 		<tei:revisionDesc status="draft">
             <tei:list>
-                <tei:item>Korrektur 2019-10-15T13:03:22.94Z</tei:item>
+                <!--<tei:item>Korrektur 2019-10-15T13:03:22.94Z</tei:item>-->
             </tei:list>
         </tei:revisionDesc>
     </tei:teiHeader>

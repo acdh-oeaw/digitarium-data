@@ -2,7 +2,10 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-					<title type="main"> </title><title type="sub">Digitale Edition</title><title type="num">Nr. , 3. Oktober 1798</title><editor>Resch, Claudia</editor><editor>Kampkaspar, Dario</editor><funder>Austrian Academy of Sciences, go!digital 2.0</funder>
+					<title type="main"> </title>
+					<title type="sub">Digitale Edition</title>
+					<title type="num">Nr. 79, 3. Oktober 1798</title>
+					<editor>Resch, Claudia</editor><editor>Kampkaspar, Dario</editor><funder>Austrian Academy of Sciences, go!digital 2.0</funder>
 				</titleStmt>
 			<publicationStmt>
 					<publisher>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</publisher><pubPlace>Vienna, Austria</pubPlace><availability><licence>CC-By-SA 4.0 – https://creativecommons.org/licenses/by-sa/4.0/</licence></availability>

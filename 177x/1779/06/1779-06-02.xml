@@ -6,15 +6,21 @@
                 <title type="num">Nr. 44, 2. Juni 1779</title>
 			</titleStmt>
 			<publicationStmt>
-				<publisher>tranScriptorium</publisher>
+			    <publisher>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</publisher>
 			</publicationStmt>
-			<sourceDesc>
-				<bibl>
-                    <title>wd17790602</title>
-                    <publisher>TRP document creator: Dario.Kampkaspar@oeaw.ac.at</publisher>
-                    <date when="1779-06-02">1779-06-02</date>
-                </bibl>
-			</sourceDesc>
+            <sourceDesc default="false">
+                <biblStruct>
+                    <monogr>
+                        <idno/>
+                        <title>
+                            <date type="published" when="1779-06-02"/>
+                        </title>
+                        <imprint>
+                            <publisher>Johann Peter van Ghelen</publisher>
+                        </imprint>
+                    </monogr>
+                </biblStruct>
+            </sourceDesc>
 		</fileDesc>
         <encodingDesc>
             <listPrefixDef>
@@ -23,6 +29,11 @@
                 </prefixDef>
             </listPrefixDef>
         </encodingDesc>
+        <revisionDesc status="draft">
+            <list>
+                <!--<item>bisher keine Korrektur</item>-->
+            </list>
+        </revisionDesc>
     </teiHeader>
     <facsimile xml:id="facs_1">
 		<surface ulx="0" uly="0" lrx="1645" lry="2145">

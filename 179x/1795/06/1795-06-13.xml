@@ -9,9 +9,27 @@
 					<publisher>Austrian Centre for Digital Humanities, Austrian Academy of Sciences</publisher><pubPlace>Vienna, Austria</pubPlace><availability><licence>CC-By-SA 4.0 – https://creativecommons.org/licenses/by-sa/4.0/</licence></availability>
 				</publicationStmt>
 			<sourceDesc default="false">
-					<biblStruct><monogr><idno/><title/><imprint><publisher>Johann Peter van Ghelen</publisher></imprint></monogr><series><title>Wiennerisches Diarium –
-								<date when="1795">Jahrgang 1795</date></title></series><series><title>Wiener Zeitung</title></series></biblStruct><list><item xml:id="i1"/></list>
-				</sourceDesc>
+				<biblStruct>
+					<monogr>
+						<idno/>
+						<title>
+							<date type="published" when="1795-06-13"/>
+						</title>
+						<imprint>
+							<publisher>Johann Peter van Ghelen</publisher>
+						</imprint>
+					</monogr>
+					<series>
+						<title>Wiennerisches Diarium –
+							<date when="1795">Jahrgang 1795</date>
+						</title>
+					</series>
+					<series>
+						<title>Wiener Zeitung</title>
+					</series>
+				</biblStruct>
+				<list><item xml:id="i1"/></list>
+			</sourceDesc>
 		</fileDesc>
 		<encodingDesc>
 			<projectDesc>
