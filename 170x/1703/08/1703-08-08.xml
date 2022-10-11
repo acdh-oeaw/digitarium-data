@@ -1,4 +1,4 @@
-<?xml-model href="/exist/apps/edoc/data/schema/diarium.sch"?><?xml-model href="/exist/apps/edoc/data/schema/diarium.rnc"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edoc_wd_1703-08-08">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="/exist/apps/edoc/data/schema/diarium.sch"?><?xml-model href="/exist/apps/edoc/data/schema/diarium.rnc"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="edoc_wd_1703-08-08">
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
@@ -668,8 +668,7 @@
 				<docTitle>
 					<titlePart type="num" facs="#facs_1_r_1_1" rendition="#rr" xml:id="tit1">
 						<lb facs="#facs_1_tl_1" xml:id="z1"/>
-						<w xml:id="w1">Num</w><pc xml:id="w2">.</pc>
-						<w xml:id="w3">I</w><pc xml:id="w4">.</pc>
+						<w xml:id="w1">Num</w><pc xml:id="w2">.</pc> <w xml:id="w3">I</w><pc xml:id="w4">.</pc>
 					</titlePart>
 					<titlePart type="main" facs="#facs_1_r_3_1" rendition="#f" xml:id="tit2">
 						<lb facs="#facs_1_tl_3" xml:id="z2"/>
@@ -681,8 +680,7 @@
 						<w xml:id="w8">Enthaltend</w>
 						<lb facs="#facs_1_tl_5" xml:id="z4"/>
 						<w xml:id="w9">Alles</w>
-						<w xml:id="w10">Denckwürdige</w> <pc xml:id="w11">/</pc>
-						<w xml:id="w12">so</w>
+						<w xml:id="w10">Denckwürdige</w> <pc xml:id="w11">/</pc> <w xml:id="w12">so</w>
 						<w xml:id="w13">von</w>
 						<w xml:id="w14">Tag</w>
 						<w xml:id="w15">zu</w>
@@ -698,8 +696,7 @@
 						<lb facs="#facs_1_tl_7" xml:id="z6"/>
 						<w xml:id="w26">selbsten</w>
 						<w xml:id="w27">sich</w>
-						<w xml:id="w28">zugetragen</w> <pc xml:id="w29">/</pc>
-						<w xml:id="w30">als</w>
+						<w xml:id="w28">zugetragen</w> <pc xml:id="w29">/</pc> <w xml:id="w30">als</w>
 						<w xml:id="w31">auch</w>
 						<w xml:id="w32">von</w>
 						<w xml:id="w33">andern</w>
@@ -728,13 +725,11 @@
 						<w xml:id="w50">alle</w>
 						<w xml:id="w51">die</w>
 						<w xml:id="w52">jenige</w>
-						<w xml:id="w53">Persohnen</w> <pc xml:id="w54">/</pc>
-						<w xml:id="w55">welche</w>
+						<w xml:id="w53">Persohnen</w> <pc xml:id="w54">/</pc> <w xml:id="w55">welche</w>
 						<w xml:id="w56">wochentlich</w>
 						<lb facs="#facs_1_tl_12" xml:id="z11"/>
 						<w xml:id="w57">allhier</w>
-						<w xml:id="w58">gestorben</w> <pc xml:id="w59">/</pc>
-						<w xml:id="w60">hingegen</w>
+						<w xml:id="w58">gestorben</w> <pc xml:id="w59">/</pc> <w xml:id="w60">hingegen</w>
 						<w xml:id="w61">was</w>
 						<w xml:id="w62">von</w>
 						<w xml:id="w63">Vornehmen</w>
@@ -742,15 +737,13 @@
 						<lb facs="#facs_1_tl_13" xml:id="z12"/>
 						<w xml:id="w66">dann</w>
 						<w xml:id="w67"><hi style="font-family: Antiqua;">copuli</hi>ret</w>
-						<w xml:id="w68">worden</w> <pc xml:id="w69">/</pc>
-						<w xml:id="w70">ferner</w>
+						<w xml:id="w68">worden</w> <pc xml:id="w69">/</pc> <w xml:id="w70">ferner</w>
 						<w xml:id="w71">anhero</w>
 						<w xml:id="w72">und</w>
 						<w xml:id="w73">von</w>
 						<w xml:id="w74">dannen</w>
 						<lb facs="#facs_1_tl_14" xml:id="z13"/>
-						<w xml:id="w75">verreiset</w> <pc xml:id="w76">/</pc>
-						<w xml:id="w77">darinnen</w>
+						<w xml:id="w75">verreiset</w> <pc xml:id="w76">/</pc> <w xml:id="w77">darinnen</w>
 						<w xml:id="w78">befindlich</w><pc xml:id="w79">.</pc>
 					</titlePart>
 				</docTitle>
@@ -791,8 +784,7 @@
 						<w xml:id="w101">Wissenschafft</w>
 						<w xml:id="w102">begierigen</w>
 						<w xml:id="w103">verlanget</w>
-						<w xml:id="w104">worden</w> <pc xml:id="w105">/</pc>
-						<w xml:id="w106">an<pc xml:id="w107">=</pc><lb facs="#facs_2_tl_4" xml:id="z19"/>gesehen</w>
+						<w xml:id="w104">worden</w> <pc xml:id="w105">/</pc> <w xml:id="w106">an<pc xml:id="w107">=</pc><lb facs="#facs_2_tl_4" xml:id="z19"/>gesehen</w>
 						<w xml:id="w108">bey</w>
 						<w xml:id="w109">diser</w>
 						<w xml:id="w110">wegen</w>
@@ -805,7 +797,7 @@
 						<w xml:id="w116">aller</w>
 						<w xml:id="w117">Welt</w>
 						<w xml:id="w118">höchst</w>
-						<w xml:id="w119">geehrt</w><pc xml:id="w120">=</pc> <w xml:id="w121">und</w>
+						<w xml:id="w119">geehrt</w><pc xml:id="w120">=</pc><w xml:id="w121">und</w>
 						<w xml:id="w122">berühmtesten</w>
 						<w xml:id="w123">Stadt</w>
 						<w xml:id="w124">Wienn</w> <pc xml:id="w125">/</pc>
@@ -813,14 +805,13 @@
 						<w xml:id="w126">insonderheit</w>
 						<w xml:id="w127">ein</w>
 						<w xml:id="w128">grosser</w>
-						<w xml:id="w129">Zu</w><pc xml:id="w130">=</pc> <w xml:id="w131">und</w>
+						<w xml:id="w129">Zu</w><pc xml:id="w130">=</pc><w xml:id="w131">und</w>
 						<w xml:id="w132">Abgang</w>
 						<w xml:id="w133">derer</w>
 						<w xml:id="w134">bey</w>
 						<w xml:id="w135">dasiger</w>
 						<lb facs="#facs_2_tl_7" xml:id="z22"/>
-						<w xml:id="w136">Hoff</w><pc xml:id="w137">=</pc><w xml:id="w138">Staat</w> <pc xml:id="w139">/</pc>
-						<w xml:id="w140">auch</w>
+						<w xml:id="w136">Hoff</w><pc xml:id="w137">=</pc><w xml:id="w138">Staat</w> <pc xml:id="w139">/</pc> <w xml:id="w140">auch</w>
 						<w xml:id="w141">in</w>
 						<w xml:id="w142">dem</w>
 						<w xml:id="w143">Burgerlichen</w>
@@ -829,47 +820,38 @@
 						<w xml:id="w146">befind<pc xml:id="w147">=</pc><lb facs="#facs_2_tl_8" xml:id="z23"/>licher</w>
 						<w xml:id="w148">hoher</w>
 						<w xml:id="w149">und</w>
-						<w xml:id="w150">niederer</w> <pc xml:id="w151">/</pc>
-						<w xml:id="w152">ferners</w>
+						<w xml:id="w150">niederer</w> <pc xml:id="w151">/</pc> <w xml:id="w152">ferners</w>
 						<w xml:id="w153">allerhand</w>
-						<w xml:id="w154">ein</w><pc xml:id="w155">=</pc> <w xml:id="w156">und</w>
-						<w xml:id="w157">außzie<pc xml:id="w158">=</pc><lb facs="#facs_2_tl_9" xml:id="z24"/>hender</w> <pc xml:id="w159">/</pc>
-						<w xml:id="w160">so</w>
+						<w xml:id="w154">ein</w><pc xml:id="w155">=</pc><w xml:id="w156">und</w>
+						<w xml:id="w157">außzie<pc xml:id="w158">=</pc><lb facs="#facs_2_tl_9" xml:id="z24"/>hender</w> <pc xml:id="w159">/</pc> <w xml:id="w160">so</w>
 						<w xml:id="w161">wohl</w>
-						<w xml:id="w162">einheimisch</w><pc xml:id="w163">=</pc> <w xml:id="w164">als</w>
+						<w xml:id="w162">einheimisch</w><pc xml:id="w163">=</pc><w xml:id="w164">als</w>
 						<w xml:id="w165">frembder</w>
-						<w xml:id="w166">Persohnen</w> <pc xml:id="w167">/</pc>
-						<w xml:id="w168">täglich</w>
+						<w xml:id="w166">Persohnen</w> <pc xml:id="w167">/</pc> <w xml:id="w168">täglich</w>
 						<lb facs="#facs_2_tl_10" xml:id="z25"/>
 						<w xml:id="w169">in</w>
 						<w xml:id="w170">grosser</w>
 						<w xml:id="w171">Anzahl</w>
 						<w xml:id="w172">bemercket</w>
-						<w xml:id="w173">wird</w> <pc xml:id="w174">/</pc>
-						<w xml:id="w175">daß</w>
+						<w xml:id="w173">wird</w> <pc xml:id="w174">/</pc> <w xml:id="w175">daß</w>
 						<w xml:id="w176">sothane</w>
 						<w xml:id="w177">Verwechslun<pc xml:id="w178">=</pc><lb facs="#facs_2_tl_11" xml:id="z26"/>gen</w>
 						<w xml:id="w179">und</w>
 						<w xml:id="w180">von</w>
 						<w xml:id="w181">allerhand</w>
-						<w xml:id="w182">Haupt</w><pc xml:id="w183">=</pc><w xml:id="w184">Ursachen</w> <pc xml:id="w185">/</pc>
-						<w xml:id="w186">als</w>
-						<w xml:id="w187">Lebens</w><pc xml:id="w188">=</pc> <w xml:id="w189">und</w>
+						<w xml:id="w182">Haupt</w><pc xml:id="w183">=</pc><w xml:id="w184">Ursachen</w> <pc xml:id="w185">/</pc> <w xml:id="w186">als</w>
+						<w xml:id="w187">Lebens</w><pc xml:id="w188">=</pc><w xml:id="w189">und</w>
 						<lb facs="#facs_2_tl_12" xml:id="z27"/>
 						<w xml:id="w190">Todtes</w><pc xml:id="w191">=</pc><w xml:id="w192">Zufällen</w>
 						<hi style="font-family: Antiqua;"><w xml:id="w193">dependiren</w></hi>
                         <w xml:id="w194">de</w>
 						<w xml:id="w195">Veränderlichkeiten</w>
 						<w xml:id="w196">zu</w>
-						<w xml:id="w197">aller<pc xml:id="w198">=</pc><lb facs="#facs_2_tl_13" xml:id="z28"/>hand</w> <pc xml:id="w199">/</pc>
-						<w xml:id="w200">so</w>
+						<w xml:id="w197">aller<pc xml:id="w198">=</pc><lb facs="#facs_2_tl_13" xml:id="z28"/>hand</w> <pc xml:id="w199">/</pc> <w xml:id="w200">so</w>
 						<w xml:id="w201">wohl</w>
-						<w xml:id="w202">Christlich</w><pc xml:id="w203">=</pc>
-							<w xml:id="w204">als</w>
+						<w xml:id="w202">Christlich</w><pc xml:id="w203">=</pc><w xml:id="w204">als</w>
 							<w xml:id="w205"><hi style="font-family: Antiqua;">politi</hi>scher</w>
-						<w xml:id="w206">Betrachtung</w> <pc xml:id="w207">/</pc>
-						<w xml:id="w208">jeder<pc xml:id="w209">=</pc><lb facs="#facs_2_tl_14" xml:id="z29"/>mann</w> <pc xml:id="w210">/</pc>
-						<w xml:id="w211">insonderheit</w>
+						<w xml:id="w206">Betrachtung</w> <pc xml:id="w207">/</pc> <w xml:id="w208">jeder<pc xml:id="w209">=</pc><lb facs="#facs_2_tl_14" xml:id="z29"/>mann</w> <pc xml:id="w210">/</pc> <w xml:id="w211">insonderheit</w>
 						<w xml:id="w212">aber</w>
 						<w xml:id="w213">denen</w>
 						<w xml:id="w214">allhiesigen</w>
@@ -896,8 +878,7 @@
 						<w xml:id="w234">Kriegs</w><pc xml:id="w235">=</pc><w xml:id="w236">Läuffen</w>
 						<w xml:id="w237">länger</w>
 						<w xml:id="w238">nicht</w>
-						<supplied reason="unclear" instant="false"><w xml:id="w239">entfallen</w></supplied> <w xml:id="w240"><supplied instant="false">kö</supplied>nnen</w> <pc xml:id="w241">/</pc>
-						<w xml:id="w242">mit</w>
+						<supplied reason="unclear" instant="false"><w xml:id="w239">entfallen</w></supplied> <w xml:id="w240"><supplied instant="false">kö</supplied>nnen</w> <pc xml:id="w241">/</pc> <w xml:id="w242">mit</w>
 						<w xml:id="w243">einem</w>
 						<lb facs="#facs_2_tl_18" xml:id="z33"/>
 						<w xml:id="w244">richtigen</w>
@@ -919,8 +900,7 @@
 						<w xml:id="w260">deß</w>
 						<w xml:id="w261">geneigt</w>
 						<w xml:id="w262">begierigen</w>
-						<w xml:id="w263">Lesers</w> <pc xml:id="w264">/</pc>
-						<w xml:id="w265">bevorder</w>
+						<w xml:id="w263">Lesers</w> <pc xml:id="w264">/</pc> <w xml:id="w265">bevorder</w>
 						<w xml:id="w266">von</w>
 						<lb facs="#facs_2_tl_21" xml:id="z36"/>
 						<w xml:id="w267">obig</w>
@@ -936,8 +916,7 @@
 						<w xml:id="w279">kurtzer</w>
 						<w xml:id="w280">Bericht</w>
 						<w xml:id="w281">und</w>
-                        <hi style="font-family: Antiqua;"><w xml:id="w282">Extract</w></hi><pc xml:id="w283">,</pc>
-						<w xml:id="w284">als</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w282">Extract</w></hi><pc xml:id="w283">,</pc> <w xml:id="w284">als</w>
 						<w xml:id="w285">ein</w>
 						<w xml:id="w286">Kern</w>
 						<w xml:id="w287">de<pc xml:id="w288">=</pc><lb facs="#facs_2_tl_23" xml:id="z38"/>rer</w>
@@ -947,19 +926,15 @@
 						<w xml:id="w292">in</w>
 						<w xml:id="w293">der</w>
 						<w xml:id="w294">Welt</w>
-						<w xml:id="w295">merckwürdigsten</w> <pc xml:id="w296">/</pc>
-						<w xml:id="w297">wahrhaff<pc xml:id="w298">=</pc><lb facs="#facs_2_tl_24" xml:id="z39"/>tigsten</w> <pc xml:id="w299">/</pc>
-						<w xml:id="w300">und</w>
-						<w xml:id="w301">allerneuesten</w> <pc xml:id="w302">/</pc>
-						<w xml:id="w303">so</w>
+						<w xml:id="w295">merckwürdigsten</w> <pc xml:id="w296">/</pc> <w xml:id="w297">wahrhaff<pc xml:id="w298">=</pc><lb facs="#facs_2_tl_24" xml:id="z39"/>tigsten</w> <pc xml:id="w299">/</pc> <w xml:id="w300">und</w>
+						<w xml:id="w301">allerneuesten</w> <pc xml:id="w302">/</pc> <w xml:id="w303">so</w>
 						<w xml:id="w304">schrifftlich</w>
 						<w xml:id="w305">als</w>
 						<w xml:id="w306">gedruckter</w>
 						<w xml:id="w307">allhier</w>
 						<lb facs="#facs_2_tl_25" xml:id="z40"/>
 						<w xml:id="w308">einlauffenden</w>
-						<w xml:id="w309">Begebenheiten</w> <pc xml:id="w310">/</pc>
-						<w xml:id="w311">ohne</w>
+						<w xml:id="w309">Begebenheiten</w> <pc xml:id="w310">/</pc> <w xml:id="w311">ohne</w>
 						<w xml:id="w312">einigen</w>
 							<hi style="font-family: Antiqua;"><w xml:id="w313">Oratori</w></hi>
                         <w xml:id="w314">schen</w>
@@ -967,10 +942,8 @@
 						<lb facs="#facs_2_tl_26" xml:id="z41"/>
 							<hi style="font-family: Antiqua;"><w xml:id="w316">Poëti</w></hi>
                         <w xml:id="w317">schen</w>
-						<w xml:id="w318">Schminck</w> <pc xml:id="w319">/</pc>
-						<w xml:id="w320">auch</w>
-						<w xml:id="w321">Vorurtheil</w> <pc xml:id="w322">/</pc>
-						<w xml:id="w323">sondern</w>
+						<w xml:id="w318">Schminck</w> <pc xml:id="w319">/</pc> <w xml:id="w320">auch</w>
+						<w xml:id="w321">Vorurtheil</w> <pc xml:id="w322">/</pc> <w xml:id="w323">sondern</w>
 						<w xml:id="w324">der</w>
 						<w xml:id="w325">blossen</w>
 						<lb facs="#facs_2_tl_27" xml:id="z42"/>
@@ -978,19 +951,15 @@
 						<w xml:id="w327">derer</w>
 						<w xml:id="w328">einkommenden</w>
 						<w xml:id="w329">Berichten</w>
-						<w xml:id="w330">gemäß</w> <pc xml:id="w331">/</pc>
-						<w xml:id="w332">Wochent<pc xml:id="w333">=</pc><lb facs="#facs_2_tl_28" xml:id="z43"/>lich</w>
+						<w xml:id="w330">gemäß</w> <pc xml:id="w331">/</pc> <w xml:id="w332">Wochent<pc xml:id="w333">=</pc><lb facs="#facs_2_tl_28" xml:id="z43"/>lich</w>
 						<w xml:id="w334">zwey</w>
-						<w xml:id="w335">mahl</w> <pc xml:id="w336">/</pc>
-						<w xml:id="w337">als</w>
+						<w xml:id="w335">mahl</w> <pc xml:id="w336">/</pc> <w xml:id="w337">als</w>
 						<w xml:id="w338">Mittwochs</w>
 						<w xml:id="w339">und</w>
-						<w xml:id="w340">Sambstags</w> <pc xml:id="w341">/</pc>
-						<w xml:id="w342">ordentlich</w>
+						<w xml:id="w340">Sambstags</w> <pc xml:id="w341">/</pc> <w xml:id="w342">ordentlich</w>
 						<lb facs="#facs_2_tl_29" xml:id="z44"/>
 						<w xml:id="w343">vorgestellt</w>
-						<w xml:id="w344">werden</w> <pc xml:id="w345">/</pc>
-						<w xml:id="w346">und</w>
+						<w xml:id="w344">werden</w> <pc xml:id="w345">/</pc> <w xml:id="w346">und</w>
 						<w xml:id="w347">in</w>
 						<w xml:id="w348">dem</w>
 						<w xml:id="w349">so</w>
@@ -1015,8 +984,7 @@
 						<lb facs="#facs_3_tl_1" xml:id="z47"/>
 						<w xml:id="w359">Mittwochs</w>
 						<w xml:id="w360">den</w>
-						<w xml:id="w361">8</w><pc xml:id="w362">.</pc>
-						<w xml:id="w363">Augusti</w>
+						<w xml:id="w361">8</w><pc xml:id="w362">.</pc> <w xml:id="w363">Augusti</w>
 						<w xml:id="w364">1703</w><pc xml:id="w365">.</pc>
 					</head>
 					<p xml:id="p5" rendition="#f" facs="#facs_3_TextRegion_1504794863747_1" rend="noindent" part="N">
@@ -1037,8 +1005,7 @@
 						<w xml:id="w378">Baaden</w>
 						<w xml:id="w379">fast</w>
 						<w xml:id="w380">täglich</w>
-						<w xml:id="w381">vermehret</w> <pc xml:id="w382">/</pc>
-						<w xml:id="w383">als</w>
+						<w xml:id="w381">vermehret</w> <pc xml:id="w382">/</pc> <w xml:id="w383">als</w>
 						<w xml:id="w384">hat</w>
 						<w xml:id="w385">man</w>
 						<w xml:id="w386">von</w>
@@ -1053,8 +1020,7 @@
 						<w xml:id="w396">Schallenberg</w>
 						<lb facs="#facs_3_tl_5" xml:id="z51"/>
 						<w xml:id="w397">dahin</w>
-						<w xml:id="w398">abgeschicket</w><pc xml:id="w399">.</pc>
-						<w xml:id="w400">Auch</w>
+						<w xml:id="w398">abgeschicket</w><pc xml:id="w399">.</pc> <w xml:id="w400">Auch</w>
 						<w xml:id="w401">werden</w>
 						<w xml:id="w402">Jhro</w>
 						<w xml:id="w403">Durchleucht</w>
@@ -1068,8 +1034,7 @@
 						<w xml:id="w412">selbige</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w413">Armée</w></hi>
 						<w xml:id="w414">auffrichten</w>
-						<w xml:id="w415">lassen</w><pc xml:id="w416">.</pc>
-						<w xml:id="w417">Hingegen</w>
+						<w xml:id="w415">lassen</w><pc xml:id="w416">.</pc> <w xml:id="w417">Hingegen</w>
 						<lb facs="#facs_3_tl_7" xml:id="z53"/>
 						<w xml:id="w418">ist</w>
 						<w xml:id="w419">auß</w>
@@ -1077,10 +1042,8 @@
 						<w xml:id="w421">wiederumb</w>
 						<w xml:id="w422">ein</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w423">Courier</w></hi>
-						<w xml:id="w424">angelanget</w> <pc xml:id="w425">/</pc>
-						<w xml:id="w426">mit</w>
-						<w xml:id="w427">Bericht</w> <pc xml:id="w428">/</pc>
-						<w xml:id="w429">daß</w>
+						<w xml:id="w424">angelanget</w> <pc xml:id="w425">/</pc> <w xml:id="w426">mit</w>
+						<w xml:id="w427">Bericht</w> <pc xml:id="w428">/</pc> <w xml:id="w429">daß</w>
 						<w xml:id="w430">der</w>
 						<lb facs="#facs_3_tl_8" xml:id="z54"/>
 						<w xml:id="w431">Herr</w>
@@ -1095,10 +1058,8 @@
 						<w xml:id="w440">daß</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w441">Te</w></hi>
 						<lb facs="#facs_3_tl_9" xml:id="z55"/>
-                        <hi style="font-family: Antiqua;"><w xml:id="w442">Deum</w> <w xml:id="w443">Laudamus</w></hi><pc xml:id="w444">,</pc>
-						<w xml:id="w445">unter</w>
-						<w xml:id="w446">3</w><pc xml:id="w447">.</pc>
-						<w xml:id="w448">mahliger</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w442">Deum</w> <w xml:id="w443">Laudamus</w></hi><pc xml:id="w444">,</pc> <w xml:id="w445">unter</w>
+						<w xml:id="w446">3</w><pc xml:id="w447">.</pc> <w xml:id="w448">mahliger</w>
 						<w xml:id="w449">Lösung</w>
 						<w xml:id="w450">der</w>
 						<w xml:id="w451">Stucken</w>
@@ -1117,32 +1078,26 @@
 						<w xml:id="w464">Paß</w>
 						<w xml:id="w465">Scharnitz</w>
 						<lb facs="#facs_3_tl_12" xml:id="z57"/>
-						<w xml:id="w466">durchkommen</w> <pc xml:id="w467">/</pc>
-						<w xml:id="w468">man</w>
+						<w xml:id="w466">durchkommen</w> <pc xml:id="w467">/</pc> <w xml:id="w468">man</w>
 						<w xml:id="w469">weiß</w>
 						<w xml:id="w470">aber</w>
 						<w xml:id="w471">nicht</w>
-						<w xml:id="w472">wohin</w> <pc xml:id="w473">/</pc>
-						<w xml:id="w474">oder</w>
+						<w xml:id="w472">wohin</w> <pc xml:id="w473">/</pc> <w xml:id="w474">oder</w>
 						<w xml:id="w475">zu</w>
 						<w xml:id="w476">was</w>
-						<hi style="font-family: Antiqua;"><w xml:id="w477">Intention</w></hi><pc xml:id="w478">;</pc>
-						<w xml:id="w479">Sei<pc xml:id="w480">=</pc><lb facs="#facs_3_tl_13" xml:id="z58"/>ne</w>
+						<hi style="font-family: Antiqua;"><w xml:id="w477">Intention</w></hi><pc xml:id="w478">;</pc> <w xml:id="w479">Sei<pc xml:id="w480">=</pc><lb facs="#facs_3_tl_13" xml:id="z58"/>ne</w>
 						<w xml:id="w481">Mannschafft</w>
 						<w xml:id="w482">in</w>
-						<w xml:id="w483">3000</w><pc xml:id="w484">.</pc>
-						<w xml:id="w485">Mann</w>
+						<w xml:id="w483">3000</w><pc xml:id="w484">.</pc> <w xml:id="w485">Mann</w>
 						<w xml:id="w486">meistens</w>
-                        <hi style="font-family: Antiqua;"><w xml:id="w487">Granadiers</w></hi><pc xml:id="w488">,</pc>
-						<w xml:id="w489">verschantzten</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w487">Granadiers</w></hi><pc xml:id="w488">,</pc> <w xml:id="w489">verschantzten</w>
 						<w xml:id="w490">sich</w>
 						<lb facs="#facs_3_tl_14" xml:id="z59"/>
 						<w xml:id="w491">gegen</w>
 						<w xml:id="w492">Jnsprugg</w>
 						<w xml:id="w493">und</w>
 						<w xml:id="w494">gedachten</w>
-						<w xml:id="w495">Scharnitz</w><pc xml:id="w496">.</pc>
-						<w xml:id="w497">Nachdem</w>
+						<w xml:id="w495">Scharnitz</w><pc xml:id="w496">.</pc> <w xml:id="w497">Nachdem</w>
 						<w xml:id="w498">die</w>
 						<w xml:id="w499">Frantzosen</w>
 						<w xml:id="w500">den</w>
@@ -1151,21 +1106,17 @@
                         <w xml:id="w502">schen</w>
 						<w xml:id="w503">Paß</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w504">Monte</w><pc xml:id="w505">-</pc><w xml:id="w506">Baldo</w></hi>
-						<w xml:id="w507">erobert</w> <pc xml:id="w508">/</pc>
-						<w xml:id="w509">und</w>
+						<w xml:id="w507">erobert</w> <pc xml:id="w508">/</pc> <w xml:id="w509">und</w>
 						<w xml:id="w510">ferner</w>
 						<w xml:id="w511">gegen</w>
 						<w xml:id="w512">die</w>
 						<w xml:id="w513">Tyrolle<pc xml:id="w514">=</pc><lb facs="#facs_3_tl_16" xml:id="z61"/>rische</w>
 						<w xml:id="w515">Päß</w>
-						<w xml:id="w516">avancirt</w> <pc xml:id="w517">/</pc>
-						<w xml:id="w518">und</w>
+						<w xml:id="w516">avancirt</w> <pc xml:id="w517">/</pc> <w xml:id="w518">und</w>
 						<w xml:id="w519">den</w>
 						<w xml:id="w520">Herrn</w>
 						<w xml:id="w521">General</w>
-                        <hi style="font-family: Antiqua;"><w xml:id="w522">Vaubonne</w></hi><pc xml:id="w523">,</pc>
-						<w xml:id="w524">unwissend</w> <pc xml:id="w525">/</pc>
-						<w xml:id="w526">daß</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w522">Vaubonne</w></hi><pc xml:id="w523">,</pc> <w xml:id="w524">unwissend</w> <pc xml:id="w525">/</pc> <w xml:id="w526">daß</w>
 						<lb facs="#facs_3_tl_17" xml:id="z62"/>
 						<w xml:id="w527">die</w>
 						<w xml:id="w528">Bayern</w>
@@ -1173,19 +1124,15 @@
 						<w xml:id="w530">Tyroll</w>
 						<w xml:id="w531">nicht</w>
 						<w xml:id="w532">wohl</w>
-						<w xml:id="w533">stehen</w> <pc xml:id="w534">/</pc>
-						<w xml:id="w535">angegriffen</w> <pc xml:id="w536">/</pc>
-						<w xml:id="w537">seynd</w>
+						<w xml:id="w533">stehen</w> <pc xml:id="w534">/</pc> <w xml:id="w535">angegriffen</w> <pc xml:id="w536">/</pc> <w xml:id="w537">seynd</w>
 						<w xml:id="w538">sie</w>
 						<w xml:id="w539">nach</w>
 						<w xml:id="w540">einem</w>
 						<lb facs="#facs_3_tl_18" xml:id="z63"/>
-						<w xml:id="w541">7</w><pc xml:id="w542">.</pc>
-						<w xml:id="w543">Stündigen</w>
+						<w xml:id="w541">7</w><pc xml:id="w542">.</pc> <w xml:id="w543">Stündigen</w>
 						<w xml:id="w544">Gefecht</w>
 						<hi style="font-family: Antiqua;"><unclear><w xml:id="w545">repoussirt</w></unclear></hi>
-						<w xml:id="w546">worden</w><pc xml:id="w547">:</pc>
-						<w xml:id="w548">der</w>
+						<w xml:id="w546">worden</w><pc xml:id="w547">:</pc> <w xml:id="w548">der</w>
 						<w xml:id="w549">Herr</w>
 						<w xml:id="w550">General</w>
 						<hi style="font-family: Antiqua;"><w xml:id="w551">Solari</w></hi>
@@ -1195,14 +1142,12 @@
 						<w xml:id="w554">bey</w>
 						<w xml:id="w555">disem</w>
 						<w xml:id="w556">Gefecht</w>
-						<w xml:id="w557">gewesen</w> <pc xml:id="w558">/</pc>
-						<w xml:id="w559">aber</w>
+						<w xml:id="w557">gewesen</w> <pc xml:id="w558">/</pc> <w xml:id="w559">aber</w>
 						<w xml:id="w560">den</w>
 						<w xml:id="w561">dritten</w>
 						<w xml:id="w562">Tag</w>
 						<w xml:id="w563">erwartet</w>
-						<w xml:id="w564">worden</w><pc xml:id="w565">.</pc>
-						<w xml:id="w566">Jn</w>
+						<w xml:id="w564">worden</w><pc xml:id="w565">.</pc> <w xml:id="w566">Jn</w>
 						<lb facs="#facs_3_tl_20" xml:id="z65"/>
 						<w xml:id="w567">Tyroll</w>
 						<w xml:id="w568">als</w>
@@ -1211,8 +1156,7 @@
 						<w xml:id="w571">von</w>
 						<w xml:id="w572">Hall</w>
 						<w xml:id="w573">abmarschiren</w>
-						<w xml:id="w574">musten</w> <pc xml:id="w575">/</pc>
-						<w xml:id="w576">hat</w>
+						<w xml:id="w574">musten</w> <pc xml:id="w575">/</pc> <w xml:id="w576">hat</w>
 						<w xml:id="w577">der</w>
 						<w xml:id="w578">Chur</w><pc xml:id="w579">=</pc><w xml:id="w580">Fürst</w>
 						<lb facs="#facs_3_tl_21" xml:id="z66"/>
@@ -1220,27 +1164,23 @@
 						<w xml:id="w582">Leuthen</w>
 						<w xml:id="w583">alles</w>
 						<w xml:id="w584">Preyß</w>
-						<w xml:id="w585">gegeben</w> <pc xml:id="w586">/</pc>
-						<w xml:id="w587">welche</w>
+						<w xml:id="w585">gegeben</w> <pc xml:id="w586">/</pc> <w xml:id="w587">welche</w>
 						<w xml:id="w588">auch</w>
 						<w xml:id="w589">allda</w>
 						<w xml:id="w590">grausamb</w>
 						<w xml:id="w591">gehauset</w>
 						<lb facs="#facs_3_tl_22" xml:id="z67"/>
-						<w xml:id="w592">haben</w><pc xml:id="w593">.</pc>
-						<w xml:id="w594">Auß</w>
+						<w xml:id="w592">haben</w><pc xml:id="w593">.</pc> <w xml:id="w594">Auß</w>
 						<w xml:id="w595">Ober</w>
 						<w xml:id="w596">Hungarn</w>
-						<w xml:id="w597">kombt</w> <pc xml:id="w598">/</pc>
-						<w xml:id="w599">daß</w>
+						<w xml:id="w597">kombt</w> <pc xml:id="w598">/</pc> <w xml:id="w599">daß</w>
 						<w xml:id="w600">die</w>
 						<w xml:id="w601">Rebellen</w>
 						<w xml:id="w602">sich</w>
 						<w xml:id="w603">noch</w>
 						<w xml:id="w604">immer</w>
 						<lb facs="#facs_3_tl_23" xml:id="z68"/>
-						<w xml:id="w605">verstärcken</w> <pc xml:id="w606">/</pc>
-						<w xml:id="w607">und</w>
+						<w xml:id="w605">verstärcken</w> <pc xml:id="w606">/</pc> <w xml:id="w607">und</w>
 						<w xml:id="w608">mit</w>
 						<w xml:id="w609">denen</w>
 						<w xml:id="w610">antreffenden</w>
@@ -1255,14 +1195,12 @@
 						<w xml:id="w619">die</w>
 						<w xml:id="w620">Theyß</w>
 						<w xml:id="w621">gegen</w>
-						<w xml:id="w622">Erlau</w> <pc xml:id="w623">/</pc>
-						<w xml:id="w624">es</w>
+						<w xml:id="w622">Erlau</w> <pc xml:id="w623">/</pc> <w xml:id="w624">es</w>
 						<w xml:id="w625">ist</w>
 						<w xml:id="w626">nur</w>
 						<w xml:id="w627">ein</w>
 						<w xml:id="w628">lauter</w>
-						<w xml:id="w629">Rauber<pc xml:id="w630">=</pc><lb facs="#facs_3_line_1504795082050_3" xml:id="z70"/>Gesindl</w> <pc xml:id="w631">/</pc>
-						<w xml:id="w632">und</w>
+						<w xml:id="w629">Rauber<pc xml:id="w630">=</pc><lb facs="#facs_3_line_1504795082050_3" xml:id="z70"/>Gesindl</w> <pc xml:id="w631">/</pc> <w xml:id="w632">und</w>
 						<w xml:id="w633">so</w>
 						<w xml:id="w634">bald</w>
 						<w xml:id="w635">nun</w>
@@ -1273,14 +1211,12 @@
 						<w xml:id="w641">Hungarn</w>
 						<w xml:id="w642">stossen</w>
 						<lb facs="#facs_3_line_1504795084985_4" xml:id="z71"/>
-						<w xml:id="w643">wird</w> <pc xml:id="w644">/</pc>
-						<w xml:id="w645">hofft</w>
+						<w xml:id="w643">wird</w> <pc xml:id="w644">/</pc> <w xml:id="w645">hofft</w>
 						<w xml:id="w646">man</w>
 						<w xml:id="w647">sie</w>
 						<w xml:id="w648">bald</w>
 						<w xml:id="w649">zu</w>
-						<w xml:id="w650">dämpffen</w> <pc xml:id="w651">/</pc>
-						<w xml:id="w652">massen</w>
+						<w xml:id="w650">dämpffen</w> <pc xml:id="w651">/</pc> <w xml:id="w652">massen</w>
 						<w xml:id="w653">sie</w>
 						<w xml:id="w654">mit</w>
 						<w xml:id="w655">keinen</w>
@@ -1294,22 +1230,19 @@
 						<lb facs="#facs_3_tl_25" xml:id="z73"/>
 						<w xml:id="w661">Den</w>
 						<w xml:id="w662">2</w><pc xml:id="w663">.</pc>
-							<hi style="font-family: Antiqua;"><w xml:id="w664">Augusti</w></hi><pc xml:id="w665">.</pc>
-							<w xml:id="w666"><hi style="font-family: Antiqua;">Celebrir</hi>ten</w>
+							<hi style="font-family: Antiqua;"><w xml:id="w664">Augusti</w></hi><pc xml:id="w665">.</pc> <w xml:id="w666"><hi style="font-family: Antiqua;">Celebrir</hi>ten</w>
 						<w xml:id="w667">Jhro</w>
 						<w xml:id="w668">Käyserliche</w>
 						<w xml:id="w669">und</w>
 						<w xml:id="w670">Königliche</w>
 						<lb facs="#facs_3_tl_26" xml:id="z74"/>
 						<w xml:id="w671">Majestät</w>
-						<w xml:id="w672">Majestät</w> <pc xml:id="w673">/</pc>
-						<w xml:id="w674">wie</w>
+						<w xml:id="w672">Majestät</w> <pc xml:id="w673">/</pc> <w xml:id="w674">wie</w>
 						<w xml:id="w675">auch</w>
 						<w xml:id="w676">Jhro</w>
 						<w xml:id="w677">Hochheit</w>
 						<w xml:id="w678">Ertz</w><pc xml:id="w679">=</pc><w xml:id="w680">Hertzog</w>
-						<w xml:id="w681">Carl</w> <pc xml:id="w682">/</pc>
-						<w xml:id="w683">sambt</w>
+						<w xml:id="w681">Carl</w> <pc xml:id="w682">/</pc> <w xml:id="w683">sambt</w>
 						<w xml:id="w684">der</w>
 						<lb facs="#facs_3_tl_27" xml:id="z75"/>
 						<w xml:id="w685">Durchleuchtigsten</w>
@@ -1318,14 +1251,12 @@
 						<w xml:id="w688">das</w>
 						<w xml:id="w689">Fest</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w690">Portiuncula</w></hi>
-						<w xml:id="w691">genannt</w> <pc xml:id="w692">/</pc>
-						<w xml:id="w693">und</w>
+						<w xml:id="w691">genannt</w> <pc xml:id="w692">/</pc> <w xml:id="w693">und</w>
 						<lb facs="#facs_3_line_1504795229052_6" xml:id="z76"/>
 						<w xml:id="w694">haben</w>
 						<w xml:id="w695">in</w>
 						<w xml:id="w696">dem</w>
-						<w xml:id="w697">Königl</w><pc xml:id="w698">.</pc>
-						<w xml:id="w699">Closter</w>
+						<w xml:id="w697">Königl</w><pc xml:id="w698">.</pc> <w xml:id="w699">Closter</w>
 						<w xml:id="w700">dem</w>
 						<w xml:id="w701">hohen</w>
 						<w xml:id="w702">Ambt</w>
@@ -1333,8 +1264,7 @@
 						<w xml:id="w704">dem</w>
 						<w xml:id="w705">Mittag<pc xml:id="w706">=</pc><lb facs="#facs_3_line_1504795232729_7" xml:id="z77"/>mahl</w>
 						<w xml:id="w707">daselben</w>
-						<w xml:id="w708">beygewohnet</w> <pc xml:id="w709">/</pc>
-						<w xml:id="w710">deß</w>
+						<w xml:id="w708">beygewohnet</w> <pc xml:id="w709">/</pc> <w xml:id="w710">deß</w>
 						<w xml:id="w711">Abends</w>
 						<w xml:id="w712">aber</w>
 						<w xml:id="w713">nach</w>
@@ -1354,8 +1284,7 @@
 						<w xml:id="w728">in</w>
 						<w xml:id="w729">dero</w>
 						<lb facs="#facs_3_tl_29" xml:id="z79"/>
-                        <hi style="font-family: Antiqua;"><w xml:id="w730">Favorita</w> <w xml:id="w731">revertirt</w></hi><pc xml:id="w732">;</pc>
-						<w xml:id="w733">Eben</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w730">Favorita</w> <w xml:id="w731">revertirt</w></hi><pc xml:id="w732">;</pc> <w xml:id="w733">Eben</w>
 						<w xml:id="w734">selbigen</w>
 						<w xml:id="w735">Tag</w>
 						<w xml:id="w736">seynd</w>
@@ -1364,13 +1293,8 @@
 						<w xml:id="w739">Schiff</w>
 						<w xml:id="w740">mit</w>
 						<w xml:id="w741">aller<pc xml:id="w742">=</pc><lb facs="#facs_3_tl_30" xml:id="z80"/>hand</w>
-						<w xml:id="w743">Kriegs</w><pc xml:id="w744">=</pc><w xml:id="w745">Munition</w><pc xml:id="w746">,</pc>
-						<w xml:id="w747">als</w>
-						<w xml:id="w748">Gestuck</w> <pc xml:id="w749">/</pc>
-						<w xml:id="w750">Mörser</w> <pc xml:id="w751">/</pc>
-						<w xml:id="w752">Bomben</w> <pc xml:id="w753">/</pc>
-						<w xml:id="w754">Granaten</w> <pc xml:id="w755">/</pc>
-						<w xml:id="w756">und</w>
+						<w xml:id="w743">Kriegs</w><pc xml:id="w744">=</pc><w xml:id="w745">Munition</w><pc xml:id="w746">,</pc> <w xml:id="w747">als</w>
+						<w xml:id="w748">Gestuck</w> <pc xml:id="w749">/</pc> <w xml:id="w750">Mörser</w> <pc xml:id="w751">/</pc> <w xml:id="w752">Bomben</w> <pc xml:id="w753">/</pc> <w xml:id="w754">Granaten</w> <pc xml:id="w755">/</pc> <w xml:id="w756">und</w>
                     </p>
 				</div>
 				<fw facs="#facs_3_TextRegion_1504795412397_8" type="catch" rendition="#rr" xml:id="fw2">
@@ -1388,19 +1312,14 @@
 						<w xml:id="w761">von</w>
 						<w xml:id="w762">Ungarn</w>
 						<w xml:id="w763">herauf</w>
-						<w xml:id="w764">kommend</w> <pc xml:id="w765">/</pc>
-						<w xml:id="w766">allhier</w>
-						<w xml:id="w767">angelangt</w> <pc xml:id="w768">/</pc>
-						<w xml:id="w769">welche</w>
+						<w xml:id="w764">kommend</w> <pc xml:id="w765">/</pc> <w xml:id="w766">allhier</w>
+						<w xml:id="w767">angelangt</w> <pc xml:id="w768">/</pc> <w xml:id="w769">welche</w>
 						<lb facs="#facs_4_r1002" xml:id="z83"/>
 						<w xml:id="w770">allhier</w>
-						<w xml:id="w771">außgeladen</w> <pc xml:id="w772">/</pc>
-						<w xml:id="w773">und</w>
+						<w xml:id="w771">außgeladen</w> <pc xml:id="w772">/</pc> <w xml:id="w773">und</w>
 						<w xml:id="w774">in</w>
 						<w xml:id="w775">hiesiges</w>
-						<w xml:id="w776">Kayserl</w><pc xml:id="w777">.</pc>
-						<w xml:id="w778">Zeug</w><pc xml:id="w779">=</pc>
-                        <w xml:id="w780">Hauß</w>
+						<w xml:id="w776">Kayserl</w><pc xml:id="w777">.</pc> <w xml:id="w778">Zeug</w><pc xml:id="w779">=</pc><w xml:id="w780">Hauß</w>
 						<w xml:id="w781">gelieffert</w>
 						<w xml:id="w782">werden</w>
 						<lb facs="#facs_4_r1003" xml:id="z84"/>
@@ -1414,15 +1333,12 @@
 						<w xml:id="w789"><hi style="font-family: Antiqua;">divertir</hi>ten</w>
 						<w xml:id="w790">sich</w>
 						<w xml:id="w791">Jhro</w>
-						<w xml:id="w792">Kayserl</w><pc xml:id="w793">.</pc>
-						<w xml:id="w794">und</w>
-						<w xml:id="w795">Königl</w><pc xml:id="w796">.</pc>
-						<w xml:id="w797">Majestät</w>
+						<w xml:id="w792">Kayserl</w><pc xml:id="w793">.</pc> <w xml:id="w794">und</w>
+						<w xml:id="w795">Königl</w><pc xml:id="w796">.</pc> <w xml:id="w797">Majestät</w>
 						<lb facs="#facs_4_r1006" xml:id="z86"/>
 						<w xml:id="w798">mit</w>
 						<w xml:id="w799">einer</w>
-						<w xml:id="w800">Hirsch</w><pc xml:id="w801">=</pc><w xml:id="w802">Jagt</w> <pc xml:id="w803">/</pc>
-						<w xml:id="w804">bey</w>
+						<w xml:id="w800">Hirsch</w><pc xml:id="w801">=</pc><w xml:id="w802">Jagt</w> <pc xml:id="w803">/</pc> <w xml:id="w804">bey</w>
 						<w xml:id="w805">welcher</w>
 						<w xml:id="w806">dieselbe</w>
 						<w xml:id="w807">mit</w>
@@ -1452,13 +1368,10 @@
 						<w xml:id="w830">Kayserin</w>
 						<w xml:id="w831">mit</w>
 						<w xml:id="w832">den</w>
-						<w xml:id="w833">Durchl</w><pc xml:id="w834">.</pc>
-						<w xml:id="w835">Ertz</w><pc xml:id="w836">=</pc>
-                        <w xml:id="w837">Hertzoginnen</w>
+						<w xml:id="w833">Durchl</w><pc xml:id="w834">.</pc> <w xml:id="w835">Ertz</w><pc xml:id="w836">=</pc><w xml:id="w837">Hertzoginnen</w>
 						<w xml:id="w838">in</w>
 						<w xml:id="w839">den</w>
-						<w xml:id="w840">Klag</w><pc xml:id="w841">=</pc><w xml:id="w842">Baum</w> <pc xml:id="w843">/</pc>
-						<w xml:id="w844">wo</w>
+						<w xml:id="w840">Klag</w><pc xml:id="w841">=</pc><w xml:id="w842">Baum</w> <pc xml:id="w843">/</pc> <w xml:id="w844">wo</w>
 						<lb facs="#facs_4_r1011" xml:id="z90"/>
 						<w xml:id="w845">dieselbe</w>
 						<w xml:id="w846">die</w>
@@ -1469,8 +1382,7 @@
 						<w xml:id="w851">gespeisset</w>
 						<w xml:id="w852">und</w>
 						<w xml:id="w853">reichlich</w>
-						<w xml:id="w854">beschen<pc xml:id="w855">=</pc><lb facs="#facs_4_r1012" xml:id="z91"/>cket</w> <pc xml:id="w856">/</pc>
-						<w xml:id="w857">nachdem</w>
+						<w xml:id="w854">beschen<pc xml:id="w855">=</pc><lb facs="#facs_4_r1012" xml:id="z91"/>cket</w> <pc xml:id="w856">/</pc> <w xml:id="w857">nachdem</w>
 						<w xml:id="w858">begaben</w>
 						<w xml:id="w859">sie</w>
 						<w xml:id="w860">sich</w>
@@ -1484,10 +1396,8 @@
 						<lb facs="#facs_4_r1013" xml:id="z92"/>
 						<w xml:id="w869">mit</w>
 						<w xml:id="w870">Jhro</w>
-						<w xml:id="w871">Kayserl</w><pc xml:id="w872">.</pc>
-						<w xml:id="w873">und</w>
-						<w xml:id="w874">Königl</w><pc xml:id="w875">.</pc>
-						<w xml:id="w876">Majestät</w>
+						<w xml:id="w871">Kayserl</w><pc xml:id="w872">.</pc> <w xml:id="w873">und</w>
+						<w xml:id="w874">Königl</w><pc xml:id="w875">.</pc> <w xml:id="w876">Majestät</w>
 						<w xml:id="w877">in</w>
 						<w xml:id="w878">die</w>
 						<w xml:id="w879">Kirch</w>
@@ -1495,12 +1405,9 @@
                         <hi style="font-family: Antiqua;"><w xml:id="w881">PP</w><pc xml:id="w882">.</pc></hi>
 						<w xml:id="w883"><hi style="font-family: Antiqua;">Dominica<pc xml:id="w884">-</pc><lb facs="#facs_4_r1014" xml:id="z93"/>n</hi>ern</w>
 							<hi style="font-family: Antiqua;"><w xml:id="w885">ad</w>
-								<w xml:id="w886">S</w><pc xml:id="w887">.</pc>
-								<w xml:id="w888">Mariam</w>
+								<w xml:id="w886">S</w><pc xml:id="w887">.</pc> <w xml:id="w888">Mariam</w>
 								<w xml:id="w889">rotundam</w></hi>
-						<w xml:id="w890">genannt</w> <pc xml:id="w891">/</pc>
-						<w xml:id="w892">gefahren</w> <pc xml:id="w893">/</pc>
-						<w xml:id="w894">umb</w>
+						<w xml:id="w890">genannt</w> <pc xml:id="w891">/</pc> <w xml:id="w892">gefahren</w> <pc xml:id="w893">/</pc> <w xml:id="w894">umb</w>
 						<w xml:id="w895">allda</w>
 						<w xml:id="w896">das</w>
 						<w xml:id="w897">Fest</w>
@@ -1513,8 +1420,7 @@
 						<w xml:id="w904">hohen</w>
 						<w xml:id="w905">Ambt</w>
 						<w xml:id="w906">zu</w>
-						<w xml:id="w907"><hi style="font-family: Antiqua;">celebrir</hi>en</w> <pc xml:id="w908">/</pc>
-						<w xml:id="w909">von</w>
+						<w xml:id="w907"><hi style="font-family: Antiqua;">celebrir</hi>en</w> <pc xml:id="w908">/</pc> <w xml:id="w909">von</w>
 						<lb facs="#facs_4_r1016" xml:id="z95"/>
 						<w xml:id="w910">dannen</w>
 						<w xml:id="w911">sie</w>
@@ -1523,8 +1429,7 @@
 						<w xml:id="w914">nach</w>
 						<w xml:id="w915">der</w>
 						<w xml:id="w916">Favorita</w>
-						<w xml:id="w917">kehreten</w> <pc xml:id="w918">/</pc>
-						<w xml:id="w919">und</w>
+						<w xml:id="w917">kehreten</w> <pc xml:id="w918">/</pc> <w xml:id="w919">und</w>
 						<w xml:id="w920">deß</w>
 						<w xml:id="w921">Abends</w>
 						<w xml:id="w922">sich</w>
@@ -1546,13 +1451,11 @@
 						<w xml:id="w938">Jhro</w>
 						<w xml:id="w939">Kayserliche</w>
 						<w xml:id="w940">und</w>
-						<w xml:id="w941">Königl</w><pc xml:id="w942">.</pc>
-						<w xml:id="w943">Majestät</w>
+						<w xml:id="w941">Königl</w><pc xml:id="w942">.</pc> <w xml:id="w943">Majestät</w>
 						<lb facs="#facs_4_r1020" xml:id="z98"/>
 						<w xml:id="w944">sambt</w>
 						<w xml:id="w945">der</w>
-						<w xml:id="w946">Durchl</w><pc xml:id="w947">.</pc>
-						<w xml:id="w948">jungen</w>
+						<w xml:id="w946">Durchl</w><pc xml:id="w947">.</pc> <w xml:id="w948">jungen</w>
 						<w xml:id="w949">Herschafft</w>
 						<w xml:id="w950">in</w>
 						<w xml:id="w951">dero</w>
@@ -1571,8 +1474,7 @@
 						<w xml:id="w970">abwesende</w>
                         <w xml:id="w971"><hi style="font-family: Antiqua;">Neapo<pc xml:id="w972">-</pc><lb facs="#facs_4_r1022" xml:id="z100"/>litani</hi>sche</w>
 						<w xml:id="w973">Printzen</w>
-						<w xml:id="w974">eingefunden</w> <pc xml:id="w975">/</pc>
-						<w xml:id="w976">und</w>
+						<w xml:id="w974">eingefunden</w> <pc xml:id="w975">/</pc> <w xml:id="w976">und</w>
 						<w xml:id="w977">haben</w>
 						<w xml:id="w978">allda</w>
 						<w xml:id="w979">das</w>
@@ -1592,11 +1494,9 @@
 						<lb facs="#facs_4_r1025" xml:id="z102"/>
 						<w xml:id="w993">Auß</w>
 						<w xml:id="w994">dem</w>
-						<w xml:id="w995">Kayserl</w><pc xml:id="w996">.</pc>
-						<w xml:id="w997">Feldlager</w>
+						<w xml:id="w995">Kayserl</w><pc xml:id="w996">.</pc> <w xml:id="w997">Feldlager</w>
 						<w xml:id="w998">zu</w>
-						<supplied reason="unclear" instant="false"><w xml:id="w999">Haunßheim</w> <pc xml:id="w1000">/</pc>
-							<w xml:id="w1001">vom</w></supplied>
+						<supplied reason="unclear" instant="false"><w xml:id="w999">Haunßheim</w> <pc xml:id="w1000">/</pc> <w xml:id="w1001">vom</w></supplied>
 						<w xml:id="w1002">28</w><pc xml:id="w1003">.</pc>
 						<hi style="font-family: Antiqua;"><w xml:id="w1004">Julij</w></hi><pc xml:id="w1005">.</pc>
 					</head>
@@ -1609,15 +1509,13 @@
 						<w xml:id="w1011">vor</w>
 						<w xml:id="w1012">unserer</w>
 						<hi style="font-family: Antiqua;"><w xml:id="w1013">Armée</w></hi>
-						<w xml:id="w1014">angefangen</w> <pc xml:id="w1015">/</pc>
-						<w xml:id="w1016">seynd</w>
+						<w xml:id="w1014">angefangen</w> <pc xml:id="w1015">/</pc> <w xml:id="w1016">seynd</w>
 						<lb facs="#facs_4_r1028" xml:id="z104"/>
 						<w xml:id="w1017">nunmehro</w>
 						<w xml:id="w1018">zur</w>
 						<w xml:id="w1019">völligen</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1020">Perfection</w></hi>
-						<w xml:id="w1021">gebracht</w><pc xml:id="w1022">.</pc>
-						<w xml:id="w1023">Der</w>
+						<w xml:id="w1021">gebracht</w><pc xml:id="w1022">.</pc> <w xml:id="w1023">Der</w>
 						<w xml:id="w1024">Feind</w>
 						<w xml:id="w1025">thut</w>
 						<w xml:id="w1026">so</w>
@@ -1631,42 +1529,34 @@
 						<w xml:id="w1033">seinem</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1034">Retrenchement</w></hi>
 						<w xml:id="w1035">starck</w>
-						<w xml:id="w1036">arbeiten</w> <pc xml:id="w1037">/</pc>
-						<w xml:id="w1038">und</w>
+						<w xml:id="w1036">arbeiten</w> <pc xml:id="w1037">/</pc> <w xml:id="w1038">und</w>
 						<lb facs="#facs_4_r1030" xml:id="z106"/>
 						<w xml:id="w1039">nehmen</w>
 						<w xml:id="w1040">täglich</w>
-						<w xml:id="w1041">ab</w> <pc xml:id="w1042">/</pc>
-						<w xml:id="w1043">indeme</w>
+						<w xml:id="w1041">ab</w> <pc xml:id="w1042">/</pc> <w xml:id="w1043">indeme</w>
 						<w xml:id="w1044">fast</w>
 						<w xml:id="w1045">bey</w>
 						<w xml:id="w1046">allen</w>
 						<w xml:id="w1047">Compagnien</w>
-						<w xml:id="w1048">15</w><pc xml:id="w1049">.</pc>
-						<w xml:id="w1050">biß</w>
-						<w xml:id="w1051">20</w><pc xml:id="w1052">.</pc>
-						<w xml:id="w1053">und</w>
+						<w xml:id="w1048">15</w><pc xml:id="w1049">.</pc> <w xml:id="w1050">biß</w>
+						<w xml:id="w1051">20</w><pc xml:id="w1052">.</pc> <w xml:id="w1053">und</w>
 						<lb facs="#facs_4_r1031" xml:id="z107"/>
 						<w xml:id="w1054">mehr</w>
 						<w xml:id="w1055">Krancke</w>
 						<w xml:id="w1056">sich</w>
-						<w xml:id="w1057">befinden</w> <pc xml:id="w1058">/</pc>
-						<w xml:id="w1059">und</w>
+						<w xml:id="w1057">befinden</w> <pc xml:id="w1058">/</pc> <w xml:id="w1059">und</w>
 						<w xml:id="w1060">guten</w>
 						<w xml:id="w1061">Theils</w>
 						<w xml:id="w1062">dahin</w>
-						<w xml:id="w1063">sterben</w><pc xml:id="w1064">.</pc>
-						<w xml:id="w1065">Jmmittels</w>
+						<w xml:id="w1063">sterben</w><pc xml:id="w1064">.</pc> <w xml:id="w1065">Jmmittels</w>
 						<lb facs="#facs_4_r1032" xml:id="z108"/>
 						<w xml:id="w1066">ist</w>
 						<w xml:id="w1067">das</w>
-						<w xml:id="w1068">Käyserl</w><pc xml:id="w1069">.</pc>
-						<w xml:id="w1070">Lager</w>
+						<w xml:id="w1068">Käyserl</w><pc xml:id="w1069">.</pc> <w xml:id="w1070">Lager</w>
 						<w xml:id="w1071">nun</w>
 						<w xml:id="w1072">auch</w>
 						<w xml:id="w1073">dergestalt</w>
-						<w xml:id="w1074">ver<hi style="font-family: Antiqua;">trenchi</hi>ret</w> <pc xml:id="w1075">/</pc>
-						<w xml:id="w1076">daß</w>
+						<w xml:id="w1074">ver<hi style="font-family: Antiqua;">trenchi</hi>ret</w> <pc xml:id="w1075">/</pc> <w xml:id="w1076">daß</w>
 						<w xml:id="w1077">eine</w>
 						<w xml:id="w1078">geringe</w>
 						<lb facs="#facs_4_r1033" xml:id="z109"/>
@@ -1674,8 +1564,7 @@
 						<w xml:id="w1080">das</w>
 						<w xml:id="w1081">Würtenberger</w>
 						<w xml:id="w1082">Land</w>
-						<w xml:id="w1083">bedecken</w> <pc xml:id="w1084">/</pc>
-						<w xml:id="w1085">und</w>
+						<w xml:id="w1083">bedecken</w> <pc xml:id="w1084">/</pc> <w xml:id="w1085">und</w>
 						<w xml:id="w1086">der</w>
 						<w xml:id="w1087">Rest</w>
 						<w xml:id="w1088">über</w>
@@ -1684,8 +1573,7 @@
 						<w xml:id="w1090">Donau</w>
 						<w xml:id="w1091">wird</w>
 						<w xml:id="w1092">gehen</w>
-						<w xml:id="w1093">können</w> <pc xml:id="w1094">/</pc>
-						<w xml:id="w1095">zu</w>
+						<w xml:id="w1093">können</w> <pc xml:id="w1094">/</pc> <w xml:id="w1095">zu</w>
 						<w xml:id="w1096">welchem</w>
 						<w xml:id="w1097">End</w>
 						<w xml:id="w1098">die</w>
@@ -1694,8 +1582,7 @@
 						<lb facs="#facs_4_r1035" xml:id="z111"/>
 						<w xml:id="w1103">schon</w>
 						<w xml:id="w1104">parat</w>
-						<w xml:id="w1105">liegen</w><pc xml:id="w1106">.</pc>
-						<w xml:id="w1107">So</w>
+						<w xml:id="w1105">liegen</w><pc xml:id="w1106">.</pc> <w xml:id="w1107">So</w>
 						<w xml:id="w1108">siehen</w>
 						<w xml:id="w1109">auch</w>
 						<w xml:id="w1110">die</w>
@@ -1707,8 +1594,7 @@
 						<w xml:id="w1117">Stund</w>
 						<w xml:id="w1118">von</w>
 						<w xml:id="w1119">der</w>
-						<w xml:id="w1120">Haupt</w><pc xml:id="w1121">=</pc><hi style="font-family: Antiqua;"><w xml:id="w1122">Armée</w></hi><pc xml:id="w1123">,</pc>
-						<w xml:id="w1124">und</w>
+						<w xml:id="w1120">Haupt</w><pc xml:id="w1121">=</pc><hi style="font-family: Antiqua;"><w xml:id="w1122">Armée</w></hi><pc xml:id="w1123">,</pc> <w xml:id="w1124">und</w>
 						<w xml:id="w1125">dörfte</w>
 						<w xml:id="w1126">etwan</w>
 						<w xml:id="w1127">ein</w>
@@ -1717,12 +1603,10 @@
 						<w xml:id="w1131">gegen</w>
 						<w xml:id="w1132">Donauwerth</w>
 						<w xml:id="w1133">vorgenommen</w>
-						<w xml:id="w1134">werden</w><pc xml:id="w1135">.</pc>
-						<w xml:id="w1136">Der</w>
+						<w xml:id="w1134">werden</w><pc xml:id="w1135">.</pc> <w xml:id="w1136">Der</w>
 						<w xml:id="w1137">Herr</w>
 						<w xml:id="w1138">Ge<pc xml:id="w1139">=</pc><lb facs="#facs_4_r1038" xml:id="z114"/>neral</w>
-						<w xml:id="w1140">Feld</w><pc xml:id="w1141">=</pc><w xml:id="w1142">Marschall</w><pc xml:id="w1143">=</pc><hi style="font-family: Antiqua;"><w xml:id="w1144">Lieut</w></hi><pc xml:id="w1145">.</pc>
-						<w xml:id="w1146">Graff</w>
+						<w xml:id="w1140">Feld</w><pc xml:id="w1141">=</pc><w xml:id="w1142">Marschall</w><pc xml:id="w1143">=</pc><hi style="font-family: Antiqua;"><w xml:id="w1144">Lieut</w></hi><pc xml:id="w1145">.</pc> <w xml:id="w1146">Graff</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1147">de</w> <w xml:id="w1148">la</w> <w xml:id="w1149">Tour</w></hi>
 						<w xml:id="w1150">ist</w>
 						<w xml:id="w1151">mit</w>
@@ -1734,15 +1618,13 @@
 						<w xml:id="w1158">Donau</w>
 						<w xml:id="w1159">bey</w>
 						<w xml:id="w1160">Ehingen</w>
-						<w xml:id="w1161">angelangt</w> <pc xml:id="w1162">/</pc>
-						<w xml:id="w1163">welches</w>
+						<w xml:id="w1161">angelangt</w> <pc xml:id="w1162">/</pc> <w xml:id="w1163">welches</w>
 						<w xml:id="w1164">so</w>
 						<w xml:id="w1165">wohl</w>
 						<w xml:id="w1166">auß</w>
 						<lb facs="#facs_4_r1040" xml:id="z116"/>
 						<w xml:id="w1167">dem</w>
-						<w xml:id="w1168">Käyserl</w><pc xml:id="w1169">.</pc>
-						<w xml:id="w1170">Lager</w>
+						<w xml:id="w1168">Käyserl</w><pc xml:id="w1169">.</pc> <w xml:id="w1170">Lager</w>
 						<w xml:id="w1171">als</w>
 						<w xml:id="w1172">anderwärts</w>
 						<w xml:id="w1173">her</w>
@@ -1751,26 +1633,21 @@
                         <hi style="font-family: Antiqua;"><w xml:id="w1176">Cavallerie</w></hi>
 						<w xml:id="w1177">wird</w>
 						<w xml:id="w1178">ver<pc xml:id="w1179">=</pc><lb facs="#facs_4_r1041" xml:id="z117"/>stärcket</w>
-						<w xml:id="w1180">werden</w><pc xml:id="w1181">.</pc>
-						<w xml:id="w1182">So</w>
+						<w xml:id="w1180">werden</w><pc xml:id="w1181">.</pc> <w xml:id="w1182">So</w>
 						<w xml:id="w1183">hat</w>
 						<w xml:id="w1184">man</w>
 						<w xml:id="w1185">auch</w>
-						<w xml:id="w1186">Nachricht</w> <pc xml:id="w1187">/</pc>
-						<w xml:id="w1188">daß</w>
-						<w xml:id="w1189">4000</w><pc xml:id="w1190">.</pc>
-						<w xml:id="w1191">Mann</w>
+						<w xml:id="w1186">Nachricht</w> <pc xml:id="w1187">/</pc> <w xml:id="w1188">daß</w>
+						<w xml:id="w1189">4000</w><pc xml:id="w1190">.</pc> <w xml:id="w1191">Mann</w>
 						<w xml:id="w1192">bereits</w>
 						<lb facs="#facs_4_r1042" xml:id="z118"/>
 						<w xml:id="w1193">über</w>
 						<w xml:id="w1194">die</w>
 						<w xml:id="w1195">Donau</w>
-						<w xml:id="w1196">marschirt</w> <pc xml:id="w1197">/</pc>
-						<w xml:id="w1198">und</w>
+						<w xml:id="w1196">marschirt</w> <pc xml:id="w1197">/</pc> <w xml:id="w1198">und</w>
 						<w xml:id="w1199">auch</w>
 						<w xml:id="w1200">noch</w>
-						<w xml:id="w1201">8000</w><pc xml:id="w1202">.</pc>
-						<w xml:id="w1203">ihnen</w>
+						<w xml:id="w1201">8000</w><pc xml:id="w1202">.</pc> <w xml:id="w1203">ihnen</w>
 						<w xml:id="w1204">nachfolgen</w>
 						<lb facs="#facs_4_line_1511366985375_3" xml:id="z119"/>
 						<w xml:id="w1205">sollen</w><pc xml:id="w1206">.</pc>
@@ -1787,8 +1664,7 @@
 					<p xml:id="p12" rendition="#f" facs="#facs_5_r_1_1" part="N">
 						<lb facs="#facs_5_r1001" xml:id="z121"/>
                         <label xml:id="hl4">
-                            <w xml:id="w1209">Ober</w><pc xml:id="w1210">=</pc><w xml:id="w1211">Elsaß</w> <pc xml:id="w1212">/</pc>
-						<w xml:id="w1213">vom</w>
+                            <w xml:id="w1209">Ober</w><pc xml:id="w1210">=</pc><w xml:id="w1211">Elsaß</w> <pc xml:id="w1212">/</pc> <w xml:id="w1213">vom</w>
 						<w xml:id="w1214">24</w><pc xml:id="w1215">.</pc>
 						<hi style="font-family: Antiqua;"><w xml:id="w1216">Julij</w><pc xml:id="w1217">.</pc></hi>
                         </label>
@@ -1801,11 +1677,9 @@
 						<w xml:id="w1225">stehet</w>
 						<w xml:id="w1226">noch</w>
 						<w xml:id="w1227">bey</w>
-						<w xml:id="w1228">Willstädt</w> <pc xml:id="w1229">/</pc>
-						<w xml:id="w1230">und</w>
+						<w xml:id="w1228">Willstädt</w> <pc xml:id="w1229">/</pc> <w xml:id="w1230">und</w>
 						<w xml:id="w1231">vermeint</w>
-						<w xml:id="w1232">man</w> <pc xml:id="w1233">/</pc>
-						<w xml:id="w1234">daß</w>
+						<w xml:id="w1232">man</w> <pc xml:id="w1233">/</pc> <w xml:id="w1234">daß</w>
 						<w xml:id="w1235">solche</w>
 						<w xml:id="w1236">den</w>
 						<w xml:id="w1237">Rhein</w>
@@ -1818,16 +1692,14 @@
 						<w xml:id="w1243">zwar</w>
 						<w xml:id="w1244">neulich</w>
 						<w xml:id="w1245">verlauten</w>
-						<w xml:id="w1246">wollen</w> <pc xml:id="w1247">/</pc>
-						<w xml:id="w1248">daß</w>
+						<w xml:id="w1246">wollen</w> <pc xml:id="w1247">/</pc> <w xml:id="w1248">daß</w>
 						<w xml:id="w1249">der<pc xml:id="w1250">=</pc><lb facs="#facs_5_r1004" xml:id="z124"/>selben</w>
 						<w xml:id="w1251">Vorhaben</w>
 						<w xml:id="w1252">gewesen</w>
 						<w xml:id="w1253">wäre</w>
 						<w xml:id="w1254">Freyburg</w>
 						<w xml:id="w1255">zu</w>
-						<w xml:id="w1256">belägern</w> <pc xml:id="w1257">/</pc>
-						<w xml:id="w1258">weilen</w>
+						<w xml:id="w1256">belägern</w> <pc xml:id="w1257">/</pc> <w xml:id="w1258">weilen</w>
 						<w xml:id="w1259">aber</w>
 						<w xml:id="w1260">die</w>
 						<lb facs="#facs_5_r1005" xml:id="z125"/>
@@ -1840,14 +1712,11 @@
 						<w xml:id="w1267">zu</w>
 						<w xml:id="w1268">der</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1269">Armée</w></hi>
-						<w xml:id="w1270">beschrieben</w> <pc xml:id="w1271">/</pc>
-						<w xml:id="w1272">wiede<pc xml:id="w1273">=</pc><lb facs="#facs_5_r1006" xml:id="z126"/>rumb</w>
+						<w xml:id="w1270">beschrieben</w> <pc xml:id="w1271">/</pc> <w xml:id="w1272">wiede<pc xml:id="w1273">=</pc><lb facs="#facs_5_r1006" xml:id="z126"/>rumb</w>
 						<w xml:id="w1274"><hi style="font-family: Antiqua;">contramandi</hi>rt</w>
-						<w xml:id="w1275">worden</w> <pc xml:id="w1276">/</pc>
-						<w xml:id="w1277">auch</w>
+						<w xml:id="w1275">worden</w> <pc xml:id="w1276">/</pc> <w xml:id="w1277">auch</w>
 						<w xml:id="w1278">verlauten</w>
-						<w xml:id="w1279">will</w> <pc xml:id="w1280">/</pc>
-						<w xml:id="w1281">daß</w>
+						<w xml:id="w1279">will</w> <pc xml:id="w1280">/</pc> <w xml:id="w1281">daß</w>
 						<w xml:id="w1282">ein</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1283">Detachement</w></hi>
 						<lb facs="#facs_5_r1007" xml:id="z127"/>
@@ -1856,8 +1725,7 @@
 						<w xml:id="w1286">nacher</w>
 						<w xml:id="w1287">Flandern</w>
 						<w xml:id="w1288">gehn</w>
-						<w xml:id="w1289">solle</w> <pc xml:id="w1290">/</pc> <pc xml:id="w1291">/</pc>
-						<w xml:id="w1292">als</w>
+						<w xml:id="w1289">solle</w> <pc xml:id="w1290">/</pc> <pc xml:id="w1291">/</pc> <w xml:id="w1292">als</w>
 						<w xml:id="w1293">dörffte</w>
 						<w xml:id="w1294">so</w>
 						<w xml:id="w1295">wol</w>
@@ -1904,20 +1772,17 @@
 						<w xml:id="w1335">Rhein</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1336">detachirt</w></hi>
 						<lb facs="#facs_5_r1013" xml:id="z132"/>
-						<w xml:id="w1337">worden</w> <pc xml:id="w1338">/</pc>
-						<w xml:id="w1339">welcher</w>
+						<w xml:id="w1337">worden</w> <pc xml:id="w1338">/</pc> <w xml:id="w1339">welcher</w>
 						<w xml:id="w1340">Seits</w>
 						<w xml:id="w1341">sich</w>
 						<w xml:id="w1342">frische</w>
 						<w xml:id="w1343">ankommene</w>
 						<w xml:id="w1344">Völcker</w>
 						<w xml:id="w1345">in</w>
-						<w xml:id="w1346">6000</w><pc xml:id="w1347">.</pc>
-						<w xml:id="w1348">Mann</w>
+						<w xml:id="w1346">6000</w><pc xml:id="w1347">.</pc> <w xml:id="w1348">Mann</w>
 						<lb facs="#facs_5_r1014" xml:id="z133"/>
 						<w xml:id="w1349">ungefähr</w>
-						<w xml:id="w1350">befinden</w> <pc xml:id="w1351">/</pc>
-						<w xml:id="w1352">und</w>
+						<w xml:id="w1350">befinden</w> <pc xml:id="w1351">/</pc> <w xml:id="w1352">und</w>
 						<w xml:id="w1353">in</w>
 						<w xml:id="w1354">die</w>
 						<w xml:id="w1355">Linien</w>
@@ -1928,8 +1793,7 @@
 						<w xml:id="w1362">andern</w>
 						<lb facs="#facs_5_r1015" xml:id="z134"/>
 						<w xml:id="w1363">Völckern</w>
-						<w xml:id="w1364">eingerucket</w><pc xml:id="w1365">.</pc>
-						<w xml:id="w1366">Hingegen</w>
+						<w xml:id="w1364">eingerucket</w><pc xml:id="w1365">.</pc> <w xml:id="w1366">Hingegen</w>
 						<w xml:id="w1367">sollen</w>
 						<w xml:id="w1368">die</w>
 						<w xml:id="w1369">Holländische</w>
@@ -1941,8 +1805,7 @@
 						<w xml:id="w1374">der</w>
 						<w xml:id="w1375">grossen</w>
 						<hi style="font-family: Antiqua;"><w xml:id="w1376">Armée</w></hi>
-						<w xml:id="w1377"><hi style="font-family: Antiqua;">marchi</hi>ren</w><pc xml:id="w1378">.</pc>
-						<w xml:id="w1379">Der</w>
+						<w xml:id="w1377"><hi style="font-family: Antiqua;">marchi</hi>ren</w><pc xml:id="w1378">.</pc> <w xml:id="w1379">Der</w>
 						<w xml:id="w1380">Herr</w>
 						<w xml:id="w1381">General</w>
 						<w xml:id="w1382">von</w>
@@ -1950,8 +1813,7 @@
 						<w xml:id="w1383">Thüngen</w>
 						<w xml:id="w1384">ist</w>
 						<w xml:id="w1385">zu</w>
-						<w xml:id="w1386">Stollhofen</w> <pc xml:id="w1387">/</pc>
-						<w xml:id="w1388">und</w>
+						<w xml:id="w1386">Stollhofen</w> <pc xml:id="w1387">/</pc> <w xml:id="w1388">und</w>
 						<w xml:id="w1389">ist</w>
 						<w xml:id="w1390">Wilens</w>
 						<w xml:id="w1391">auß</w>
@@ -1960,8 +1822,7 @@
 						<w xml:id="w1394">weiter</w>
 						<w xml:id="w1395">hin<pc xml:id="w1396">=</pc><lb facs="#facs_5_r1018" xml:id="z137"/>auff</w>
 						<w xml:id="w1397">zu</w>
-						<w xml:id="w1398">rucken</w> <pc xml:id="w1399">/</pc>
-						<w xml:id="w1400">hingegen</w>
+						<w xml:id="w1398">rucken</w> <pc xml:id="w1399">/</pc> <w xml:id="w1400">hingegen</w>
 						<w xml:id="w1401">erwarten</w>
 						<w xml:id="w1402">die</w>
 						<w xml:id="w1403">bey</w>
@@ -1981,13 +1842,11 @@
 						<lb facs="#facs_5_r1020" xml:id="z139"/>
 						<w xml:id="w1419">Man</w>
 						<w xml:id="w1420">will</w>
-						<w xml:id="w1421">versichern</w> <pc xml:id="w1422">/</pc>
-						<w xml:id="w1423">daß</w>
+						<w xml:id="w1421">versichern</w> <pc xml:id="w1422">/</pc> <w xml:id="w1423">daß</w>
 						<w xml:id="w1424">ein</w>
 						<w xml:id="w1425">grosses</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1426">Dessein</w></hi>
-						<w xml:id="w1427">obhanden</w> <pc xml:id="w1428">/</pc>
-						<w xml:id="w1429">dessen</w>
+						<w xml:id="w1427">obhanden</w> <pc xml:id="w1428">/</pc> <w xml:id="w1429">dessen</w>
 						<w xml:id="w1430">Vollfüh<pc xml:id="w1431">=</pc><lb facs="#facs_5_r1021" xml:id="z140"/>rung</w>
 						<w xml:id="w1432">sich</w>
 						<w xml:id="w1433">aber</w>
@@ -1998,8 +1857,7 @@
 					<p xml:id="p14" rendition="#f" facs="#facs_5_r_1_4" part="N">
 						<lb facs="#facs_5_r1027" xml:id="z141"/>
                         <label xml:id="hl6">
-                            <w xml:id="w1438">Cölln</w> <pc xml:id="w1439">/</pc>
-						<w xml:id="w1440">den</w>
+                            <w xml:id="w1438">Cölln</w> <pc xml:id="w1439">/</pc> <w xml:id="w1440">den</w>
 						<w xml:id="w1441">28</w><pc xml:id="w1442">.</pc>
 						<hi style="font-family: Antiqua;"><w xml:id="w1443">Julij</w></hi><pc xml:id="w1444">.</pc>
                         </label>
@@ -2011,18 +1869,15 @@
 						<w xml:id="w1450">in</w>
 						<lb facs="#facs_5_r1028" xml:id="z142"/>
 						<w xml:id="w1451">Bonn</w>
-						<w xml:id="w1452">liegen</w> <pc xml:id="w1453">/</pc>
-						<w xml:id="w1454">sollen</w>
+						<w xml:id="w1452">liegen</w> <pc xml:id="w1453">/</pc> <w xml:id="w1454">sollen</w>
 						<w xml:id="w1455">noch</w>
 						<w xml:id="w1456">nicht</w>
 						<w xml:id="w1457">herauß</w>
-						<w xml:id="w1458">marschiren</w> <pc xml:id="w1459">/</pc>
-						<w xml:id="w1460">wie</w>
+						<w xml:id="w1458">marschiren</w> <pc xml:id="w1459">/</pc> <w xml:id="w1460">wie</w>
 						<w xml:id="w1461">neülich</w>
 						<w xml:id="w1462">verlauten</w>
 						<lb facs="#facs_5_r1029" xml:id="z143"/>
-						<w xml:id="w1463">wollen</w><pc xml:id="w1464">:</pc>
-						<w xml:id="w1465">Es</w>
+						<w xml:id="w1463">wollen</w><pc xml:id="w1464">:</pc> <w xml:id="w1465">Es</w>
 						<w xml:id="w1466">haben</w>
 						<w xml:id="w1467">aber</w>
 						<w xml:id="w1468">die</w>
@@ -2036,8 +1891,7 @@
 						<w xml:id="w1475">Hochwürdigen</w>
 						<w xml:id="w1476">Thomb</w><pc xml:id="w1477">=</pc><w xml:id="w1478">Capitel</w>
 						<w xml:id="w1479">vorstellen</w>
-						<w xml:id="w1480">lassen</w> <pc xml:id="w1481">/</pc>
-						<w xml:id="w1482">daß</w>
+						<w xml:id="w1480">lassen</w> <pc xml:id="w1481">/</pc> <w xml:id="w1482">daß</w>
 						<w xml:id="w1483">man</w>
 						<w xml:id="w1484">selbsten</w>
 						<w xml:id="w1485">so</w>
@@ -2045,8 +1899,7 @@
 						<lb facs="#facs_5_r1031" xml:id="z145"/>
 						<w xml:id="w1487">Völcker</w>
 						<w xml:id="w1488">anwerben</w>
-						<w xml:id="w1489">möge</w> <pc xml:id="w1490">/</pc>
-						<w xml:id="w1491">als</w>
+						<w xml:id="w1489">möge</w> <pc xml:id="w1490">/</pc> <w xml:id="w1491">als</w>
 						<w xml:id="w1492">zu</w>
 						<w xml:id="w1493">Besetzung</w>
 						<w xml:id="w1494">der</w>
@@ -2055,11 +1908,9 @@
 						<lb facs="#facs_5_r1032" xml:id="z146"/>
 						<w xml:id="w1501">Vestungen</w>
 						<w xml:id="w1502">vonnöthen</w>
-						<w xml:id="w1503">wären</w> <pc xml:id="w1504">/</pc>
-						<w xml:id="w1505">massen</w>
+						<w xml:id="w1503">wären</w> <pc xml:id="w1504">/</pc> <w xml:id="w1505">massen</w>
 						<w xml:id="w1506">die</w>
-						<w xml:id="w1507">Hochm</w><pc xml:id="w1508">.</pc>
-						<w xml:id="w1509">Herren</w>
+						<w xml:id="w1507">Hochm</w><pc xml:id="w1508">.</pc> <w xml:id="w1509">Herren</w>
 						<w xml:id="w1510">Staaten</w>
 						<w xml:id="w1511">bey</w>
 						<lb facs="#facs_5_r1033" xml:id="z147"/>
@@ -2070,8 +1921,7 @@
 						<w xml:id="w1516">mehr</w>
 						<w xml:id="w1517">Völcker</w>
 						<w xml:id="w1518">annehmen</w>
-						<w xml:id="w1519">wollen</w><pc xml:id="w1520">:</pc>
-						<w xml:id="w1521">zu</w>
+						<w xml:id="w1519">wollen</w><pc xml:id="w1520">:</pc> <w xml:id="w1521">zu</w>
 						<w xml:id="w1522">Folge</w>
 						<w xml:id="w1523">disem</w>
 						<lb facs="#facs_5_r1034" xml:id="z148"/>
@@ -2079,16 +1929,13 @@
 						<w xml:id="w1525">man</w>
 						<w xml:id="w1526">vorerst</w>
 						<w xml:id="w1527">noch</w>
-						<w xml:id="w1528">2</w><pc xml:id="w1529">.</pc>
-						<w xml:id="w1530">Regimenter</w>
+						<w xml:id="w1528">2</w><pc xml:id="w1529">.</pc> <w xml:id="w1530">Regimenter</w>
 						<w xml:id="w1531">jedes</w>
 						<w xml:id="w1532">von</w>
-						<w xml:id="w1533">1000</w><pc xml:id="w1534">.</pc>
-						<w xml:id="w1535">Mann</w>
+						<w xml:id="w1533">1000</w><pc xml:id="w1534">.</pc> <w xml:id="w1535">Mann</w>
 						<w xml:id="w1536">annehmen</w>
 						<lb facs="#facs_5_r1035" xml:id="z149"/>
-						<w xml:id="w1537">müssen</w> <pc xml:id="w1538">/</pc>
-						<w xml:id="w1539">dahero</w>
+						<w xml:id="w1537">müssen</w> <pc xml:id="w1538">/</pc> <w xml:id="w1539">dahero</w>
 						<w xml:id="w1540">auch</w>
 						<w xml:id="w1541">die</w>
 						<w xml:id="w1542">Cöllnische</w>
@@ -2097,8 +1944,7 @@
 						<w xml:id="w1545">den</w>
 						<w xml:id="w1546">vom</w>
 						<w xml:id="w1547">hohen</w>
-						<w xml:id="w1548">Thom<pc xml:id="w1549">=</pc><lb facs="#facs_5_r1036" xml:id="z150"/>Capitel</w> <pc xml:id="w1550">/</pc>
-						<w xml:id="w1551">und</w>
+						<w xml:id="w1548">Thom<pc xml:id="w1549">=</pc><lb facs="#facs_5_r1036" xml:id="z150"/>Capitel</w> <pc xml:id="w1550">/</pc> <w xml:id="w1551">und</w>
 						<w xml:id="w1552">den</w>
 						<w xml:id="w1553">Landständen</w>
 						<w xml:id="w1554">vor</w>
@@ -2110,8 +1956,7 @@
 						<w xml:id="w1559">dem</w>
 						<w xml:id="w1560">Kriegs</w><pc xml:id="w1561">=</pc><hi style="font-family: Antiqua;"><w xml:id="w1562">Commissario</w></hi>
 						<w xml:id="w1563">einlieffern</w>
-						<w xml:id="w1564">müssen</w> <pc xml:id="w1565">/</pc>
-						<w xml:id="w1566">zu</w>
+						<w xml:id="w1564">müssen</w> <pc xml:id="w1565">/</pc> <w xml:id="w1566">zu</w>
 						<w xml:id="w1567">Außführung</w>
 						<w xml:id="w1568">der</w>
 						<w xml:id="w1569">zur</w>
@@ -2119,10 +1964,8 @@
 						<w xml:id="w1572"><hi style="font-family: Antiqua;">destini</hi>rten</w>
 						<w xml:id="w1573">Werbungen</w>
 						<w xml:id="w1574">der</w>
-						<w xml:id="w1575">Regimenter</w><pc xml:id="w1576">.</pc>
-						<w xml:id="w1577">Jnnerhalb</w>
-						<w xml:id="w1578">3</w><pc xml:id="w1579">.</pc>
-						<w xml:id="w1580">Wochen</w>
+						<w xml:id="w1575">Regimenter</w><pc xml:id="w1576">.</pc> <w xml:id="w1577">Jnnerhalb</w>
+						<w xml:id="w1578">3</w><pc xml:id="w1579">.</pc> <w xml:id="w1580">Wochen</w>
 						<lb facs="#facs_5_r1039" xml:id="z153"/>
 						<w xml:id="w1581">wird</w>
 						<w xml:id="w1582">das</w>
@@ -2131,15 +1974,13 @@
 						<w xml:id="w1587">Jagd</w><pc xml:id="w1588">=</pc><w xml:id="w1589">Schiff</w>
 						<w xml:id="w1590">in</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1591">Perfection</w></hi>
-						<w xml:id="w1592">seyn</w> <pc xml:id="w1593">/</pc>
-						<w xml:id="w1594">umb</w>
+						<w xml:id="w1592">seyn</w> <pc xml:id="w1593">/</pc> <w xml:id="w1594">umb</w>
 						<lb facs="#facs_5_r1040" xml:id="z154"/>
 						<w xml:id="w1595">hinauf</w>
 						<w xml:id="w1596">nach</w>
 						<w xml:id="w1597">Franckfurth</w>
 						<w xml:id="w1598">zu</w>
-						<w xml:id="w1599">fahren</w> <pc xml:id="w1600">/</pc>
-						<w xml:id="w1601">und</w>
+						<w xml:id="w1599">fahren</w> <pc xml:id="w1600">/</pc> <w xml:id="w1601">und</w>
 						<w xml:id="w1602">die</w>
 						<w xml:id="w1603">Ankunfft</w>
 						<w xml:id="w1604">deß</w>
@@ -2148,8 +1989,7 @@
 						<w xml:id="w1608">Carl</w>
 						<w xml:id="w1609">von</w>
 						<w xml:id="w1610">Oesterreich</w>
-						<w xml:id="w1611">abzuwarten</w> <pc xml:id="w1612">/</pc>
-						<w xml:id="w1613">umb</w>
+						<w xml:id="w1611">abzuwarten</w> <pc xml:id="w1612">/</pc> <w xml:id="w1613">umb</w>
 						<w xml:id="w1614">nach</w>
 						<w xml:id="w1615">Holland</w>
 						<w xml:id="w1616">abzuführen</w><pc xml:id="w1617">.</pc>
@@ -2173,8 +2013,7 @@
 						<w xml:id="w1631">nun</w>
 						<w xml:id="w1632">zu</w>
 						<w xml:id="w1633">Baaden</w>
-						<w xml:id="w1634">anlangen</w> <pc xml:id="w1635">/</pc>
-						<w xml:id="w1636">weiler</w>
+						<w xml:id="w1634">anlangen</w> <pc xml:id="w1635">/</pc> <w xml:id="w1636">weiler</w>
 						<w xml:id="w1637">schon</w>
 						<w xml:id="w1638">über</w>
 						<w xml:id="w1639">Gotthard</w>
@@ -2204,12 +2043,10 @@
 				<div xml:id="d11" part="N" org="uniform" sample="complete">
 					<p xml:id="p16" rendition="#f" facs="#facs_6_r_1_1" part="N">
 						<lb facs="#facs_6_r1001" xml:id="z160"/>
-						<w xml:id="w1657">wartet</w><pc xml:id="w1658">.</pc>
-						<w xml:id="w1659">Sonst</w>
+						<w xml:id="w1657">wartet</w><pc xml:id="w1658">.</pc> <w xml:id="w1659">Sonst</w>
 						<w xml:id="w1660">hat</w>
 						<w xml:id="w1661">man</w>
-						<w xml:id="w1662">bericht</w> <pc xml:id="w1663">/</pc>
-						<w xml:id="w1664">daß</w>
+						<w xml:id="w1662">bericht</w> <pc xml:id="w1663">/</pc> <w xml:id="w1664">daß</w>
 						<w xml:id="w1665">abermalen</w>
 						<w xml:id="w1666">eine</w>
 						<w xml:id="w1667"><hi style="font-family: Antiqua;">Acti</hi>on</w>
@@ -2218,25 +2055,20 @@
 						<w xml:id="w1671"><hi style="font-family: Antiqua;">Malcontent</hi>en</w>
 						<w xml:id="w1672">und</w>
 						<w xml:id="w1673">denen</w>
-						<w xml:id="w1674">Königl</w><pc xml:id="w1675">.</pc>
-						<w xml:id="w1676">Frantzösis</w><pc xml:id="w1677">.</pc>
-						<w xml:id="w1678">Völckern</w>
+						<w xml:id="w1674">Königl</w><pc xml:id="w1675">.</pc> <w xml:id="w1676">Frantzösis</w><pc xml:id="w1677">.</pc> <w xml:id="w1678">Völckern</w>
 						<w xml:id="w1679">bey</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1680">St</w><pc xml:id="w1681">.</pc> <w xml:id="w1682">Felix</w></hi>
 						<lb facs="#facs_6_r1003" xml:id="z162"/>
-						<w xml:id="w1683">vorgegangen</w> <pc xml:id="w1684">/</pc>
-						<w xml:id="w1685">wobey</w>
+						<w xml:id="w1683">vorgegangen</w> <pc xml:id="w1684">/</pc> <w xml:id="w1685">wobey</w>
 						<w xml:id="w1686">die</w>
 						<w xml:id="w1687">letzten</w>
 						<w xml:id="w1688">ziemblich</w>
 						<w xml:id="w1689">geltiten</w>
-						<w xml:id="w1690">haben</w> <pc xml:id="w1691">/</pc>
-						<w xml:id="w1692">dem</w>
+						<w xml:id="w1690">haben</w> <pc xml:id="w1691">/</pc> <w xml:id="w1692">dem</w>
 						<w xml:id="w1693">wird</w>
 						<w xml:id="w1694">auch</w>
 						<lb facs="#facs_6_r1004" xml:id="z163"/>
-						<w xml:id="w1695">beygefügt</w> <pc xml:id="w1696">/</pc>
-						<w xml:id="w1697">daß</w>
+						<w xml:id="w1695">beygefügt</w> <pc xml:id="w1696">/</pc> <w xml:id="w1697">daß</w>
 						<w xml:id="w1698">ein</w>
 						<w xml:id="w1699">starckes</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1700">Detachement</w> <w xml:id="w1701">Malcontenten</w></hi>
@@ -2245,22 +2077,18 @@
                         <hi style="font-family: Antiqua;"><w xml:id="w1704">Vivarez</w></hi>
 						<lb facs="#facs_6_r1005" xml:id="z164"/>
 						<w xml:id="w1705">eingeruckt</w>
-						<w xml:id="w1706">wäre</w> <pc xml:id="w1707">/</pc>
-						<w xml:id="w1708">und</w>
+						<w xml:id="w1706">wäre</w> <pc xml:id="w1707">/</pc> <w xml:id="w1708">und</w>
 						<w xml:id="w1709">anjeto</w>
 						<w xml:id="w1710">auch</w>
 						<w xml:id="w1711">Reuterey</w>
 						<w xml:id="w1712">bey</w>
 						<w xml:id="w1713">sich</w>
-						<w xml:id="w1714">habe</w><pc xml:id="w1715">.</pc>
-						<w xml:id="w1716">Pariser</w>
+						<w xml:id="w1714">habe</w><pc xml:id="w1715">.</pc> <w xml:id="w1716">Pariser</w>
 						<lb facs="#facs_6_r1006" xml:id="z165"/>
 						<w xml:id="w1717">Brieffe</w>
 						<w xml:id="w1718">von</w>
-						<w xml:id="w1719">28</w><pc xml:id="w1720">.</pc>
-						<w xml:id="w1721">dises</w>
-						<w xml:id="w1722">melden</w> <pc xml:id="w1723">/</pc>
-						<w xml:id="w1724">daß</w>
+						<w xml:id="w1719">28</w><pc xml:id="w1720">.</pc> <w xml:id="w1721">dises</w>
+						<w xml:id="w1722">melden</w> <pc xml:id="w1723">/</pc> <w xml:id="w1724">daß</w>
 						<w xml:id="w1725">der</w>
 						<w xml:id="w1726">König</w>
 						<w xml:id="w1727">von</w>
@@ -2275,8 +2103,7 @@
 						<w xml:id="w1736">die</w>
 						<w xml:id="w1737">verlangte</w>
 						<w xml:id="w1738">Audientz</w>
-						<w xml:id="w1739">abgeschlagen</w> <pc xml:id="w1740">/</pc>
-						<w xml:id="w1741">welches</w>
+						<w xml:id="w1739">abgeschlagen</w> <pc xml:id="w1740">/</pc> <w xml:id="w1741">welches</w>
 						<lb facs="#facs_6_r1008" xml:id="z167"/>
 						<w xml:id="w1742">er</w>
 						<w xml:id="w1743">alsobald</w>
@@ -2290,8 +2117,7 @@
 						<w xml:id="w1751">Lisabonn</w>
 						<w xml:id="w1752">abgeschickt</w>
 						<lb facs="#facs_6_r1009" xml:id="z168"/>
-						<w xml:id="w1753">hat</w><pc xml:id="w1754">.</pc>
-						<w xml:id="w1755">Der</w>
+						<w xml:id="w1753">hat</w><pc xml:id="w1754">.</pc> <w xml:id="w1755">Der</w>
 						<w xml:id="w1756">König</w>
 						<w xml:id="w1757">von</w>
 						<w xml:id="w1758">Franckreich</w>
@@ -2300,18 +2126,15 @@
 						<w xml:id="w1761">Herrn</w>
 						<w xml:id="w1762">Graffen</w>
 						<w xml:id="w1763">von</w>
-						<w xml:id="w1764">Wallen<pc xml:id="w1765">=</pc><lb facs="#facs_6_r1010" xml:id="z169"/>stein</w> <pc xml:id="w1766">/</pc>
-						<w xml:id="w1767">so</w>
+						<w xml:id="w1764">Wallen<pc xml:id="w1765">=</pc><lb facs="#facs_6_r1010" xml:id="z169"/>stein</w> <pc xml:id="w1766">/</pc> <w xml:id="w1767">so</w>
 						<w xml:id="w1768">zu</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w1769">Vincennes</w></hi>
 						<w xml:id="w1770">den</w>
 						<w xml:id="w1771">10</w><pc xml:id="w1772">.</pc>
                         <hi style="font-family: Antiqua;"><w xml:id="w1773">dito</w></hi>
-						<w xml:id="w1774">angelanget</w> <pc xml:id="w1775">/</pc>
-						<w xml:id="w1776">wieder</w>
+						<w xml:id="w1774">angelanget</w> <pc xml:id="w1775">/</pc> <w xml:id="w1776">wieder</w>
 						<w xml:id="w1777">vor</w>
-						<w xml:id="w1778">50</w><pc xml:id="w1779">.</pc>
-						<w xml:id="w1780">tausend</w>
+						<w xml:id="w1778">50</w><pc xml:id="w1779">.</pc> <w xml:id="w1780">tausend</w>
 						<lb facs="#facs_6_r1011" xml:id="z170"/>
                         <hi style="font-family: Antiqua;"><w xml:id="w1781">Livres</w></hi>
 						<w xml:id="w1782">an</w>
@@ -2328,9 +2151,7 @@
                             <hi style="font-family: Antiqua;"><w xml:id="w1791">Julij</w></hi><pc xml:id="w1792">.</pc>
                         </label>
 						<w xml:id="w1793">Jhro</w>
-						<w xml:id="w1794">Königl</w><pc xml:id="w1795">.</pc>
-						<w xml:id="w1796">Majest</w><pc xml:id="w1797">.</pc>
-						<w xml:id="w1798">in</w>
+						<w xml:id="w1794">Königl</w><pc xml:id="w1795">.</pc> <w xml:id="w1796">Majest</w><pc xml:id="w1797">.</pc> <w xml:id="w1798">in</w>
 						<w xml:id="w1799">Preussen</w>
 						<w xml:id="w1800">seynd</w>
 						<w xml:id="w1801">vor</w>
@@ -2339,16 +2160,13 @@
 						<w xml:id="w1803">Tagen</w>
 						<w xml:id="w1804">nach</w>
 						<w xml:id="w1805">Oranienburg</w>
-						<w xml:id="w1806">abgereißet</w> <pc xml:id="w1807">/</pc>
-						<w xml:id="w1808">umb</w>
+						<w xml:id="w1806">abgereißet</w> <pc xml:id="w1807">/</pc> <w xml:id="w1808">umb</w>
 						<w xml:id="w1809">sich</w>
-						<w xml:id="w1810">8</w><pc xml:id="w1811">.</pc>
-						<w xml:id="w1812">Tag</w>
+						<w xml:id="w1810">8</w><pc xml:id="w1811">.</pc> <w xml:id="w1812">Tag</w>
 						<w xml:id="w1813">alldar</w>
 						<w xml:id="w1814">zu</w>
 						<lb facs="#facs_6_r1015" xml:id="z173"/>
-                        <w xml:id="w1815"><hi style="font-family: Antiqua;">diverti</hi>ren</w><pc xml:id="w1816">.</pc>
-						<w xml:id="w1817">Hierbey</w>
+                        <w xml:id="w1815"><hi style="font-family: Antiqua;">diverti</hi>ren</w><pc xml:id="w1816">.</pc> <w xml:id="w1817">Hierbey</w>
 						<w xml:id="w1818">ist</w>
 						<w xml:id="w1819">ferner</w>
 						<w xml:id="w1820">zu</w>
@@ -2366,8 +2184,7 @@
 						<w xml:id="w1831">Friderich</w>
 						<w xml:id="w1832">Willhelms</w>
 						<w xml:id="w1833">zu</w>
-						<w xml:id="w1834">lesen</w><pc xml:id="w1835">:</pc>
-						<w xml:id="w1836">die</w>
+						<w xml:id="w1834">lesen</w><pc xml:id="w1835">:</pc> <w xml:id="w1836">die</w>
 						<w xml:id="w1837">bey</w>
 						<w xml:id="w1838">solcher</w>
 						<lb facs="#facs_6_r1017" xml:id="z175"/>
@@ -2399,37 +2216,25 @@
 						<w xml:id="w1931">Flotte</w>
 						<w xml:id="w1932">unterm</w>
 						<w xml:id="w1933">Ritter</w>
-						<w xml:id="w1934">Chovel</w> <pc xml:id="w1935">/</pc>
-						<w xml:id="w1936">ist</w>
+						<w xml:id="w1934">Chovel</w> <pc xml:id="w1935">/</pc> <w xml:id="w1936">ist</w>
 						<w xml:id="w1937">den</w>
 						<lb facs="#facs_6_r1036" xml:id="z188"/>
 						<w xml:id="w1938">17</w><pc xml:id="w1939">.</pc>
 						<hi style="font-family: Antiqua;"><w xml:id="w1940">Dortmouth</w></hi>
-						<w xml:id="w1941"><hi style="font-family: Antiqua;">passi</hi>ret</w> <pc xml:id="w1942">/</pc>
-						<w xml:id="w1943">8</w><pc xml:id="w1944">.</pc>
+						<w xml:id="w1941"><hi style="font-family: Antiqua;">passi</hi>ret</w> <pc xml:id="w1942">/</pc> <w xml:id="w1943">8</w><pc xml:id="w1944">.</pc>
                         <hi style="font-family: Antiqua;"><w xml:id="w1945">Capital</w></hi>
-						<w xml:id="w1946">Schiffe</w> <pc xml:id="w1947">/</pc>
-						<w xml:id="w1948">sollen</w>
+						<w xml:id="w1946">Schiffe</w> <pc xml:id="w1947">/</pc> <w xml:id="w1948">sollen</w>
 						<w xml:id="w1949">ehestes</w>
 						<w xml:id="w1950">demselben</w>
-						<w xml:id="w1951">fol<pc xml:id="w1952">=</pc><lb facs="#facs_6_r1037" xml:id="z189"/>gen</w> <pc xml:id="w1953">/</pc>
-						<w xml:id="w1954">so</w> <pc xml:id="w1955">/</pc>
-						<w xml:id="w1956">daß</w>
+						<w xml:id="w1951">fol<pc xml:id="w1952">=</pc><lb facs="#facs_6_r1037" xml:id="z189"/>gen</w> <pc xml:id="w1953">/</pc> <w xml:id="w1954">so</w> <pc xml:id="w1955">/</pc> <w xml:id="w1956">daß</w>
 						<w xml:id="w1957">er</w>
-						<w xml:id="w1958">8</w><pc xml:id="w1959">.</pc>
-						<w xml:id="w1960">Schiffe</w>
+						<w xml:id="w1958">8</w><pc xml:id="w1959">.</pc> <w xml:id="w1960">Schiffe</w>
 						<w xml:id="w1961">von</w>
 						<w xml:id="w1962">der</w>
-                        <hi style="font-family: Antiqua;"><w xml:id="w1963">Linie</w></hi><pc xml:id="w1964">,</pc>
-						<w xml:id="w1965">ausser</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w1963">Linie</w></hi><pc xml:id="w1964">,</pc> <w xml:id="w1965">ausser</w>
 						<w xml:id="w1966">denen</w>
-						<w xml:id="w1967">Fregatten</w> <pc xml:id="w1968">/</pc>
-						<w xml:id="w1969">Bran<pc xml:id="w1970">=</pc><lb facs="#facs_6_r1038" xml:id="z190"/>ders</w> <pc xml:id="w1971">/</pc>
-						<w xml:id="w1972">Bombardirer</w> <pc xml:id="w1973">/</pc>
-						<w xml:id="w1974">Gallioten</w> <pc xml:id="w1975">/</pc>
-						<w xml:id="w1976">starck</w>
-						<w xml:id="w1977">ist</w><pc xml:id="w1978">:</pc>
-						<w xml:id="w1979">Er</w>
+						<w xml:id="w1967">Fregatten</w> <pc xml:id="w1968">/</pc> <w xml:id="w1969">Bran<pc xml:id="w1970">=</pc><lb facs="#facs_6_r1038" xml:id="z190"/>ders</w> <pc xml:id="w1971">/</pc> <w xml:id="w1972">Bombardirer</w> <pc xml:id="w1973">/</pc> <w xml:id="w1974">Gallioten</w> <pc xml:id="w1975">/</pc> <w xml:id="w1976">starck</w>
+						<w xml:id="w1977">ist</w><pc xml:id="w1978">:</pc> <w xml:id="w1979">Er</w>
 						<w xml:id="w1980">wird</w>
 						<w xml:id="w1981">zugleich</w>
 						<w xml:id="w1982">alle</w>
@@ -2437,8 +2242,7 @@
 						<w xml:id="w1984">Türckey</w>
 						<lb facs="#facs_6_r1039" xml:id="z191"/>
                         <hi style="font-family: Antiqua;"><w xml:id="w1985">destinirte</w></hi>
-						<w xml:id="w1986">Kauffardey</w><pc xml:id="w1987">=</pc><w xml:id="w1988">Schiffe</w> <pc xml:id="w1989">/</pc>
-						<w xml:id="w1990">Neapolis</w>
+						<w xml:id="w1986">Kauffardey</w><pc xml:id="w1987">=</pc><w xml:id="w1988">Schiffe</w> <pc xml:id="w1989">/</pc> <w xml:id="w1990">Neapolis</w>
 						<w xml:id="w1991">und</w>
 						<w xml:id="w1992">Sicilien</w>
 						<w xml:id="w1993">vorbey</w>
@@ -2454,8 +2258,7 @@
 						<w xml:id="w2003">die</w>
 						<w xml:id="w2004">Sachen</w>
 						<w xml:id="w2005">von</w>
-						<w xml:id="w2006">Portu<pc xml:id="w2007">=</pc><lb facs="#facs_6_r1041" xml:id="z193"/>gal</w> <pc xml:id="w2008">/</pc>
-						<w xml:id="w2009">und</w>
+						<w xml:id="w2006">Portu<pc xml:id="w2007">=</pc><lb facs="#facs_6_r1041" xml:id="z193"/>gal</w> <pc xml:id="w2008">/</pc> <w xml:id="w2009">und</w>
 						<w xml:id="w2010">Savoyen</w>
 						<w xml:id="w2011">zu</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w2012">Hamptoncourt</w></hi>
@@ -2466,16 +2269,14 @@
 						<w xml:id="w2017">von</w>
 						<lb facs="#facs_6_r1042" xml:id="z194"/>
 						<w xml:id="w2018">Schomberg</w>
-						<w xml:id="w2019">gehalten</w> <pc xml:id="w2020">/</pc>
-						<w xml:id="w2021">welcher</w>
+						<w xml:id="w2019">gehalten</w> <pc xml:id="w2020">/</pc> <w xml:id="w2021">welcher</w>
 						<w xml:id="w2022">in</w>
 						<w xml:id="w2023">Portugall</w>
 						<w xml:id="w2024">die</w>
 						<w xml:id="w2025">Englischen</w>
 						<w xml:id="w2026">Völcker</w>
 						<w xml:id="w2027"><hi style="font-family: Antiqua;">com<pc xml:id="w2028">-</pc><lb facs="#facs_6_r1043" xml:id="z195"/>mandi</hi>ren</w>
-						<w xml:id="w2029">solle</w><pc xml:id="w2030">.</pc>
-						<w xml:id="w2031">Hingegen</w>
+						<w xml:id="w2029">solle</w><pc xml:id="w2030">.</pc> <w xml:id="w2031">Hingegen</w>
 						<w xml:id="w2032">hat</w>
 						<w xml:id="w2033">der</w>
 						<w xml:id="w2034">Portugesische</w>
@@ -2486,16 +2287,12 @@
 						<w xml:id="w2042">von</w>
 						<w xml:id="w2043">diser</w>
 						<w xml:id="w2044">Stadt</w>
-						<w xml:id="w2045">gehandelt</w> <pc xml:id="w2046">/</pc>
-						<w xml:id="w2047">wegen</w>
-						<w xml:id="w2048">10000</w><pc xml:id="w2049">.</pc>
-						<w xml:id="w2050">Mus<pc xml:id="w2051">=</pc><lb facs="#facs_6_r1045" xml:id="z197"/>queten</w> <pc xml:id="w2052">/</pc>
-						<w xml:id="w2053">und</w>
+						<w xml:id="w2045">gehandelt</w> <pc xml:id="w2046">/</pc> <w xml:id="w2047">wegen</w>
+						<w xml:id="w2048">10000</w><pc xml:id="w2049">.</pc> <w xml:id="w2050">Mus<pc xml:id="w2051">=</pc><lb facs="#facs_6_r1045" xml:id="z197"/>queten</w> <pc xml:id="w2052">/</pc> <w xml:id="w2053">und</w>
 						<w xml:id="w2054">auch</w>
 						<w xml:id="w2055">so</w>
 						<w xml:id="w2056">vielen</w>
-						<w xml:id="w2057">Degen</w> <pc xml:id="w2058">/</pc>
-						<w xml:id="w2059">welche</w>
+						<w xml:id="w2057">Degen</w> <pc xml:id="w2058">/</pc> <w xml:id="w2059">welche</w>
 						<w xml:id="w2060">er</w>
 						<w xml:id="w2061">nach</w>
 						<w xml:id="w2062">Lissabon</w>
@@ -2518,19 +2315,16 @@
 						<w xml:id="w2069">hat</w>
 						<w xml:id="w2070">eine</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w2071">considerable</w> <w xml:id="w2072">Summa</w></hi>
-						<w xml:id="w2073">Gelds</w> <pc xml:id="w2074">/</pc>
-						<w xml:id="w2075">so</w>
+						<w xml:id="w2073">Gelds</w> <pc xml:id="w2074">/</pc> <w xml:id="w2075">so</w>
 						<w xml:id="w2076">Ihro</w>
 						<w xml:id="w2077">Hoffhaltung</w>
 						<lb facs="#facs_7_tl_2" xml:id="z200"/>
 						<w xml:id="w2078">zugeeygnet</w>
-						<w xml:id="w2079">ware</w> <pc xml:id="w2080">/</pc>
-						<w xml:id="w2081">zu</w>
+						<w xml:id="w2079">ware</w> <pc xml:id="w2080">/</pc> <w xml:id="w2081">zu</w>
 						<w xml:id="w2082">dem</w>
 						<w xml:id="w2083">Gemeinen</w>
 						<w xml:id="w2084">besten</w>
-						<w xml:id="w2085">gegeben</w><pc xml:id="w2086">.</pc>
-						<w xml:id="w2087">In</w>
+						<w xml:id="w2085">gegeben</w><pc xml:id="w2086">.</pc> <w xml:id="w2087">In</w>
 						<w xml:id="w2088">einem</w>
 						<w xml:id="w2089">eintzigen</w>
 						<lb facs="#facs_7_tl_3" xml:id="z201"/>
@@ -2538,19 +2332,16 @@
 						<w xml:id="w2093">in</w>
 						<w xml:id="w2094">hiesiger</w>
 						<w xml:id="w2095">Stadt</w>
-						<w xml:id="w2096">Londen</w> <pc xml:id="w2097">/</pc>
-						<w xml:id="w2098">hat</w>
+						<w xml:id="w2096">Londen</w> <pc xml:id="w2097">/</pc> <w xml:id="w2098">hat</w>
 						<w xml:id="w2099">man</w>
 						<w xml:id="w2100">diser</w>
 						<w xml:id="w2101">Tagen</w>
-						<w xml:id="w2102">4000</w><pc xml:id="w2103">.</pc>
-						<w xml:id="w2104">Pfund</w>
+						<w xml:id="w2102">4000</w><pc xml:id="w2103">.</pc> <w xml:id="w2104">Pfund</w>
 						<lb facs="#facs_7_tl_4" xml:id="z202"/>
 						<w xml:id="w2105">Sterlings</w>
 						<w xml:id="w2106">freywillige</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w2107">Collecten</w></hi>
-						<w xml:id="w2108">erhoben</w> <pc xml:id="w2109">/</pc>
-						<w xml:id="w2110">umb</w>
+						<w xml:id="w2108">erhoben</w> <pc xml:id="w2109">/</pc> <w xml:id="w2110">umb</w>
 						<w xml:id="w2111">den</w>
 						<w xml:id="w2112"><hi style="font-family: Antiqua;">Malcontent</hi>en</w>
 						<w xml:id="w2113">in</w>
@@ -2560,8 +2351,7 @@
 						<w xml:id="w2118">Hülff</w>
 						<w xml:id="w2119">übersand</w>
 						<w xml:id="w2120">zu</w>
-						<w xml:id="w2121">werden</w><pc xml:id="w2122">.</pc>
-						<w xml:id="w2123">Zu</w>
+						<w xml:id="w2121">werden</w><pc xml:id="w2122">.</pc> <w xml:id="w2123">Zu</w>
 						<w xml:id="w2124">Fallmuyden</w>
 						<w xml:id="w2125">seynd</w>
 						<w xml:id="w2126">2</w><pc xml:id="w2127">.</pc>
@@ -2569,26 +2359,19 @@
 						<w xml:id="w2128">Frantzösische</w>
 						<w xml:id="w2129">Capers</w>
 						<w xml:id="w2130">von</w>
-                        <hi style="font-family: Antiqua;"><w xml:id="w2131">S</w><pc xml:id="w2132">.</pc> <w xml:id="w2133">Malo</w></hi><pc xml:id="w2134">,</pc>
-						<w xml:id="w2135">einer</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w2131">S</w><pc xml:id="w2132">.</pc> <w xml:id="w2133">Malo</w></hi><pc xml:id="w2134">,</pc> <w xml:id="w2135">einer</w>
 						<w xml:id="w2136">mit</w>
-							<w xml:id="w2137"><unclear instant="false">5</unclear>6</w><pc xml:id="w2138">.</pc>
-						<w xml:id="w2139">Stücken</w>
+							<w xml:id="w2137"><unclear instant="false">5</unclear>6</w><pc xml:id="w2138">.</pc> <w xml:id="w2139">Stücken</w>
 						<w xml:id="w2140">und</w>
-						<w xml:id="w2141">240</w><pc xml:id="w2142">.</pc>
-						<w xml:id="w2143">Mann</w> <pc xml:id="w2144">/</pc>
+						<w xml:id="w2141">240</w><pc xml:id="w2142">.</pc> <w xml:id="w2143">Mann</w> <pc xml:id="w2144">/</pc>
 						<lb facs="#facs_7_tl_7" xml:id="z205"/>
 						<w xml:id="w2145">der</w>
 						<w xml:id="w2146">ander</w>
 						<w xml:id="w2147">von</w>
-						<w xml:id="w2148">28</w><pc xml:id="w2149">.</pc>
-						<w xml:id="w2150">Stücken</w>
+						<w xml:id="w2148">28</w><pc xml:id="w2149">.</pc> <w xml:id="w2150">Stücken</w>
 						<w xml:id="w2151">und</w>
-						<w xml:id="w2152">110</w><pc xml:id="w2153">.</pc>
-						<w xml:id="w2154">Mann</w> <pc xml:id="w2155">/</pc>
-						<w xml:id="w2156">durch</w>
-						<w xml:id="w2157">2</w><pc xml:id="w2158">.</pc>
-						<w xml:id="w2159">unsere</w>
+						<w xml:id="w2152">110</w><pc xml:id="w2153">.</pc> <w xml:id="w2154">Mann</w> <pc xml:id="w2155">/</pc> <w xml:id="w2156">durch</w>
+						<w xml:id="w2157">2</w><pc xml:id="w2158">.</pc> <w xml:id="w2159">unsere</w>
 						<w xml:id="w2160">Kriegs<pc xml:id="w2161">=</pc><lb facs="#facs_7_tl_8" xml:id="z206"/>Schiffe</w>
 						<w xml:id="w2162">auffgefangen</w>
 						<w xml:id="w2163">worden</w><pc xml:id="w2164">.</pc>
@@ -2612,19 +2395,16 @@
 						<lb facs="#facs_7_tl_10" xml:id="z208"/>
                         <hi style="font-family: Antiqua;"><w xml:id="w2180">dito</w></hi>
 						<w xml:id="w2181">hat</w>
-						<w xml:id="w2182">man</w> <pc xml:id="w2183">/</pc>
-						<w xml:id="w2184">daß</w>
+						<w xml:id="w2182">man</w> <pc xml:id="w2183">/</pc> <w xml:id="w2184">daß</w>
 						<w xml:id="w2185">mit</w>
 						<w xml:id="w2186">anbrechendem</w>
 						<w xml:id="w2187">Tag</w>
 						<w xml:id="w2188">selbige</w>
-						<w xml:id="w2189">auffgebrochen</w> <pc xml:id="w2190">/</pc>
-						<w xml:id="w2191">umb</w>
+						<w xml:id="w2189">auffgebrochen</w> <pc xml:id="w2190">/</pc> <w xml:id="w2191">umb</w>
 						<w xml:id="w2192">den</w>
 						<lb facs="#facs_7_tl_11" xml:id="z209"/>
 						<w xml:id="w2193">Feind</w>
-						<w xml:id="w2194">anffzusuchen</w> <pc xml:id="w2195">/</pc>
-						<w xml:id="w2196">nachdem</w>
+						<w xml:id="w2194">anffzusuchen</w> <pc xml:id="w2195">/</pc> <w xml:id="w2196">nachdem</w>
 						<w xml:id="w2197">man</w>
 						<w xml:id="w2198">die</w>
 						<w xml:id="w2199">gantze</w>
@@ -2634,37 +2414,31 @@
 						<w xml:id="w2203">Morasten</w>
 						<w xml:id="w2204">zu</w>
 						<lb facs="#facs_7_tl_12" xml:id="z210"/>
-						<w xml:id="w2205"><hi style="font-family: Antiqua;">passi</hi>ren</w> <pc xml:id="w2206">/</pc>
-						<w xml:id="w2207">Brücken</w>
-						<w xml:id="w2208">geschlagen</w><pc xml:id="w2209">.</pc>
-						<w xml:id="w2210">Es</w>
+						<w xml:id="w2205"><hi style="font-family: Antiqua;">passi</hi>ren</w> <pc xml:id="w2206">/</pc> <w xml:id="w2207">Brücken</w>
+						<w xml:id="w2208">geschlagen</w><pc xml:id="w2209">.</pc> <w xml:id="w2210">Es</w>
 						<w xml:id="w2211">hätte</w>
 						<w xml:id="w2212">zwar</w>
 						<w xml:id="w2213">der</w>
 						<w xml:id="w2214">Feind</w>
 						<w xml:id="w2215">selbige</w>
-						<w xml:id="w2216">abgewar<pc xml:id="w2217">=</pc><lb facs="#facs_7_tl_13" xml:id="z211"/>tet</w> <pc xml:id="w2218">/</pc>
-						<w xml:id="w2219">biß</w>
+						<w xml:id="w2216">abgewar<pc xml:id="w2217">=</pc><lb facs="#facs_7_tl_13" xml:id="z211"/>tet</w> <pc xml:id="w2218">/</pc> <w xml:id="w2219">biß</w>
 						<w xml:id="w2220">sie</w>
 						<w xml:id="w2221">eine</w>
 						<w xml:id="w2222">halbe</w>
 						<w xml:id="w2223">Stund</w>
 						<w xml:id="w2224">von</w>
 						<w xml:id="w2225">Lager</w>
-						<w xml:id="w2226"><hi style="font-family: Antiqua;">arrivi</hi>rt</w> <pc xml:id="w2227">/</pc>
-						<w xml:id="w2228">weilen</w>
+						<w xml:id="w2226"><hi style="font-family: Antiqua;">arrivi</hi>rt</w> <pc xml:id="w2227">/</pc> <w xml:id="w2228">weilen</w>
 						<w xml:id="w2229">er</w>
 						<w xml:id="w2230">aber</w>
-						<w xml:id="w2231">gesehen</w> <pc xml:id="w2232">/</pc>
-						<w xml:id="w2233">daß</w>
+						<w xml:id="w2231">gesehen</w> <pc xml:id="w2232">/</pc> <w xml:id="w2233">daß</w>
 						<lb facs="#facs_7_tl_14" xml:id="z212"/>
 						<w xml:id="w2234">man</w>
 						<w xml:id="w2235">die</w>
 						<w xml:id="w2236">Gründe</w>
 						<w xml:id="w2237">und</w>
 						<w xml:id="w2238">Thäler</w>
-						<w xml:id="w2239"><hi style="font-family: Antiqua;">passi</hi>ret</w> <pc xml:id="w2240">/</pc>
-						<w xml:id="w2241">und</w>
+						<w xml:id="w2239"><hi style="font-family: Antiqua;">passi</hi>ret</w> <pc xml:id="w2240">/</pc> <w xml:id="w2241">und</w>
 						<w xml:id="w2242">sich</w>
 							<hi style="font-family: Antiqua;"><w xml:id="w2243">en</w>
 								<w xml:id="w2244">Battaille</w></hi>
@@ -2674,8 +2448,7 @@
 						<w xml:id="w2249">und</w>
 						<w xml:id="w2250">Linien</w>
 						<w xml:id="w2251">stellen</w>
-						<w xml:id="w2252">thäte</w> <pc xml:id="w2253">/</pc>
-						<w xml:id="w2254">hat</w>
+						<w xml:id="w2252">thäte</w> <pc xml:id="w2253">/</pc> <w xml:id="w2254">hat</w>
 						<w xml:id="w2255">sich</w>
 						<w xml:id="w2256">der</w>
 						<w xml:id="w2257">Feind</w>
@@ -2688,8 +2461,7 @@
 						<w xml:id="w2263">Linien</w>
 						<w xml:id="w2264">bey</w>
 						<w xml:id="w2265">Antorff</w>
-						<w xml:id="w2266"><hi style="font-family: Antiqua;">retiri</hi>rt</w> <pc xml:id="w2267">/</pc>
-						<w xml:id="w2268">indessen</w>
+						<w xml:id="w2266"><hi style="font-family: Antiqua;">retiri</hi>rt</w> <pc xml:id="w2267">/</pc> <w xml:id="w2268">indessen</w>
 						<w xml:id="w2269">war</w>
 						<w xml:id="w2270">unsere</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w2271">Armée</w></hi>
@@ -2697,22 +2469,19 @@
 						<w xml:id="w2273">Schlagen</w>
 						<lb facs="#facs_7_tl_17" xml:id="z215"/>
 						<w xml:id="w2274">wohl</w>
-						<w xml:id="w2275">gemuth</w> <pc xml:id="w2276">/</pc>
-						<w xml:id="w2277">und</w>
+						<w xml:id="w2275">gemuth</w> <pc xml:id="w2276">/</pc> <w xml:id="w2277">und</w>
 						<w xml:id="w2278">ihr</w>
 						<w xml:id="w2279">bestes</w>
 						<w xml:id="w2280">zu</w>
 						<w xml:id="w2281">thun</w>
-						<w xml:id="w2282">gesinnet</w><pc xml:id="w2283">.</pc>
-						<w xml:id="w2284">So</w>
+						<w xml:id="w2282">gesinnet</w><pc xml:id="w2283">.</pc> <w xml:id="w2284">So</w>
 						<w xml:id="w2285">gleich</w>
 						<w xml:id="w2286">vernimbt</w>
 						<w xml:id="w2287">man</w> <pc xml:id="w2288">/</pc>
 						<lb facs="#facs_7_tl_18" xml:id="z216"/>
 						<w xml:id="w2289">daß</w>
 						<w xml:id="w2290">unsere</w>
-                        <hi style="font-family: Antiqua;"><w xml:id="w2291">Armée</w></hi><pc xml:id="w2292">,</pc>
-						<w xml:id="w2293">weilen</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w2291">Armée</w></hi><pc xml:id="w2292">,</pc> <w xml:id="w2293">weilen</w>
 						<w xml:id="w2294">die</w>
 						<w xml:id="w2295">Frantzosen</w>
 						<w xml:id="w2296">zum</w>
@@ -2724,46 +2493,36 @@
 						<w xml:id="w2302">und</w>
 						<w xml:id="w2303">sich</w>
 						<w xml:id="w2304">wohl</w>
-						<w xml:id="w2305"><hi style="font-family: Antiqua;">retranchi</hi>rt</w> <pc xml:id="w2306">/</pc>
-						<w xml:id="w2307">selbige</w>
+						<w xml:id="w2305"><hi style="font-family: Antiqua;">retranchi</hi>rt</w> <pc xml:id="w2306">/</pc> <w xml:id="w2307">selbige</w>
 						<w xml:id="w2308">wegen</w>
 						<w xml:id="w2309">Mangel</w>
 						<w xml:id="w2310">der</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w2311">Fourage</w></hi>
 						<w xml:id="w2312">zuruck</w>
-						<w xml:id="w2313">gezo<pc xml:id="w2314">=</pc><lb facs="#facs_7_tl_20" xml:id="z218"/>gen</w><pc xml:id="w2315">.</pc>
-						<w xml:id="w2316">Es</w>
+						<w xml:id="w2313">gezo<pc xml:id="w2314">=</pc><lb facs="#facs_7_tl_20" xml:id="z218"/>gen</w><pc xml:id="w2315">.</pc> <w xml:id="w2316">Es</w>
 						<w xml:id="w2317">scheinet</w>
-						<w xml:id="w2318">aber</w> <pc xml:id="w2319">/</pc>
-						<w xml:id="w2320">daß</w>
+						<w xml:id="w2318">aber</w> <pc xml:id="w2319">/</pc> <w xml:id="w2320">daß</w>
 						<w xml:id="w2321">innerhalb</w>
 						<w xml:id="w2322">wenig</w>
 						<w xml:id="w2323">Tagen</w>
 						<w xml:id="w2324">die</w>
 						<w xml:id="w2325">grosse</w>
-                        <hi style="font-family: Antiqua;"><w xml:id="w2326">Armée</w></hi> <pc xml:id="w2327">/</pc>
-						<w xml:id="w2328">so</w> <pc xml:id="w2329">/</pc>
+                        <hi style="font-family: Antiqua;"><w xml:id="w2326">Armée</w></hi> <pc xml:id="w2327">/</pc> <w xml:id="w2328">so</w> <pc xml:id="w2329">/</pc>
 						<lb facs="#facs_7_tl_21" xml:id="z219"/>
 						<w xml:id="w2330">wie</w>
 						<w xml:id="w2331">man</w>
-						<w xml:id="w2332">sagt</w> <pc xml:id="w2333">/</pc>
-						<w xml:id="w2334">anjetzo</w>
-						<w xml:id="w2335">75</w><pc xml:id="w2336">.</pc>
-						<w xml:id="w2337">biß</w>
-						<w xml:id="w2338">80000</w><pc xml:id="w2339">.</pc>
-						<w xml:id="w2340">Mann</w>
+						<w xml:id="w2332">sagt</w> <pc xml:id="w2333">/</pc> <w xml:id="w2334">anjetzo</w>
+						<w xml:id="w2335">75</w><pc xml:id="w2336">.</pc> <w xml:id="w2337">biß</w>
+						<w xml:id="w2338">80000</w><pc xml:id="w2339">.</pc> <w xml:id="w2340">Mann</w>
 						<w xml:id="w2341">starck</w>
-						<w xml:id="w2342">ist</w> <pc xml:id="w2343">/</pc>
-						<w xml:id="w2344">die</w>
+						<w xml:id="w2342">ist</w> <pc xml:id="w2343">/</pc> <w xml:id="w2344">die</w>
 						<w xml:id="w2345">Völcker</w>
 						<w xml:id="w2346">deß</w>
 						<w xml:id="w2347">Ge<pc xml:id="w2348">=</pc><lb facs="#facs_7_tl_22" xml:id="z220"/>neral</w>
 						<w xml:id="w2349">Schlangenberg</w>
 						<w xml:id="w2350">damit</w>
-						<w xml:id="w2351">begriffen</w> <pc xml:id="w2352">/</pc>
-						<w xml:id="w2353">stündlich</w>
-						<w xml:id="w2354">erwarten</w> <pc xml:id="w2355">/</pc>
-						<w xml:id="w2356">und</w>
+						<w xml:id="w2351">begriffen</w> <pc xml:id="w2352">/</pc> <w xml:id="w2353">stündlich</w>
+						<w xml:id="w2354">erwarten</w> <pc xml:id="w2355">/</pc> <w xml:id="w2356">und</w>
 						<w xml:id="w2357">alsdann</w>
 						<lb facs="#facs_7_tl_23" xml:id="z221"/>
 						<w xml:id="w2358">die</w>
@@ -2771,21 +2530,17 @@
 						<w xml:id="w2360">in</w>
 						<w xml:id="w2361">ihren</w>
 						<w xml:id="w2362">Linien</w>
-						<w xml:id="w2363">angreiffen</w> <pc xml:id="w2364">/</pc>
-						<w xml:id="w2365">oder</w>
+						<w xml:id="w2363">angreiffen</w> <pc xml:id="w2364">/</pc> <w xml:id="w2365">oder</w>
 						<w xml:id="w2366">eine</w>
 						<w xml:id="w2367">andere</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w2368">Expedition</w></hi>
 						<w xml:id="w2369">vor<pc xml:id="w2370">=</pc><lb facs="#facs_7_tl_24" xml:id="z222"/>nehmen</w>
-						<w xml:id="w2371">werde</w><pc xml:id="w2372">.</pc>
-						<w xml:id="w2373">Der</w>
+						<w xml:id="w2371">werde</w><pc xml:id="w2372">.</pc> <w xml:id="w2373">Der</w>
 						<w xml:id="w2374">Herr</w>
-						<w xml:id="w2375">Hill</w> <pc xml:id="w2376">/</pc>
-						<w xml:id="w2377">welcher</w>
+						<w xml:id="w2375">Hill</w> <pc xml:id="w2376">/</pc> <w xml:id="w2377">welcher</w>
 						<w xml:id="w2378">als</w>
 						<w xml:id="w2379">Englischer</w>
-                        <hi style="font-family: Antiqua;"><w xml:id="w2380">Envoye</w></hi><pc xml:id="w2381">,</pc>
-						<w xml:id="w2382">nach</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w2380">Envoye</w></hi><pc xml:id="w2381">,</pc> <w xml:id="w2382">nach</w>
 						<w xml:id="w2383">sei<pc xml:id="w2384">=</pc><lb facs="#facs_7_tl_25" xml:id="z223"/>ner</w>
 						<w xml:id="w2385">Hochheit</w>
 						<w xml:id="w2386">dem</w>
@@ -2793,14 +2548,12 @@
 						<w xml:id="w2388">von</w>
 						<w xml:id="w2389">Savoyen</w>
 						<w xml:id="w2390">gehen</w>
-						<w xml:id="w2391">soll</w> <pc xml:id="w2392">/</pc>
-						<w xml:id="w2393">wird</w>
+						<w xml:id="w2391">soll</w> <pc xml:id="w2392">/</pc> <w xml:id="w2393">wird</w>
 						<w xml:id="w2394">stindlich</w>
 						<w xml:id="w2395">auß</w>
 						<lb facs="#facs_7_tl_26" xml:id="z224"/>
 						<w xml:id="w2396">Engelland</w>
-						<w xml:id="w2397">erwartet</w><pc xml:id="w2398">:</pc>
-						<w xml:id="w2399">Beynebens</w>
+						<w xml:id="w2397">erwartet</w><pc xml:id="w2398">:</pc> <w xml:id="w2399">Beynebens</w>
 						<w xml:id="w2400">soll</w>
 						<w xml:id="w2401">die</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w2402">Esquadre</w></hi>
@@ -2813,8 +2566,7 @@
 						<w xml:id="w2408">Churchills</w>
 						<w xml:id="w2409">nicht</w>
 						<w xml:id="w2410">eher</w>
-						<w xml:id="w2411">abgehen</w> <pc xml:id="w2412">/</pc>
-						<w xml:id="w2413">biß</w>
+						<w xml:id="w2411">abgehen</w> <pc xml:id="w2412">/</pc> <w xml:id="w2413">biß</w>
 						<w xml:id="w2414">Ihro</w>
 						<w xml:id="w2415">Ertz</w><pc xml:id="w2416">=</pc><w xml:id="w2417">Hertzogliche</w>
 						<lb facs="#facs_7_tl_28" xml:id="z226"/>
@@ -2824,8 +2576,7 @@
 						<w xml:id="w2421">von</w>
 						<w xml:id="w2422">Oesterreich</w>
 						<w xml:id="w2423">angekommen</w>
-						<w xml:id="w2424">sey</w> <pc xml:id="w2425">/</pc>
-						<w xml:id="w2426">umb</w>
+						<w xml:id="w2424">sey</w> <pc xml:id="w2425">/</pc> <w xml:id="w2426">umb</w>
 						<w xml:id="w2427">mit</w>
 						<w xml:id="w2428">sel<pc xml:id="w2429">=</pc><lb facs="#facs_7_tl_29" xml:id="z227"/>bigen</w>
 						<w xml:id="w2430">nach</w>
@@ -2843,8 +2594,7 @@
                         </label>
 						<w xml:id="w2441">Auß</w>
 						<w xml:id="w2442">Pohlen</w>
-						<w xml:id="w2443">verlautet</w> <pc xml:id="w2444">/</pc>
-						<w xml:id="w2445">daß</w>
+						<w xml:id="w2443">verlautet</w> <pc xml:id="w2444">/</pc> <w xml:id="w2445">daß</w>
 						<w xml:id="w2446">der</w>
 						<w xml:id="w2447">König</w>
 						<lb facs="#facs_7_tl_31" xml:id="z229"/>
@@ -2861,30 +2611,26 @@
 						<lb facs="#facs_7_tl_32" xml:id="z230"/>
 						<w xml:id="w2458">König</w>
 						<w xml:id="w2459">von</w>
-						<w xml:id="w2460">Schweden</w> <pc xml:id="w2461">/</pc>
-						<w xml:id="w2462">und</w>
+						<w xml:id="w2460">Schweden</w> <pc xml:id="w2461">/</pc> <w xml:id="w2462">und</w>
 						<w xml:id="w2463">von</w>
 						<w xml:id="w2464">demselben</w>
 						<w xml:id="w2465">die</w>
 						<w xml:id="w2466">endliche</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w2467">Resolution</w></hi>
 						<w xml:id="w2468">erwar<pc xml:id="w2469">=</pc><lb facs="#facs_7_tl_33" xml:id="z231"/>ten</w>
-						<w xml:id="w2470">wollen</w> <pc xml:id="w2471">/</pc>
-						<w xml:id="w2472">um</w>
+						<w xml:id="w2470">wollen</w> <pc xml:id="w2471">/</pc> <w xml:id="w2472">um</w>
 						<w xml:id="w2473">so</w>
 						<w xml:id="w2474">fern</w>
 						<w xml:id="w2475">der</w>
 						<w xml:id="w2476">Fried</w>
 						<w xml:id="w2477">nicht</w>
 						<w xml:id="w2478">bald</w>
-						<w xml:id="w2479">erfolge</w> <pc xml:id="w2480">/</pc>
-						<w xml:id="w2481">ihn</w>
+						<w xml:id="w2479">erfolge</w> <pc xml:id="w2480">/</pc> <w xml:id="w2481">ihn</w>
 						<w xml:id="w2482">mit</w>
 						<w xml:id="w2483">gesambter</w>
 						<w xml:id="w2484">Hand</w>
 						<lb facs="#facs_7_tl_34" xml:id="z232"/>
-						<w xml:id="w2485">anzugreiffen</w><pc xml:id="w2486">.</pc>
-						<w xml:id="w2487">Die</w>
+						<w xml:id="w2485">anzugreiffen</w><pc xml:id="w2486">.</pc> <w xml:id="w2487">Die</w>
 						<w xml:id="w2488">Brucken</w>
 						<w xml:id="w2489">bey</w>
 						<w xml:id="w2490">Thorn</w>
@@ -2894,28 +2640,24 @@
 						<w xml:id="w2494">den</w>
 						<w xml:id="w2495">Schweden</w>
 						<lb facs="#facs_7_tl_35" xml:id="z233"/>
-						<w xml:id="w2496">weggenommen</w> <pc xml:id="w2497">/</pc>
-						<w xml:id="w2498">und</w>
+						<w xml:id="w2496">weggenommen</w> <pc xml:id="w2497">/</pc> <w xml:id="w2498">und</w>
 						<w xml:id="w2499">haben</w>
 						<w xml:id="w2500">sie</w>
 						<w xml:id="w2501">vill</w>
 						<w xml:id="w2502">Schiff</w>
 						<w xml:id="w2503">mit</w>
-                        <hi style="font-family: Antiqua;"><w xml:id="w2504">Proviant</w></hi><pc xml:id="w2505">,</pc>
-						<w xml:id="w2506">welche</w>
+                        <hi style="font-family: Antiqua;"><w xml:id="w2504">Proviant</w></hi><pc xml:id="w2505">,</pc> <w xml:id="w2506">welche</w>
 						<w xml:id="w2507">Jenseit</w>
 						<lb facs="#facs_7_tl_36" xml:id="z234"/>
 						<w xml:id="w2508">Thoren</w>
-						<w xml:id="w2509">stunden</w> <pc xml:id="w2510">/</pc>
-						<w xml:id="w2511">daß</w>
+						<w xml:id="w2509">stunden</w> <pc xml:id="w2510">/</pc> <w xml:id="w2511">daß</w>
 						<w xml:id="w2512">sie</w>
 						<w xml:id="w2513">den</w>
 						<w xml:id="w2514">Sachsen</w>
 						<w xml:id="w2515">nicht</w>
 						<w xml:id="w2516">zu</w>
 						<w xml:id="w2517">Theil</w>
-						<w xml:id="w2518">würden</w> <pc xml:id="w2519">/</pc>
-						<w xml:id="w2520">versencken</w>
+						<w xml:id="w2518">würden</w> <pc xml:id="w2519">/</pc> <w xml:id="w2520">versencken</w>
 						<lb facs="#facs_7_tl_37" xml:id="z235"/>
 						<w xml:id="w2521">müssen</w><pc xml:id="w2522">.</pc>
                     </p>
@@ -2932,8 +2674,7 @@
 						<lb facs="#facs_8_r1052" xml:id="z237"/>
 						<w xml:id="w2524">Lista</w>
 						<lb facs="#facs_8_r1053" xml:id="z238"/>
-						<w xml:id="w2525">Deren</w> <pc xml:id="w2526">/</pc>
-						<w xml:id="w2527">so</w>
+						<w xml:id="w2525">Deren</w> <pc xml:id="w2526">/</pc> <w xml:id="w2527">so</w>
 						<w xml:id="w2528">vom</w>
 						<w xml:id="w2529">1</w><pc xml:id="w2530">.</pc>
 						<hi style="font-family: Antiqua;"><w xml:id="w2531">Augusti</w></hi>
@@ -2966,23 +2707,19 @@
 							<lb facs="#facs_8_r1003" xml:id="z241"/>
 							<w xml:id="w2551">Der</w>
 							<w xml:id="w2552">Matthias</w>
-							<w xml:id="w2553">Placht</w> <pc xml:id="w2554">/</pc>
-							<w xml:id="w2555">Guardi</w><pc xml:id="w2556">=</pc><w xml:id="w2557">Soldat</w>
+							<w xml:id="w2553">Placht</w> <pc xml:id="w2554">/</pc> <w xml:id="w2555">Guardi</w><pc xml:id="w2556">=</pc><w xml:id="w2557">Soldat</w>
 							<w xml:id="w2558">in</w>
 							<w xml:id="w2559">einem</w>
 							<w xml:id="w2560">Guardir</w>
 							<w xml:id="w2561">Häußl</w>
 							<w xml:id="w2562">am</w>
 							<lb facs="#facs_8_r1004" xml:id="z242"/>
-							<w xml:id="w2563">Saltz</w><pc xml:id="w2564">=</pc><w xml:id="w2565">Grieß</w><pc xml:id="w2566">:</pc>
-							<w xml:id="w2567">ist</w>
+							<w xml:id="w2563">Saltz</w><pc xml:id="w2564">=</pc><w xml:id="w2565">Grieß</w><pc xml:id="w2566">:</pc> <w xml:id="w2567">ist</w>
 							<w xml:id="w2568">am</w>
 							<w xml:id="w2569">hitzigen</w>
 							<w xml:id="w2570">Fieber</w>
-							<w xml:id="w2571">beschaut</w> <pc xml:id="w2572">/</pc>
-							<w xml:id="w2573">alt</w>
-							<w xml:id="w2574">40</w><pc xml:id="w2575">.</pc>
-							<w xml:id="w2576">Jahr</w><pc xml:id="w2577">.</pc>
+							<w xml:id="w2571">beschaut</w> <pc xml:id="w2572">/</pc> <w xml:id="w2573">alt</w>
+							<w xml:id="w2574">40</w><pc xml:id="w2575">.</pc> <w xml:id="w2576">Jahr</w><pc xml:id="w2577">.</pc>
 						</item>
 					</list>
 				</div>
@@ -2999,30 +2736,25 @@
 							<w xml:id="w2582">Der</w>
 							<w xml:id="w2583">Georg</w>
 							<w xml:id="w2584">Weinlinger</w>
-							<w xml:id="w2585">Burgerl</w><pc xml:id="w2586">.</pc>
-							<w xml:id="w2587">Gartner</w>
+							<w xml:id="w2585">Burgerl</w><pc xml:id="w2586">.</pc> <w xml:id="w2587">Gartner</w>
 							<w xml:id="w2588">in</w>
 							<w xml:id="w2589">seinem</w>
 							<w xml:id="w2590">Hauß</w>
 							<w xml:id="w2591">in</w>
 							<w xml:id="w2592">der</w>
 							<lb facs="#facs_8_r1009" xml:id="z245"/>
-							<w xml:id="w2593">Leopold</w><pc xml:id="w2594">=</pc><w xml:id="w2595">Stadt</w> <pc xml:id="w2596">/</pc>
-							<w xml:id="w2597">ist</w>
+							<w xml:id="w2593">Leopold</w><pc xml:id="w2594">=</pc><w xml:id="w2595">Stadt</w> <pc xml:id="w2596">/</pc> <w xml:id="w2597">ist</w>
 							<w xml:id="w2598">am</w>
 							<w xml:id="w2599">hitzigen</w>
 							<w xml:id="w2600">Fieber</w>
-							<w xml:id="w2601">beschaut</w> <pc xml:id="w2602">/</pc>
-							<w xml:id="w2603">alt</w>
-							<w xml:id="w2604">22</w><pc xml:id="w2605">.</pc>
-							<w xml:id="w2606">Jahr</w><pc xml:id="w2607">.</pc>
+							<w xml:id="w2601">beschaut</w> <pc xml:id="w2602">/</pc> <w xml:id="w2603">alt</w>
+							<w xml:id="w2604">22</w><pc xml:id="w2605">.</pc> <w xml:id="w2606">Jahr</w><pc xml:id="w2607">.</pc>
 						</item>
 						<item facs="#facs_8_r_1_6" rendition="#f" rend="findent" xml:id="i7">
 							<lb facs="#facs_8_r1011" xml:id="z246"/>
 							<w xml:id="w2608">Die</w>
 							<w xml:id="w2609">Maria</w>
-							<w xml:id="w2610">Haberlin</w> <pc xml:id="w2611">/</pc>
-							<w xml:id="w2612">ein</w>
+							<w xml:id="w2610">Haberlin</w> <pc xml:id="w2611">/</pc> <w xml:id="w2612">ein</w>
 							<w xml:id="w2613">Wittib</w>
 							<w xml:id="w2614">beym</w>
 							<w xml:id="w2615">grünen</w>
@@ -3030,15 +2762,12 @@
 							<w xml:id="w2617">bey</w>
 							<w xml:id="w2618">Maria</w>
 							<lb facs="#facs_8_r1012" xml:id="z247"/>
-							<w xml:id="w2619">Hülff</w> <pc xml:id="w2620">/</pc>
-							<w xml:id="w2621">ist</w>
+							<w xml:id="w2619">Hülff</w> <pc xml:id="w2620">/</pc> <w xml:id="w2621">ist</w>
 							<w xml:id="w2622">am</w>
 							<w xml:id="w2623">hitzigen</w>
 							<w xml:id="w2624">Lungel</w><pc xml:id="w2625">=</pc><w xml:id="w2626">Cathar</w>
-							<w xml:id="w2627">beschaut</w> <pc xml:id="w2628">/</pc>
-							<w xml:id="w2629">alt</w>
-							<w xml:id="w2630">76</w><pc xml:id="w2631">.</pc>
-							<w xml:id="w2632">Jahr</w><pc xml:id="w2633">.</pc>
+							<w xml:id="w2627">beschaut</w> <pc xml:id="w2628">/</pc> <w xml:id="w2629">alt</w>
+							<w xml:id="w2630">76</w><pc xml:id="w2631">.</pc> <w xml:id="w2632">Jahr</w><pc xml:id="w2633">.</pc>
 						</item>
 					</list>
 				</div>
@@ -3046,9 +2775,7 @@
 					<head rendition="#fc" facs="#facs_8_r_1_7" xml:id="hl15">
 						<lb facs="#facs_8_r1014" xml:id="z248"/>
 						<w xml:id="w2634">Den</w>
-						<w xml:id="w2635">2</w><pc xml:id="w2636">.</pc>
-						<w xml:id="w2637">Aug</w><pc xml:id="w2638">.</pc>
-						<w xml:id="w2639">starb</w>
+						<w xml:id="w2635">2</w><pc xml:id="w2636">.</pc> <w xml:id="w2637">Aug</w><pc xml:id="w2638">.</pc> <w xml:id="w2639">starb</w>
 						<w xml:id="w2640">in</w>
 						<w xml:id="w2641">der</w>
 						<w xml:id="w2642">Stadt</w>
@@ -3058,8 +2785,7 @@
 							<lb facs="#facs_8_r1016" xml:id="z249"/>
 							<w xml:id="w2643">Dem</w>
 							<w xml:id="w2644">Johann</w>
-							<w xml:id="w2645">Parutisch</w> <pc xml:id="w2646">/</pc>
-							<w xml:id="w2647">eim</w>
+							<w xml:id="w2645">Parutisch</w> <pc xml:id="w2646">/</pc> <w xml:id="w2647">eim</w>
 							<w xml:id="w2648">Büchsen</w><pc xml:id="w2649">=</pc><w xml:id="w2650">Spanner</w>
 							<w xml:id="w2651">beym</w>
 							<w xml:id="w2652">schwartzen</w>
@@ -3069,24 +2795,20 @@
 							<w xml:id="w2655">rothen</w>
 							<w xml:id="w2656">Thurn</w>
 							<w xml:id="w2657">sein</w>
-							<w xml:id="w2658">Kind</w> <pc xml:id="w2659">/</pc>
-							<w xml:id="w2660">Anna</w> <pc xml:id="w2661">/</pc>
-							<w xml:id="w2662">ist</w>
+							<w xml:id="w2658">Kind</w> <pc xml:id="w2659">/</pc> <w xml:id="w2660">Anna</w> <pc xml:id="w2661">/</pc> <w xml:id="w2662">ist</w>
 							<w xml:id="w2663">an</w>
 							<w xml:id="w2664">der</w>
 							<w xml:id="w2665">Fraiß</w>
 							<w xml:id="w2666">beschaut</w> <pc xml:id="w2667">/</pc>
 							<lb facs="#facs_8_line_1511368794673_13" xml:id="z251"/>
 							<w xml:id="w2668">alt</w>
-							<w xml:id="w2669">6</w><pc xml:id="w2670">/</pc><w xml:id="w2671">4</w><pc xml:id="w2672">.</pc>
-							<w xml:id="w2673">Jahr</w><pc xml:id="w2674">.</pc>
+							<w xml:id="w2669">6</w><pc xml:id="w2670">/</pc><w xml:id="w2671">4</w><pc xml:id="w2672">.</pc> <w xml:id="w2673">Jahr</w><pc xml:id="w2674">.</pc>
 						</item>
 						<item facs="#facs_8_r_2_2" rendition="#f" rend="findent" xml:id="i9">
 							<lb facs="#facs_8_r1019" xml:id="z252"/>
 							<w xml:id="w2675">Der</w>
 							<w xml:id="w2676">Andreas</w>
-							<w xml:id="w2677">Stanitzky</w> <pc xml:id="w2678">/</pc>
-							<w xml:id="w2679">Guardi</w><pc xml:id="w2680">=</pc><w xml:id="w2681">Soldat</w>
+							<w xml:id="w2677">Stanitzky</w> <pc xml:id="w2678">/</pc> <w xml:id="w2679">Guardi</w><pc xml:id="w2680">=</pc><w xml:id="w2681">Soldat</w>
 							<w xml:id="w2682">in</w>
 							<w xml:id="w2683">seim</w>
 							<w xml:id="w2684">Hauß</w>
@@ -3098,17 +2820,14 @@
 							<w xml:id="w2689">am</w>
 							<w xml:id="w2690">hitzigen</w>
 							<w xml:id="w2691">Lungen</w><pc xml:id="w2692">=</pc><w xml:id="w2693">Cathar</w>
-							<w xml:id="w2694">beschaut</w> <pc xml:id="w2695">/</pc>
-							<w xml:id="w2696">alt</w>
-							<w xml:id="w2697">53</w><pc xml:id="w2698">.</pc>
-							<w xml:id="w2699">Jahr</w><pc xml:id="w2700">.</pc>
+							<w xml:id="w2694">beschaut</w> <pc xml:id="w2695">/</pc> <w xml:id="w2696">alt</w>
+							<w xml:id="w2697">53</w><pc xml:id="w2698">.</pc> <w xml:id="w2699">Jahr</w><pc xml:id="w2700">.</pc>
 						</item>
 						<item facs="#facs_8_r_2_3" rendition="#f" rend="findent" xml:id="i10">
 							<lb facs="#facs_8_r1022" xml:id="z254"/>
 							<w xml:id="w2701">Der</w>
 							<w xml:id="w2702">Bartholmæ</w>
-							<w xml:id="w2703">Tersch</w> <pc xml:id="w2704">/</pc>
-							<w xml:id="w2705">Guardi</w><pc xml:id="w2706">=</pc><w xml:id="w2707">Soldat</w>
+							<w xml:id="w2703">Tersch</w> <pc xml:id="w2704">/</pc> <w xml:id="w2705">Guardi</w><pc xml:id="w2706">=</pc><w xml:id="w2707">Soldat</w>
 							<w xml:id="w2708">auff</w>
 							<w xml:id="w2709">der</w>
 							<w xml:id="w2710">Biber</w><pc xml:id="w2711">=</pc><w xml:id="w2712">Pastey</w><w xml:id="w2713">;</w>
@@ -3117,10 +2836,8 @@
 							<w xml:id="w2715">an</w>
 							<w xml:id="w2716">der</w>
 							<w xml:id="w2717">Gall</w>
-							<w xml:id="w2718">beschaut</w> <pc xml:id="w2719">/</pc>
-							<w xml:id="w2720">alt</w>
-							<w xml:id="w2721">41</w><pc xml:id="w2722">.</pc>
-							<w xml:id="w2723">Jahr</w><pc xml:id="w2724">.</pc>
+							<w xml:id="w2718">beschaut</w> <pc xml:id="w2719">/</pc> <w xml:id="w2720">alt</w>
+							<w xml:id="w2721">41</w><pc xml:id="w2722">.</pc> <w xml:id="w2723">Jahr</w><pc xml:id="w2724">.</pc>
 						</item>
 					</list>
 				</div>
@@ -3138,11 +2855,8 @@
 							<w xml:id="w2730">Hern</w>
 							<w xml:id="w2731">Augustin</w>
 							<w xml:id="w2732">von</w>
-							<hi style="font-family: Antiqua;"><w xml:id="w2733">Damian</w></hi><pc xml:id="w2734">,</pc>
-							<w xml:id="w2735">Käyserl</w><pc xml:id="w2736">.</pc>
-							<w xml:id="w2737">Wasser</w><pc xml:id="w2738">=</pc><w xml:id="w2739">Ambts</w>
-							<w xml:id="w2740">Ge<pc xml:id="w2741">=</pc><lb facs="#facs_8_r1028" xml:id="z258"/>genhandler</w> <pc xml:id="w2742">/</pc>
-							<w xml:id="w2743">beym</w>
+							<hi style="font-family: Antiqua;"><w xml:id="w2733">Damian</w></hi><pc xml:id="w2734">,</pc> <w xml:id="w2735">Käyserl</w><pc xml:id="w2736">.</pc> <w xml:id="w2737">Wasser</w><pc xml:id="w2738">=</pc><w xml:id="w2739">Ambts</w>
+							<w xml:id="w2740">Ge<pc xml:id="w2741">=</pc><lb facs="#facs_8_r1028" xml:id="z258"/>genhandler</w> <pc xml:id="w2742">/</pc> <w xml:id="w2743">beym</w>
 							<w xml:id="w2744">rothen</w>
 							<w xml:id="w2745">Thurn</w>
 							<w xml:id="w2746">in</w>
@@ -3150,8 +2864,7 @@
 							<w xml:id="w2748">Hauß</w>
 							<w xml:id="w2749">aussers</w>
 							<w xml:id="w2750">rothen</w>
-							<w xml:id="w2751">Hoff</w> <pc xml:id="w2752">/</pc>
-							<w xml:id="w2753">sein</w>
+							<w xml:id="w2751">Hoff</w> <pc xml:id="w2752">/</pc> <w xml:id="w2753">sein</w>
 							<lb facs="#facs_8_r1029" xml:id="z259"/>
 							<w xml:id="w2754">Frau</w>
 							<w xml:id="w2755">Anna</w>
@@ -3161,22 +2874,18 @@
 							<w xml:id="w2759">ist</w>
 							<w xml:id="w2760">am</w>
 							<w xml:id="w2761">Schlag</w><pc xml:id="w2762">=</pc><w xml:id="w2763">Fluß</w>
-							<w xml:id="w2764">beschaut</w> <pc xml:id="w2765">/</pc>
-							<w xml:id="w2766">alt</w>
+							<w xml:id="w2764">beschaut</w> <pc xml:id="w2765">/</pc> <w xml:id="w2766">alt</w>
 							<lb facs="#facs_8_line_1511368695756_11" xml:id="z260"/>
-							<w xml:id="w2767">46</w><pc xml:id="w2768">.</pc>
-							<w xml:id="w2769">Jahr</w><pc xml:id="w2770">.</pc>
+							<w xml:id="w2767">46</w><pc xml:id="w2768">.</pc> <w xml:id="w2769">Jahr</w><pc xml:id="w2770">.</pc>
 						</item>
 						<item facs="#facs_8_r_2_7" rendition="#f" rend="findent" xml:id="i12">
 							<lb facs="#facs_8_r1032" xml:id="z261"/>
 							<w xml:id="w2771">Der</w>
 							<w xml:id="w2772">Joseph</w>
-							<hi style="font-family: Antiqua;"><w xml:id="w2773">N</w></hi><pc xml:id="w2774">.</pc>
-							<w xml:id="w2775">ein</w>
+							<hi style="font-family: Antiqua;"><w xml:id="w2773">N</w></hi><pc xml:id="w2774">.</pc> <w xml:id="w2775">ein</w>
 							<w xml:id="w2776">Sessel</w><pc xml:id="w2777">=</pc><w xml:id="w2778">Trager</w>
 							<w xml:id="w2779">im</w>
-							<w xml:id="w2780">Gräfl</w><pc xml:id="w2781">.</pc>
-							<w xml:id="w2782">Strattmannischen</w>
+							<w xml:id="w2780">Gräfl</w><pc xml:id="w2781">.</pc> <w xml:id="w2782">Strattmannischen</w>
 							<w xml:id="w2783">Hauß</w>
 							<lb facs="#facs_8_r1033" xml:id="z262"/>
 							<w xml:id="w2784">in</w>
@@ -3195,25 +2904,20 @@
 							<lb facs="#facs_8_r1048" xml:id="z263"/>
 							<w xml:id="w2798">Die</w>
 							<w xml:id="w2799">Catharina</w>
-							<w xml:id="w2800">Weisin</w> <pc xml:id="w2801">/</pc>
-							<w xml:id="w2802">ein</w>
-							<w xml:id="w2803">Witib</w> <pc xml:id="w2804">/</pc>
-							<w xml:id="w2805">im</w>
+							<w xml:id="w2800">Weisin</w> <pc xml:id="w2801">/</pc> <w xml:id="w2802">ein</w>
+							<w xml:id="w2803">Witib</w> <pc xml:id="w2804">/</pc> <w xml:id="w2805">im</w>
 							<w xml:id="w2806">Graff</w>
-							<w xml:id="w2807">Lambergis</w><pc xml:id="w2808">.</pc>
-							<w xml:id="w2809">Hauß</w>
+							<w xml:id="w2807">Lambergis</w><pc xml:id="w2808">.</pc> <w xml:id="w2809">Hauß</w>
 							<w xml:id="w2810">im</w>
 							<lb facs="#facs_8_r1049" xml:id="z264"/>
 							<w xml:id="w2811">der</w>
-							<w xml:id="w2812">Leopold</w><pc xml:id="w2813">=</pc><w xml:id="w2814">Stadt</w> <pc xml:id="w2815">/</pc>
-							<w xml:id="w2816">ist</w>
+							<w xml:id="w2812">Leopold</w><pc xml:id="w2813">=</pc><w xml:id="w2814">Stadt</w> <pc xml:id="w2815">/</pc> <w xml:id="w2816">ist</w>
 							<w xml:id="w2817">an</w>
 							<w xml:id="w2818">der</w>
 							<w xml:id="w2819">Lungelsucht</w>
 							<w xml:id="w2820">beschaut</w>
 							<w xml:id="w2821">alt</w>
-							<w xml:id="w2822">33</w><pc xml:id="w2823">.</pc>
-							<w xml:id="w2824">Jahr</w><pc xml:id="w2825">.</pc>
+							<w xml:id="w2822">33</w><pc xml:id="w2823">.</pc> <w xml:id="w2824">Jahr</w><pc xml:id="w2825">.</pc>
 						</item>
 					</list>
 				</div>
@@ -3221,8 +2925,7 @@
 					<head rendition="#fc" facs="#facs_8_r_2_9" xml:id="hl17">
 						<lb facs="#facs_8_r1035" xml:id="z265"/>
 						<w xml:id="w2826">Den</w>
-						<w xml:id="w2827">3</w><pc xml:id="w2828">.</pc>
-						<w xml:id="w2829">starb</w>
+						<w xml:id="w2827">3</w><pc xml:id="w2828">.</pc> <w xml:id="w2829">starb</w>
 						<w xml:id="w2830">in</w>
 						<w xml:id="w2831">der</w>
 						<w xml:id="w2832">Stadt</w><pc xml:id="w2833">.</pc>
@@ -3232,8 +2935,7 @@
 							<lb facs="#facs_8_r1037" xml:id="z266"/>
 							<w xml:id="w2834">Der</w>
 							<w xml:id="w2835">Paul</w>
-							<w xml:id="w2836">Ardtner</w> <pc xml:id="w2837">/</pc>
-							<w xml:id="w2838">ein</w>
+							<w xml:id="w2836">Ardtner</w> <pc xml:id="w2837">/</pc> <w xml:id="w2838">ein</w>
 							<w xml:id="w2839">Haffner</w>
 							<w xml:id="w2840">ins</w>
 							<w xml:id="w2841">Johann</w>
@@ -3246,39 +2948,32 @@
 							<w xml:id="w2849">ist</w>
 							<w xml:id="w2850">am</w>
 							<hi style="font-family: Antiqua;"><w xml:id="w2851">Hectica</w><pc xml:id="w2852">-</pc></hi><w xml:id="w2853">Fieber</w>
-							<w xml:id="w2854">beschaut</w> <pc xml:id="w2855">/</pc>
-							<w xml:id="w2856">alt</w>
-							<w xml:id="w2857">78</w><pc xml:id="w2858">.</pc>
-							<w xml:id="w2859">Jahr</w><pc xml:id="w2860">.</pc>
+							<w xml:id="w2854">beschaut</w> <pc xml:id="w2855">/</pc> <w xml:id="w2856">alt</w>
+							<w xml:id="w2857">78</w><pc xml:id="w2858">.</pc> <w xml:id="w2859">Jahr</w><pc xml:id="w2860">.</pc>
 						</item>
 						<item facs="#facs_8_r_2_11" rendition="#f" rend="findent" xml:id="i15">
 							<lb facs="#facs_8_r1040" xml:id="z268"/>
 							<w xml:id="w2861">Die</w>
 							<w xml:id="w2862">Barbara</w>
-							<w xml:id="w2863">Mayrin</w> <pc xml:id="w2864">/</pc>
-							<w xml:id="w2865">ein</w>
+							<w xml:id="w2863">Mayrin</w> <pc xml:id="w2864">/</pc> <w xml:id="w2865">ein</w>
 							<w xml:id="w2866">Witib</w>
 							<w xml:id="w2867">im</w>
-							<w xml:id="w2868">Gatterburgis</w><pc xml:id="w2869">.</pc>
-							<w xml:id="w2870">Hauß</w>
+							<w xml:id="w2868">Gatterburgis</w><pc xml:id="w2869">.</pc> <w xml:id="w2870">Hauß</w>
 							<w xml:id="w2871">in</w>
 							<w xml:id="w2872">der</w>
 							<lb facs="#facs_8_r1041" xml:id="z269"/>
-							<w xml:id="w2873">Roßau</w> <pc xml:id="w2874">/</pc>
-							<w xml:id="w2875">ist</w>
+							<w xml:id="w2873">Roßau</w> <pc xml:id="w2874">/</pc> <w xml:id="w2875">ist</w>
 							<w xml:id="w2876">am</w>
 							<w xml:id="w2877">Schlag</w>
 							<w xml:id="w2878">beschaut</w>
 							<w xml:id="w2879">alt</w>
-							<w xml:id="w2880">61</w><pc xml:id="w2881">.</pc>
-							<w xml:id="w2882">Jahr</w><pc xml:id="w2883">.</pc>
+							<w xml:id="w2880">61</w><pc xml:id="w2881">.</pc> <w xml:id="w2882">Jahr</w><pc xml:id="w2883">.</pc>
 						</item>
 						<item facs="#facs_8_r_2_12" rendition="#f" rend="findent" xml:id="i16">
 							<lb facs="#facs_8_r1043" xml:id="z270"/>
 							<w xml:id="w2884">Dem</w>
 							<w xml:id="w2885">Matthiæ</w>
-							<w xml:id="w2886">Kupitsch</w> <pc xml:id="w2887">/</pc>
-							<w xml:id="w2888">ein</w>
+							<w xml:id="w2886">Kupitsch</w> <pc xml:id="w2887">/</pc> <w xml:id="w2888">ein</w>
 							<w xml:id="w2889">Reitknecht</w>
 							<w xml:id="w2890">ins</w>
 							<w xml:id="w2891">Straub</w><pc xml:id="w2892">=</pc><w xml:id="w2893">Hauß</w>
@@ -3287,15 +2982,12 @@
 							<w xml:id="w2895">Spittlberg</w>
 							<w xml:id="w2896">sein</w>
 							<w xml:id="w2897">Weib</w>
-							<w xml:id="w2898">Johanna</w> <pc xml:id="w2899">/</pc>
-							<w xml:id="w2900">ist</w>
+							<w xml:id="w2898">Johanna</w> <pc xml:id="w2899">/</pc> <w xml:id="w2900">ist</w>
 							<w xml:id="w2901">an</w>
-							<w xml:id="w2902">innerl</w><pc xml:id="w2903">.</pc>
-							<w xml:id="w2904">Fäulung</w>
+							<w xml:id="w2902">innerl</w><pc xml:id="w2903">.</pc> <w xml:id="w2904">Fäulung</w>
 							<w xml:id="w2905">beschaut</w>
 							<w xml:id="w2906">alt</w>
-							<w xml:id="w2907">27</w><pc xml:id="w2908">.</pc>
-							<w xml:id="w2909">Jahr</w><pc xml:id="w2910">.</pc>
+							<w xml:id="w2907">27</w><pc xml:id="w2908">.</pc> <w xml:id="w2909">Jahr</w><pc xml:id="w2910">.</pc>
 						</item>
 					</list>
 				</div>
@@ -3310,8 +3002,7 @@
 					<head rendition="#fc" facs="#facs_9_r_1_1" xml:id="hl18">
 						<lb facs="#facs_9_tl_1" xml:id="z273"/>
 						<w xml:id="w2912">Den</w>
-						<w xml:id="w2913">4</w><pc xml:id="w2914">.</pc>
-						<w xml:id="w2915">starb</w>
+						<w xml:id="w2913">4</w><pc xml:id="w2914">.</pc> <w xml:id="w2915">starb</w>
 						<w xml:id="w2916">in</w>
 						<w xml:id="w2917">der</w>
 						<w xml:id="w2918">Stadt</w>
@@ -3324,16 +3015,14 @@
 							<w xml:id="w2921">Johann</w>
 							<w xml:id="w2922">Georg</w>
 							<w xml:id="w2923">Suckoffsky</w>
-							<w xml:id="w2924">Kayserl</w><pc xml:id="w2925">.</pc>
-							<w xml:id="w2926">Sadel</w><pc xml:id="w2927">=</pc><w xml:id="w2928">Knecht</w> <pc xml:id="w2929">/</pc>
+							<w xml:id="w2924">Kayserl</w><pc xml:id="w2925">.</pc> <w xml:id="w2926">Sadel</w><pc xml:id="w2927">=</pc><w xml:id="w2928">Knecht</w> <pc xml:id="w2929">/</pc>
 							<lb facs="#facs_9_r1002" xml:id="z275"/>
 							<w xml:id="w2930">in</w>
 							<w xml:id="w2931">Schöcklischen</w>
 							<w xml:id="w2932">Hauß</w>
 							<w xml:id="w2933">in</w>
 							<w xml:id="w2934">der</w>
-							<w xml:id="w2935">Ainfalt</w><pc xml:id="w2936">=</pc><w xml:id="w2937">Straß</w> <pc xml:id="w2938">/</pc>
-							<w xml:id="w2939">seine</w>
+							<w xml:id="w2935">Ainfalt</w><pc xml:id="w2936">=</pc><w xml:id="w2937">Straß</w> <pc xml:id="w2938">/</pc> <w xml:id="w2939">seine</w>
 							<w xml:id="w2940">Frau</w>
 							<w xml:id="w2941">Barbara</w>
 							<w xml:id="w2942">ist</w>
@@ -3342,25 +3031,21 @@
                             <hi style="font-family: Antiqua;"><w xml:id="w2944">Hectica</w><pc xml:id="w2945">-</pc></hi><w xml:id="w2946">Fieber</w>
 							<w xml:id="w2947">beschaut</w>
 							<w xml:id="w2948">alt</w>
-							<w xml:id="w2949">33</w><pc xml:id="w2950">.</pc>
-							<w xml:id="w2951">Jahr</w><pc xml:id="w2952">.</pc>
+							<w xml:id="w2949">33</w><pc xml:id="w2950">.</pc> <w xml:id="w2951">Jahr</w><pc xml:id="w2952">.</pc>
 						</item>
 						<item facs="#facs_9_r_1_3" rendition="#f" rend="findent" xml:id="i18">
 							<lb facs="#facs_9_tl_5" xml:id="z277"/>
 							<w xml:id="w2953">Dem</w>
 							<w xml:id="w2954">Johann</w>
 							<w xml:id="w2955">Gerhard</w>
-							<w xml:id="w2956">Kayserl</w><pc xml:id="w2957">.</pc>
-							<w xml:id="w2958">Regiments</w><pc xml:id="w2959">=</pc><w xml:id="w2960">Schmid</w> <pc xml:id="w2961">/</pc>
-							<w xml:id="w2962">in</w>
+							<w xml:id="w2956">Kayserl</w><pc xml:id="w2957">.</pc> <w xml:id="w2958">Regiments</w><pc xml:id="w2959">=</pc><w xml:id="w2960">Schmid</w> <pc xml:id="w2961">/</pc> <w xml:id="w2962">in</w>
 							<w xml:id="w2963">seinem</w>
 							<lb facs="#facs_9_tl_6" xml:id="z278"/>
 							<w xml:id="w2964">Hauß</w>
 							<w xml:id="w2965">auff</w>
 							<w xml:id="w2966">der</w>
 							<w xml:id="w2967">Mölcker</w>
-							<w xml:id="w2968">Pastey</w> <pc xml:id="w2969">/</pc>
-							<w xml:id="w2970">sein</w>
+							<w xml:id="w2968">Pastey</w> <pc xml:id="w2969">/</pc> <w xml:id="w2970">sein</w>
 							<w xml:id="w2971">Kind</w>
 							<w xml:id="w2972">Joseph</w>
 							<w xml:id="w2973">ist</w>
@@ -3370,15 +3055,13 @@
 							<lb facs="#facs_9_tl_7" xml:id="z279"/>
 							<w xml:id="w2977">beschaut</w>
 							<w xml:id="w2978">alt</w>
-							<w xml:id="w2979">½</w><pc xml:id="w2980">.</pc>
-							<w xml:id="w2981">Jahr</w><pc xml:id="w2982">.</pc>
+							<w xml:id="w2979">½</w><pc xml:id="w2980">.</pc> <w xml:id="w2981">Jahr</w><pc xml:id="w2982">.</pc>
 						</item>
 						<item facs="#facs_9_r_1_4" rendition="#f" rend="findent" xml:id="i19">
 							<lb facs="#facs_9_tl_8" xml:id="z280"/>
 							<w xml:id="w2983">Der</w>
 							<w xml:id="w2984">Johann</w>
-							<w xml:id="w2985">Rendt</w> <pc xml:id="w2986">/</pc>
-							<w xml:id="w2987">ein</w>
+							<w xml:id="w2985">Rendt</w> <pc xml:id="w2986">/</pc> <w xml:id="w2987">ein</w>
 							<w xml:id="w2988">Zuckerbacher</w>
 							<w xml:id="w2989">in</w>
 							<w xml:id="w2990">Berdronischen</w>
@@ -3392,8 +3075,7 @@
 							<w xml:id="w2997">Lungelsucht</w>
 							<w xml:id="w2998">beschaut</w>
 							<w xml:id="w2999">alt</w>
-							<w xml:id="w3000">35</w><pc xml:id="w3001">.</pc>
-							<w xml:id="w3002">Jahr</w><pc xml:id="w3003">.</pc>
+							<w xml:id="w3000">35</w><pc xml:id="w3001">.</pc> <w xml:id="w3002">Jahr</w><pc xml:id="w3003">.</pc>
 						</item>
 					</list>
 				</div>
@@ -3411,21 +3093,18 @@
 							<w xml:id="w3009">Brigitta</w>
 							<w xml:id="w3010">Winckelmanin</w>
 							<w xml:id="w3011">ein</w>
-							<w xml:id="w3012">Wittib</w> <pc xml:id="w3013">/</pc>
-							<w xml:id="w3014">beyn</w>
+							<w xml:id="w3012">Wittib</w> <pc xml:id="w3013">/</pc> <w xml:id="w3014">beyn</w>
 							<w xml:id="w3015">Wallfisch</w>
 							<w xml:id="w3016">bey</w>
 							<w xml:id="w3017">Sanct</w>
 							<lb facs="#facs_9_tl_12" xml:id="z284"/>
-							<w xml:id="w3018">Ulrich</w> <pc xml:id="w3019">/</pc>
-							<w xml:id="w3020">ist</w>
+							<w xml:id="w3018">Ulrich</w> <pc xml:id="w3019">/</pc> <w xml:id="w3020">ist</w>
 							<w xml:id="w3021">an</w>
 							<w xml:id="w3022">hitzigen</w>
 							<w xml:id="w3023">Fieber</w>
 							<w xml:id="w3024">beschaut</w>
 							<w xml:id="w3025">alt</w>
-							<w xml:id="w3026">52</w><pc xml:id="w3027">.</pc>
-							<w xml:id="w3028">Jahr</w><pc xml:id="w3029">.</pc>
+							<w xml:id="w3026">52</w><pc xml:id="w3027">.</pc> <w xml:id="w3028">Jahr</w><pc xml:id="w3029">.</pc>
 						</item>
 						<item facs="#facs_9_TextRegion_1521554210875_8" rendition="#f" rend="findent" xml:id="i21">
 							<lb facs="#facs_9_tl_13" xml:id="z285"/>
@@ -3442,15 +3121,13 @@
 							<lb facs="#facs_9_tl_14" xml:id="z286"/>
 							<w xml:id="w3040">Hauß</w>
 							<w xml:id="w3041">am</w>
-							<w xml:id="w3042">Neybau</w> <pc xml:id="w3043">/</pc>
-							<w xml:id="w3044">ist</w>
+							<w xml:id="w3042">Neybau</w> <pc xml:id="w3043">/</pc> <w xml:id="w3044">ist</w>
 							<w xml:id="w3045">an</w>
 							<w xml:id="w3046">der</w>
 							<w xml:id="w3047">Lungelsucht</w>
 							<w xml:id="w3048">bschaut</w>
 							<w xml:id="w3049">alt</w>
-							<w xml:id="w3050">50</w><pc xml:id="w3051">.</pc>
-							<w xml:id="w3052">Jahr</w><pc xml:id="w3053">.</pc>
+							<w xml:id="w3050">50</w><pc xml:id="w3051">.</pc> <w xml:id="w3052">Jahr</w><pc xml:id="w3053">.</pc>
 						</item>
 					</list>
 				</div>
@@ -3458,8 +3135,7 @@
 					<head rendition="#f" facs="#facs_9_TextRegion_1521554210874_7" xml:id="hl20">
 						<lb facs="#facs_9_tl_15" xml:id="z287"/>
 						<w xml:id="w3054">Den</w>
-						<w xml:id="w3055">5</w><pc xml:id="w3056">.</pc>
-						<w xml:id="w3057">starb</w>
+						<w xml:id="w3055">5</w><pc xml:id="w3056">.</pc> <w xml:id="w3057">starb</w>
 						<w xml:id="w3058">in</w>
 						<w xml:id="w3059">der</w>
 						<w xml:id="w3060">Stadt</w><pc xml:id="w3061">.</pc>
@@ -3470,17 +3146,12 @@
 							<w xml:id="w3062">Dem</w>
 							<w xml:id="w3063">Herrn</w>
 							<w xml:id="w3064">Joseph</w>
-							<w xml:id="w3065">Weiß</w> <pc xml:id="w3066">/</pc>
-							<w xml:id="w3067">Königl</w><pc xml:id="w3068">.</pc>
-							<w xml:id="w3069">Cammer</w><pc xml:id="w3070">=</pc><w xml:id="w3071">Diener</w>
+							<w xml:id="w3065">Weiß</w> <pc xml:id="w3066">/</pc> <w xml:id="w3067">Königl</w><pc xml:id="w3068">.</pc> <w xml:id="w3069">Cammer</w><pc xml:id="w3070">=</pc><w xml:id="w3071">Diener</w>
 							<w xml:id="w3072">in</w>
-							<w xml:id="w3073">Weisis</w><pc xml:id="w3074">.</pc>
-							<w xml:id="w3075">Hauß</w> <pc xml:id="w3076">/</pc>
-							<w xml:id="w3077">am</w>
+							<w xml:id="w3073">Weisis</w><pc xml:id="w3074">.</pc> <w xml:id="w3075">Hauß</w> <pc xml:id="w3076">/</pc> <w xml:id="w3077">am</w>
 							<lb facs="#facs_9_tl_17" xml:id="z289"/>
 							<w xml:id="w3078">alten</w>
-							<w xml:id="w3079">Bauern</w><pc xml:id="w3080">=</pc><w xml:id="w3081">Marck</w> <pc xml:id="w3082">/</pc>
-							<w xml:id="w3083">sein</w>
+							<w xml:id="w3079">Bauern</w><pc xml:id="w3080">=</pc><w xml:id="w3081">Marck</w> <pc xml:id="w3082">/</pc> <w xml:id="w3083">sein</w>
 							<w xml:id="w3084">Kind</w>
 							<w xml:id="w3085">Johannes</w>
 							<w xml:id="w3086">ist</w>
@@ -3488,16 +3159,13 @@
 							<w xml:id="w3088">der</w>
 							<w xml:id="w3089">Frayß</w>
 							<w xml:id="w3090">alt</w>
-							<w xml:id="w3091">1</w><pc xml:id="w3092">.</pc>
-							<w xml:id="w3093">Jahr</w><pc xml:id="w3094">.</pc>
+							<w xml:id="w3091">1</w><pc xml:id="w3092">.</pc> <w xml:id="w3093">Jahr</w><pc xml:id="w3094">.</pc>
 						</item>
 						<item facs="#facs_9_TextRegion_1521554270868_17" rendition="#f" rend="findent" xml:id="i23">
 							<lb facs="#facs_9_tl_18" xml:id="z290"/>
 							<w xml:id="w3095">Dem</w>
 							<w xml:id="w3096">Gregori</w>
-							<w xml:id="w3097">Wittwer</w> <pc xml:id="w3098">/</pc>
-							<w xml:id="w3099">Kays</w><pc xml:id="w3100">.</pc>
-							<w xml:id="w3101">Trabant</w>
+							<w xml:id="w3097">Wittwer</w> <pc xml:id="w3098">/</pc> <w xml:id="w3099">Kays</w><pc xml:id="w3100">.</pc> <w xml:id="w3101">Trabant</w>
 							<w xml:id="w3102">in</w>
 							<w xml:id="w3103">ein</w>
 							<hi style="font-family: Antiqua;"><w xml:id="w3104">Beneficiat</w><pc xml:id="w3105">-</pc></hi><w xml:id="w3106">Hauß</w>
@@ -3505,8 +3173,7 @@
 							<w xml:id="w3108">der</w>
 							<lb facs="#facs_9_tl_19" xml:id="z291"/>
 							<w xml:id="w3109">untern</w>
-							<w xml:id="w3110">Sailler</w><pc xml:id="w3111">=</pc><w xml:id="w3112">Straß</w> <pc xml:id="w3113">/</pc>
-							<w xml:id="w3114">sein</w>
+							<w xml:id="w3110">Sailler</w><pc xml:id="w3111">=</pc><w xml:id="w3112">Straß</w> <pc xml:id="w3113">/</pc> <w xml:id="w3114">sein</w>
 							<w xml:id="w3115">Weib</w>
 							<w xml:id="w3116">Maria</w>
 							<w xml:id="w3117">ist</w>
@@ -3514,15 +3181,13 @@
 							<w xml:id="w3119">hitzigen</w>
 							<w xml:id="w3120">Fieber</w>
 							<w xml:id="w3121">alt</w>
-							<w xml:id="w3122">32</w><pc xml:id="w3123">.</pc>
-							<w xml:id="w3124">Jahr</w><pc xml:id="w3125">.</pc>
+							<w xml:id="w3122">32</w><pc xml:id="w3123">.</pc> <w xml:id="w3124">Jahr</w><pc xml:id="w3125">.</pc>
 						</item>
 						<item facs="#facs_9_TextRegion_1521554274063_18" rendition="#f" rend="findent" xml:id="i24">
 							<lb facs="#facs_9_tl_20" xml:id="z292"/>
 							<w xml:id="w3126">Die</w>
 							<w xml:id="w3127">Anna</w>
-							<w xml:id="w3128">Ledlerin</w> <pc xml:id="w3129">/</pc>
-							<w xml:id="w3130">ein</w>
+							<w xml:id="w3128">Ledlerin</w> <pc xml:id="w3129">/</pc> <w xml:id="w3130">ein</w>
 							<w xml:id="w3131">Wittib</w>
 							<w xml:id="w3132">in</w>
 							<w xml:id="w3133">ein</w>
@@ -3536,31 +3201,25 @@
 							<w xml:id="w3144">der</w>
 							<w xml:id="w3145">Wassersucht</w>
 							<w xml:id="w3146">alt</w>
-							<w xml:id="w3147">67</w><pc xml:id="w3148">.</pc>
-							<w xml:id="w3149">Jahr</w><pc xml:id="w3150">.</pc>
+							<w xml:id="w3147">67</w><pc xml:id="w3148">.</pc> <w xml:id="w3149">Jahr</w><pc xml:id="w3150">.</pc>
 						</item>
 						<item facs="#facs_9_r_1_13" rendition="#f" rend="findent" xml:id="i25">
 							<lb facs="#facs_9_tl_22" xml:id="z294"/>
 							<w xml:id="w3151">Der</w>
 							<w xml:id="w3152">Antoni</w>
-							<w xml:id="w3153">Ließ</w> <pc xml:id="w3154">/</pc>
-							<w xml:id="w3155">ein</w>
+							<w xml:id="w3153">Ließ</w> <pc xml:id="w3154">/</pc> <w xml:id="w3155">ein</w>
 							<w xml:id="w3156">Cammer</w><pc xml:id="w3157">=</pc><w xml:id="w3158">Diener</w>
 							<w xml:id="w3159">in</w>
-							<w xml:id="w3160">Gräfl</w><pc xml:id="w3161">.</pc>
-							<w xml:id="w3162">Hoysi</w><pc xml:id="w3163">.</pc>
-							<w xml:id="w3164">Hauß</w>
+							<w xml:id="w3160">Gräfl</w><pc xml:id="w3161">.</pc> <w xml:id="w3162">Hoysi</w><pc xml:id="w3163">.</pc> <w xml:id="w3164">Hauß</w>
 							<w xml:id="w3165">in</w>
 							<w xml:id="w3166">der</w>
 							<lb facs="#facs_9_tl_23" xml:id="z295"/>
-							<w xml:id="w3167">Rossau</w> <pc xml:id="w3168">/</pc>
-							<w xml:id="w3169">ist</w>
+							<w xml:id="w3167">Rossau</w> <pc xml:id="w3168">/</pc> <w xml:id="w3169">ist</w>
 							<w xml:id="w3170">an</w>
 							<w xml:id="w3171">hitzigen</w>
 							<w xml:id="w3172">Catharr</w>
 							<w xml:id="w3173">alt</w>
-							<w xml:id="w3174">30</w><pc xml:id="w3175">.</pc>
-							<w xml:id="w3176">Jahr</w><pc xml:id="w3177">.</pc>
+							<w xml:id="w3174">30</w><pc xml:id="w3175">.</pc> <w xml:id="w3176">Jahr</w><pc xml:id="w3177">.</pc>
 						</item>
 					</list>
 				</div>
@@ -3568,8 +3227,7 @@
 					<head rendition="#fc" facs="#facs_9_r_1_14" xml:id="hl21">
 						<lb facs="#facs_9_tl_24" xml:id="z296"/>
 						<w xml:id="w3178">Den</w>
-						<w xml:id="w3179">6</w><pc xml:id="w3180">.</pc>
-						<w xml:id="w3181">starb</w>
+						<w xml:id="w3179">6</w><pc xml:id="w3180">.</pc> <w xml:id="w3181">starb</w>
 						<w xml:id="w3182">in</w>
 						<w xml:id="w3183">der</w>
 						<w xml:id="w3184">Stadt</w><pc xml:id="w3185">.</pc>
@@ -3579,18 +3237,14 @@
 							<lb facs="#facs_9_tl_25" xml:id="z297"/>
 							<w xml:id="w3186">Dem</w>
 							<w xml:id="w3187">Frantz</w>
-							<w xml:id="w3188">Gradoroll</w> <pc xml:id="w3189">/</pc>
-							<w xml:id="w3190">ein</w>
+							<w xml:id="w3188">Gradoroll</w> <pc xml:id="w3189">/</pc> <w xml:id="w3190">ein</w>
 							<w xml:id="w3191">Seiden</w><pc xml:id="w3192">=</pc><w xml:id="w3193">Färber</w>
 							<w xml:id="w3194">in</w>
-							<w xml:id="w3195">Perthol</w><pc xml:id="w3196">.</pc>
-							<w xml:id="w3197">Hauß</w> <pc xml:id="w3198">/</pc>
-							<w xml:id="w3199">bey</w>
+							<w xml:id="w3195">Perthol</w><pc xml:id="w3196">.</pc> <w xml:id="w3197">Hauß</w> <pc xml:id="w3198">/</pc> <w xml:id="w3199">bey</w>
 							<lb facs="#facs_9_tl_26" xml:id="z298"/>
 							<w xml:id="w3200">unser</w>
 							<w xml:id="w3201">Frauen</w>
-							<w xml:id="w3202">Stiegen</w> <pc xml:id="w3203">/</pc>
-							<w xml:id="w3204">sein</w>
+							<w xml:id="w3202">Stiegen</w> <pc xml:id="w3203">/</pc> <w xml:id="w3204">sein</w>
 							<w xml:id="w3205">Weib</w>
 							<w xml:id="w3206">Anna</w>
 							<w xml:id="w3207">ist</w>
@@ -3598,8 +3252,7 @@
 							<w xml:id="w3209">der</w>
 							<w xml:id="w3210">Wassersucht</w>
 							<w xml:id="w3211">alt</w>
-							<w xml:id="w3212">32</w><pc xml:id="w3213">.</pc>
-							<w xml:id="w3214">Jahr</w><pc xml:id="w3215">.</pc>
+							<w xml:id="w3212">32</w><pc xml:id="w3213">.</pc> <w xml:id="w3214">Jahr</w><pc xml:id="w3215">.</pc>
 						</item>
 						<item facs="#facs_9_r_1_16" rendition="#f" rend="findent" xml:id="i27">
 							<lb facs="#facs_9_tl_27" xml:id="z299"/>
@@ -3607,10 +3260,8 @@
 							<w xml:id="w3217">Andre</w>
 							<w xml:id="w3218">Freymihler</w>
 							<w xml:id="w3219">ein</w>
-							<w xml:id="w3220">Baroquenmacher</w><pc xml:id="w3221">=</pc><w xml:id="w3222">Gsell</w> <pc xml:id="w3223">/</pc>
-							<w xml:id="w3224">beyn</w>
-							<w xml:id="w3225">3</w><pc xml:id="w3226">.</pc>
-							<w xml:id="w3227">Hacken</w>
+							<w xml:id="w3220">Baroquenmacher</w><pc xml:id="w3221">=</pc><w xml:id="w3222">Gsell</w> <pc xml:id="w3223">/</pc> <w xml:id="w3224">beyn</w>
+							<w xml:id="w3225">3</w><pc xml:id="w3226">.</pc> <w xml:id="w3227">Hacken</w>
 							<lb facs="#facs_9_tl_28" xml:id="z300"/>
 							<w xml:id="w3228">aussers</w>
 							<w xml:id="w3229">rothen</w>
@@ -3620,8 +3271,7 @@
 							<w xml:id="w3233">der</w>
 							<w xml:id="w3234">Lungensucht</w>
 							<w xml:id="w3235">alt</w>
-							<w xml:id="w3236">33</w><pc xml:id="w3237">.</pc>
-							<w xml:id="w3238">Jahr</w><pc xml:id="w3239">.</pc>
+							<w xml:id="w3236">33</w><pc xml:id="w3237">.</pc> <w xml:id="w3238">Jahr</w><pc xml:id="w3239">.</pc>
 						</item>
 						<item facs="#facs_9_r_1_17" rendition="#f" rend="findent" xml:id="i28">
 							<lb facs="#facs_9_tl_29" xml:id="z301"/>
@@ -3636,13 +3286,11 @@
 							<w xml:id="w3248">bey</w>
 							<w xml:id="w3249">St</w><pc xml:id="w3250">.</pc>
 							<lb facs="#facs_9_tl_30" xml:id="z302"/>
-							<w xml:id="w3251">Ulrich</w> <pc xml:id="w3252">/</pc>
-							<w xml:id="w3253">ist</w>
+							<w xml:id="w3251">Ulrich</w> <pc xml:id="w3252">/</pc> <w xml:id="w3253">ist</w>
 							<w xml:id="w3254">an</w>
 							<w xml:id="w3255">Stöck</w><pc xml:id="w3256">=</pc><w xml:id="w3257">Cathar</w>
 							<w xml:id="w3258">alt</w>
-							<w xml:id="w3259">58</w><pc xml:id="w3260">.</pc>
-							<w xml:id="w3261">Jahr</w><pc xml:id="w3262">.</pc>
+							<w xml:id="w3259">58</w><pc xml:id="w3260">.</pc> <w xml:id="w3261">Jahr</w><pc xml:id="w3262">.</pc>
 						</item>
 					</list>
 				</div>
@@ -3650,8 +3298,7 @@
 					<head rendition="#fc" facs="#facs_9_r_1_18" xml:id="hl22">
 						<lb facs="#facs_9_tl_31" xml:id="z303"/>
 						<w xml:id="w3263">Den</w>
-						<w xml:id="w3264">7</w><pc xml:id="w3265">.</pc>
-						<w xml:id="w3266">starb</w>
+						<w xml:id="w3264">7</w><pc xml:id="w3265">.</pc> <w xml:id="w3266">starb</w>
 						<w xml:id="w3267">in</w>
 						<w xml:id="w3268">der</w>
 						<w xml:id="w3269">Stadt</w><pc xml:id="w3270">.</pc>
@@ -3661,8 +3308,7 @@
 							<lb facs="#facs_9_tl_32" xml:id="z304"/>
 							<w xml:id="w3271">Dem</w>
 							<w xml:id="w3272">Georg</w>
-							<w xml:id="w3273">Schober</w> <pc xml:id="w3274">/</pc>
-							<w xml:id="w3275">ein</w>
+							<w xml:id="w3273">Schober</w> <pc xml:id="w3274">/</pc> <w xml:id="w3275">ein</w>
 							<w xml:id="w3276">Schneider</w>
 							<w xml:id="w3277">beyn</w>
 							<w xml:id="w3278">Waag</w><pc xml:id="w3279">=</pc><w xml:id="w3280">Hauß</w>
@@ -3676,19 +3322,16 @@
 							<w xml:id="w3287">Frayß</w>
 							<w xml:id="w3288">beschaut</w>
 							<w xml:id="w3289">alt</w>
-							<w xml:id="w3290">¾</w><pc xml:id="w3291">.</pc>
-							<w xml:id="w3292">Jahr</w><pc xml:id="w3293">.</pc>
+							<w xml:id="w3290">¾</w><pc xml:id="w3291">.</pc> <w xml:id="w3292">Jahr</w><pc xml:id="w3293">.</pc>
 						</item>
 						<item facs="#facs_9_r_1_20" rendition="#f" rend="findent" xml:id="i30">
 							<lb facs="#facs_9_tl_34" xml:id="z306"/>
 							<w xml:id="w3294">Dem</w>
 							<w xml:id="w3295">Hanß</w>
-							<w xml:id="w3296">Brichner</w> <pc xml:id="w3297">/</pc>
-							<w xml:id="w3298">ein</w>
+							<w xml:id="w3296">Brichner</w> <pc xml:id="w3297">/</pc> <w xml:id="w3298">ein</w>
 							<w xml:id="w3299">Schneider</w>
 							<w xml:id="w3300">beyn</w>
-							<w xml:id="w3301">2</w><pc xml:id="w3302">.</pc>
-							<w xml:id="w3303">weissen</w>
+							<w xml:id="w3301">2</w><pc xml:id="w3302">.</pc> <w xml:id="w3303">weissen</w>
 							<w xml:id="w3304">Löwen</w>
 							<w xml:id="w3305">am</w>
 							<lb facs="#facs_9_tl_35" xml:id="z307"/>
@@ -3701,8 +3344,7 @@
 							<w xml:id="w3312">Bladern</w>
 							<w xml:id="w3313">beschaut</w>
 							<w xml:id="w3314">alt</w>
-							<w xml:id="w3315">4</w><pc xml:id="w3316">.</pc>
-							<w xml:id="w3317">Jahr</w><pc xml:id="w3318">.</pc>
+							<w xml:id="w3315">4</w><pc xml:id="w3316">.</pc> <w xml:id="w3317">Jahr</w><pc xml:id="w3318">.</pc>
 						</item>
 					</list>
 				</div>
@@ -3722,18 +3364,13 @@
 							<w xml:id="w3327">wurde</w>
 							<w xml:id="w3328">in</w>
 							<w xml:id="w3329">der</w>
-							<w xml:id="w3330">Käyserl</w><pc xml:id="w3331">.</pc>
-							<w xml:id="w3332">Hoff</w><pc xml:id="w3333">=</pc><w xml:id="w3334">Capellen</w>
+							<w xml:id="w3330">Käyserl</w><pc xml:id="w3331">.</pc> <w xml:id="w3332">Hoff</w><pc xml:id="w3333">=</pc><w xml:id="w3334">Capellen</w>
 							<w xml:id="w3335">in</w>
 							<w xml:id="w3336">allerhöch<pc xml:id="w3337">=</pc><lb facs="#facs_9_line_1521554668054_38" xml:id="z310"/>ster</w>
 							<w xml:id="w3338">Gegenwart</w>
 							<w xml:id="w3339">beyder</w>
-							<w xml:id="w3340">Käyserl</w><pc xml:id="w3341">.</pc>
-							<w xml:id="w3342">und</w>
-							<w xml:id="w3343">Königl</w><pc xml:id="w3344">.</pc>
-							<w xml:id="w3345">Mayt</w><pc xml:id="w3346">.</pc>
-							<w xml:id="w3347">Mayt</w><pc xml:id="w3348">.</pc>
-							<w xml:id="w3349">wie</w>
+							<w xml:id="w3340">Käyserl</w><pc xml:id="w3341">.</pc> <w xml:id="w3342">und</w>
+							<w xml:id="w3343">Königl</w><pc xml:id="w3344">.</pc> <w xml:id="w3345">Mayt</w><pc xml:id="w3346">.</pc> <w xml:id="w3347">Mayt</w><pc xml:id="w3348">.</pc> <w xml:id="w3349">wie</w>
 							<w xml:id="w3350">auch</w>
 							<w xml:id="w3351">der</w>
 						</item>
@@ -3749,8 +3386,7 @@
 				<div xml:id="d29" part="N" org="uniform" sample="complete">
 					<p xml:id="p23" rendition="#f" facs="#facs_10_TextRegion_1521554756258_39" rend="noindent" part="N">
 						<lb facs="#facs_10_tl_1" xml:id="z312"/>
-						<w xml:id="w3354">Durchl</w><pc xml:id="w3355">.</pc>
-						<w xml:id="w3356">jungen</w>
+						<w xml:id="w3354">Durchl</w><pc xml:id="w3355">.</pc> <w xml:id="w3356">jungen</w>
 						<w xml:id="w3357">Herrschafft</w>
 						<w xml:id="w3358">nicht</w>
 						<w xml:id="w3359">weniger</w>
@@ -3760,65 +3396,47 @@
 						<w xml:id="w3363">und</w>
 						<lb facs="#facs_10_tl_2" xml:id="z313"/>
                         <hi style="font-family: Antiqua;"><w xml:id="w3364">Dames</w></hi>
-						<w xml:id="w3365">vermählet</w> <pc xml:id="w3366">/</pc>
-						<w xml:id="w3367">Herr</w>
+						<w xml:id="w3365">vermählet</w> <pc xml:id="w3366">/</pc> <w xml:id="w3367">Herr</w>
 						<w xml:id="w3368">Johann</w>
 						<w xml:id="w3369">Adam</w>
 						<w xml:id="w3370">deß</w>
-						<w xml:id="w3371">Heil</w><pc xml:id="w3372">.</pc>
-						<w xml:id="w3373">Römis</w><pc xml:id="w3374">.</pc>
-						<w xml:id="w3375">Reichs</w>
+						<w xml:id="w3371">Heil</w><pc xml:id="w3372">.</pc> <w xml:id="w3373">Römis</w><pc xml:id="w3374">.</pc> <w xml:id="w3375">Reichs</w>
 						<w xml:id="w3376">Graff</w>
 						<lb facs="#facs_10_tl_3" xml:id="z314"/>
 						<w xml:id="w3377">Graff</w>
 						<w xml:id="w3378">von</w>
-						<w xml:id="w3379">Paar</w> <pc xml:id="w3380">/</pc>
-						<w xml:id="w3381">⁊c</w><pc xml:id="w3382">.</pc>
-						<w xml:id="w3383">Der</w>
-						<w xml:id="w3384">Römis</w><pc xml:id="w3385">.</pc>
-						<w xml:id="w3386">auch</w>
+						<w xml:id="w3379">Paar</w> <pc xml:id="w3380">/</pc> <w xml:id="w3381">⁊c</w><pc xml:id="w3382">.</pc> <w xml:id="w3383">Der</w>
+						<w xml:id="w3384">Römis</w><pc xml:id="w3385">.</pc> <w xml:id="w3386">auch</w>
 						<w xml:id="w3387">zu</w>
 						<w xml:id="w3388">Hungarn</w>
-						<w xml:id="w3389">Königl</w><pc xml:id="w3390">.</pc>
-						<w xml:id="w3391">Majestät</w><pc xml:id="w3392">.</pc>
+						<w xml:id="w3389">Königl</w><pc xml:id="w3390">.</pc> <w xml:id="w3391">Majestät</w><pc xml:id="w3392">.</pc>
 						<lb facs="#facs_10_tl_4" xml:id="z315"/>
-						<w xml:id="w3393">Cammerherr</w> <pc xml:id="w3394">/</pc>
-						<w xml:id="w3395">Ihrer</w>
+						<w xml:id="w3393">Cammerherr</w> <pc xml:id="w3394">/</pc> <w xml:id="w3395">Ihrer</w>
 						<w xml:id="w3396">Excellentz</w>
 						<w xml:id="w3397">Herrn</w>
 						<w xml:id="w3398">Carl</w>
 						<w xml:id="w3399">Josephs</w>
 						<w xml:id="w3400">deß</w>
-						<w xml:id="w3401">Heil</w><pc xml:id="w3402">.</pc>
-						<w xml:id="w3403">Römischen</w>
+						<w xml:id="w3401">Heil</w><pc xml:id="w3402">.</pc> <w xml:id="w3403">Römischen</w>
 						<lb facs="#facs_10_tl_5" xml:id="z316"/>
 						<w xml:id="w3404">Reichs</w>
 						<w xml:id="w3405">Graffen</w>
 						<w xml:id="w3406">von</w>
-						<w xml:id="w3407">Paar</w> <pc xml:id="w3408">/</pc>
-						<w xml:id="w3409">Freyherrn</w>
+						<w xml:id="w3407">Paar</w> <pc xml:id="w3408">/</pc> <w xml:id="w3409">Freyherrn</w>
 						<w xml:id="w3410">auff</w>
-						<w xml:id="w3411">Hardberg</w> <pc xml:id="w3412">/</pc>
-						<w xml:id="w3413">und</w>
+						<w xml:id="w3411">Hardberg</w> <pc xml:id="w3412">/</pc> <w xml:id="w3413">und</w>
 						<w xml:id="w3414">Krottenstein</w> <pc xml:id="w3415">/</pc>
 						<lb facs="#facs_10_tl_6" xml:id="z317"/>
 						<w xml:id="w3416">Herrn</w>
 						<w xml:id="w3417">der</w>
 						<w xml:id="w3418">Herrschaften</w>
-						<w xml:id="w3419">Fürstenfeld</w> <pc xml:id="w3420">/</pc>
-						<w xml:id="w3421">⁊c</w><pc xml:id="w3422">.</pc>
-						<w xml:id="w3423">der</w>
-						<w xml:id="w3424">Römis</w><pc xml:id="w3425">.</pc>
-						<w xml:id="w3426">Käyserl</w><pc xml:id="w3427">.</pc>
-						<w xml:id="w3428">Majestät</w><pc xml:id="w3429">.</pc>
+						<w xml:id="w3419">Fürstenfeld</w> <pc xml:id="w3420">/</pc> <w xml:id="w3421">⁊c</w><pc xml:id="w3422">.</pc> <w xml:id="w3423">der</w>
+						<w xml:id="w3424">Römis</w><pc xml:id="w3425">.</pc> <w xml:id="w3426">Käyserl</w><pc xml:id="w3427">.</pc> <w xml:id="w3428">Majestät</w><pc xml:id="w3429">.</pc>
 						<lb facs="#facs_10_tl_7" xml:id="z318"/>
-						<w xml:id="w3430">würckl</w><pc xml:id="w3431">.</pc>
-						<w xml:id="w3432">geheimben</w>
+						<w xml:id="w3430">würckl</w><pc xml:id="w3431">.</pc> <w xml:id="w3432">geheimben</w>
 						<w xml:id="w3433">Rath</w>
 						<w xml:id="w3434">und</w>
-						<w xml:id="w3435">Cämmerern</w> <pc xml:id="w3436">/</pc>
-						<w xml:id="w3437">Obrist</w><pc xml:id="w3438">=</pc><w xml:id="w3439">Reichs</w><pc xml:id="w3440">=</pc><w xml:id="w3441">Hoff</w><pc xml:id="w3442">=</pc>
-						<w xml:id="w3443">wie</w>
+						<w xml:id="w3435">Cämmerern</w> <pc xml:id="w3436">/</pc> <w xml:id="w3437">Obrist</w><pc xml:id="w3438">=</pc><w xml:id="w3439">Reichs</w><pc xml:id="w3440">=</pc><w xml:id="w3441">Hoff</w><pc xml:id="w3442">=</pc><w xml:id="w3443">wie</w>
 						<w xml:id="w3444">auch</w>
 						<lb facs="#facs_10_tl_8" xml:id="z319"/>
 						<w xml:id="w3445">in</w>
@@ -3826,9 +3444,7 @@
 						<w xml:id="w3447">Erb</w><pc xml:id="w3448">=</pc><w xml:id="w3449">Königreich</w>
 						<w xml:id="w3450">und</w>
 						<w xml:id="w3451">Landen</w>
-						<w xml:id="w3452">General</w> <pc xml:id="w3453">/</pc>
-						<w xml:id="w3454">Erb</w><pc xml:id="w3455">=</pc><w xml:id="w3456">Postmeistern</w> <pc xml:id="w3457">/</pc>
-						<w xml:id="w3458">und</w>
+						<w xml:id="w3452">General</w> <pc xml:id="w3453">/</pc> <w xml:id="w3454">Erb</w><pc xml:id="w3455">=</pc><w xml:id="w3456">Postmeistern</w> <pc xml:id="w3457">/</pc> <w xml:id="w3458">und</w>
 						<lb facs="#facs_10_tl_9" xml:id="z320"/>
                         <hi style="font-family: Antiqua;"><w xml:id="w3459">Mariæ</w> <w xml:id="w3460">Renatæ</w></hi>
 						<w xml:id="w3461">Ihrer</w>
@@ -3837,25 +3453,18 @@
 						<w xml:id="w3464">Wratislaw</w>
 						<w xml:id="w3465">Adolph</w>
 						<w xml:id="w3466">deß</w>
-						<w xml:id="w3467">Heil</w><pc xml:id="w3468">.</pc>
-						<w xml:id="w3469">R</w><pc xml:id="w3470">.</pc>
+						<w xml:id="w3467">Heil</w><pc xml:id="w3468">.</pc> <w xml:id="w3469">R</w><pc xml:id="w3470">.</pc>
 						<lb facs="#facs_10_tl_10" xml:id="z321"/>
 						<w xml:id="w3471">Reichs</w>
 						<w xml:id="w3472">Graffen</w>
 						<w xml:id="w3473">von</w>
-						<w xml:id="w3474">Sternberg</w> <pc xml:id="w3475">/</pc>
-						<w xml:id="w3476">⁊c</w><pc xml:id="w3477">.</pc>
-						<w xml:id="w3478">R<supplied instant="false">i</supplied>ttern</w>
+						<w xml:id="w3474">Sternberg</w> <pc xml:id="w3475">/</pc> <w xml:id="w3476">⁊c</w><pc xml:id="w3477">.</pc> <w xml:id="w3478">R<supplied instant="false">i</supplied>ttern</w>
 						<w xml:id="w3479">deß</w>
 						<w xml:id="w3480">gulden</w>
-						<w xml:id="w3481">Fluß</w> <pc xml:id="w3482">/</pc>
-						<w xml:id="w3483">der</w>
+						<w xml:id="w3481">Fluß</w> <pc xml:id="w3482">/</pc> <w xml:id="w3483">der</w>
 						<w xml:id="w3484">Römis</w><pc xml:id="w3485">.</pc>
 						<lb facs="#facs_10_tl_11" xml:id="z322"/>
-						<w xml:id="w3486">Käyserl</w><pc xml:id="w3487">.</pc>
-						<w xml:id="w3488">Majest</w><pc xml:id="w3489">.</pc>
-						<w xml:id="w3490">geheimben</w><pc xml:id="w3491">=</pc>
-						<w xml:id="w3492">und</w>
+						<w xml:id="w3486">Käyserl</w><pc xml:id="w3487">.</pc> <w xml:id="w3488">Majest</w><pc xml:id="w3489">.</pc> <w xml:id="w3490">geheimben</w><pc xml:id="w3491">=</pc><w xml:id="w3492">und</w>
 						<hi style="font-family: Antiqua;"><w xml:id="w3493">Conferenz</w><pc xml:id="w3494">-</pc></hi><w xml:id="w3495">Rath</w>
 						<w xml:id="w3496">wie</w>
 						<w xml:id="w3497">auch</w>
@@ -3866,22 +3475,17 @@
 						<w xml:id="w3501">Königreich</w>
 						<w xml:id="w3502">Böhmen</w>
 						<w xml:id="w3503">Frauen</w>
-						<w xml:id="w3504">Tochter</w> <pc xml:id="w3505">/</pc>
-						<w xml:id="w3506">Herr</w>
+						<w xml:id="w3504">Tochter</w> <pc xml:id="w3505">/</pc> <w xml:id="w3506">Herr</w>
 						<w xml:id="w3507">Sohn</w><pc xml:id="w3508">.</pc>
 						<lb facs="#facs_10_tl_13" xml:id="z324"/>
 						<w xml:id="w3509">Mit</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w3510">Maria</w> <w xml:id="w3511">Josepha</w></hi>
 						<w xml:id="w3512">Gräffin</w>
 						<w xml:id="w3513">zu</w>
-						<w xml:id="w3514">Oettingen</w> <pc xml:id="w3515">/</pc>
-						<w xml:id="w3516">Ihro</w>
-						<w xml:id="w3517">Majest</w><pc xml:id="w3518">.</pc>
-						<w xml:id="w3519">der</w>
-						<w xml:id="w3520">Römis</w><pc xml:id="w3521">.</pc>
-						<w xml:id="w3522">Käy<pc xml:id="w3523">=</pc><lb facs="#facs_10_tl_14" xml:id="z325"/>serin</w>
-						<w xml:id="w3524">Cammer</w><pc xml:id="w3525">=</pc><w xml:id="w3526">Fräule</w> <pc xml:id="w3527">/</pc>
-						<w xml:id="w3528">weyland</w>
+						<w xml:id="w3514">Oettingen</w> <pc xml:id="w3515">/</pc> <w xml:id="w3516">Ihro</w>
+						<w xml:id="w3517">Majest</w><pc xml:id="w3518">.</pc> <w xml:id="w3519">der</w>
+						<w xml:id="w3520">Römis</w><pc xml:id="w3521">.</pc> <w xml:id="w3522">Käy<pc xml:id="w3523">=</pc><lb facs="#facs_10_tl_14" xml:id="z325"/>serin</w>
+						<w xml:id="w3524">Cammer</w><pc xml:id="w3525">=</pc><w xml:id="w3526">Fräule</w> <pc xml:id="w3527">/</pc> <w xml:id="w3528">weyland</w>
 						<w xml:id="w3529">Ihro</w>
 						<w xml:id="w3530">Gnaden</w>
 						<w xml:id="w3531">Herrn</w>
@@ -3893,46 +3497,35 @@
 						<w xml:id="w3536">Graffen</w>
 						<w xml:id="w3537">zu</w>
 						<w xml:id="w3538">Oettingen</w>
-						<w xml:id="w3539">Spielberg</w> <pc xml:id="w3540">/</pc>
-						<w xml:id="w3541">und</w>
+						<w xml:id="w3539">Spielberg</w> <pc xml:id="w3540">/</pc> <w xml:id="w3541">und</w>
                         <hi style="font-family: Antiqua;"><w xml:id="w3542">Mariæ</w> <w xml:id="w3543">An<pc xml:id="w3544">-</pc><lb facs="#facs_10_tl_16" xml:id="z327"/>næ</w></hi>
 						<w xml:id="w3545">ältisten</w>
 						<w xml:id="w3546">Tochter</w>
 						<w xml:id="w3547">Ihrer</w>
-						<w xml:id="w3548">Hochgräfl</w><pc xml:id="w3549">.</pc>
-						<w xml:id="w3550">Excellenz</w>
+						<w xml:id="w3548">Hochgräfl</w><pc xml:id="w3549">.</pc> <w xml:id="w3550">Excellenz</w>
 						<w xml:id="w3551">Herrn</w>
 						<w xml:id="w3552">Wolffgang</w>
 						<w xml:id="w3553">deß</w>
 						<w xml:id="w3554">H</w><pc xml:id="w3555">.</pc>
 						<lb facs="#facs_10_tl_17" xml:id="z328"/>
-						<w xml:id="w3556">R</w><pc xml:id="w3557">.</pc>
-						<w xml:id="w3558">Reichs</w>
+						<w xml:id="w3556">R</w><pc xml:id="w3557">.</pc> <w xml:id="w3558">Reichs</w>
 						<w xml:id="w3559">Graffen</w>
 						<w xml:id="w3560">zu</w>
 						<w xml:id="w3561">Oettingen</w>
-						<w xml:id="w3562">⁊c</w><pc xml:id="w3563">.</pc>
-						<w xml:id="w3564">der</w>
-						<w xml:id="w3565">Römis</w><pc xml:id="w3566">.</pc>
-						<w xml:id="w3567">Käys</w><pc xml:id="w3568">.</pc>
-						<w xml:id="w3569">Maj</w><pc xml:id="w3570">.</pc>
-						<w xml:id="w3571">Geheimben</w>
+						<w xml:id="w3562">⁊c</w><pc xml:id="w3563">.</pc> <w xml:id="w3564">der</w>
+						<w xml:id="w3565">Römis</w><pc xml:id="w3566">.</pc> <w xml:id="w3567">Käys</w><pc xml:id="w3568">.</pc> <w xml:id="w3569">Maj</w><pc xml:id="w3570">.</pc> <w xml:id="w3571">Geheimben</w>
 						<lb facs="#facs_10_tl_18" xml:id="z329"/>
 						<w xml:id="w3572">und</w>
-						<hi style="font-family: Antiqua;"><w xml:id="w3573">Conferenz</w><pc xml:id="w3574">-</pc></hi><w xml:id="w3575">Raths</w> <pc xml:id="w3576">/</pc>
-						<w xml:id="w3577">Cämmerern</w>
+						<hi style="font-family: Antiqua;"><w xml:id="w3573">Conferenz</w><pc xml:id="w3574">-</pc></hi><w xml:id="w3575">Raths</w> <pc xml:id="w3576">/</pc> <w xml:id="w3577">Cämmerern</w>
 						<w xml:id="w3578">und</w>
 						<w xml:id="w3579">Reichs</w><pc xml:id="w3580">=</pc><w xml:id="w3581">Hoff</w><pc xml:id="w3582">=</pc><w xml:id="w3583">Raths</w>
-						<w xml:id="w3584"><hi style="font-family: Antiqua;">Præsiden</hi><pc xml:id="w3585">-</pc><lb facs="#facs_10_tl_19" xml:id="z330"/>ten</w> <pc xml:id="w3586">/</pc>
-						<w xml:id="w3587">wie</w>
+						<w xml:id="w3584"><hi style="font-family: Antiqua;">Præsiden</hi><pc xml:id="w3585">-</pc><lb facs="#facs_10_tl_19" xml:id="z330"/>ten</w> <pc xml:id="w3586">/</pc> <w xml:id="w3587">wie</w>
 						<w xml:id="w3588">auch</w>
 						<w xml:id="w3589">gewesenen</w>
-						<w xml:id="w3590">Käyserl</w><pc xml:id="w3591">.</pc>
-						<w xml:id="w3592">Groß</w><pc xml:id="w3593">=</pc><w xml:id="w3594">Pottschaffters</w>
+						<w xml:id="w3590">Käyserl</w><pc xml:id="w3591">.</pc> <w xml:id="w3592">Groß</w><pc xml:id="w3593">=</pc><w xml:id="w3594">Pottschaffters</w>
 						<w xml:id="w3595">an</w>
 						<w xml:id="w3596">der</w>
-						<w xml:id="w3597">Ottoman<pc xml:id="w3598">=</pc><lb facs="#facs_10_tl_20" xml:id="z331"/>nis</w><pc xml:id="w3599">.</pc>
-						<w xml:id="w3600">Pforten</w>
+						<w xml:id="w3597">Ottoman<pc xml:id="w3598">=</pc><lb facs="#facs_10_tl_20" xml:id="z331"/>nis</w><pc xml:id="w3599">.</pc> <w xml:id="w3600">Pforten</w>
 						<w xml:id="w3601">hinterlassenen</w>
 						<w xml:id="w3602">Fräule</w>
 						<w xml:id="w3603">Tochter</w><pc xml:id="w3604">.</pc>
@@ -3952,18 +3545,14 @@
 					<list xml:id="li14" rendition="#f">
 						<item facs="#facs_10_r_2_1" rendition="#f" rend="findent" xml:id="i32">
 							<lb facs="#facs_10_tl_23" xml:id="z334"/>
-							<w xml:id="w3614">Rothenthurn</w> <pc xml:id="w3615">/</pc>
-							<w xml:id="w3616">den</w>
-							<w xml:id="w3617">1</w><pc xml:id="w3618">.</pc>
-							<w xml:id="w3619">Aug</w><pc xml:id="w3620">.</pc>
-							<w xml:id="w3621">Herr</w>
+							<w xml:id="w3614">Rothenthurn</w> <pc xml:id="w3615">/</pc> <w xml:id="w3616">den</w>
+							<w xml:id="w3617">1</w><pc xml:id="w3618">.</pc> <w xml:id="w3619">Aug</w><pc xml:id="w3620">.</pc> <w xml:id="w3621">Herr</w>
 							<w xml:id="w3622">General</w>
 							<w xml:id="w3623">Reventlau</w>
 							<w xml:id="w3624">ist</w>
 							<w xml:id="w3625">kommen</w>
 							<w xml:id="w3626">von</w>
-							<w xml:id="w3627">Leipzig</w> <pc xml:id="w3628">/</pc>
-							<w xml:id="w3629">logirt</w>
+							<w xml:id="w3627">Leipzig</w> <pc xml:id="w3628">/</pc> <w xml:id="w3629">logirt</w>
 							<lb facs="#facs_10_tl_24" xml:id="z335"/>
 							<w xml:id="w3630">im</w>
 							<w xml:id="w3631">guldenen</w>
@@ -3971,58 +3560,42 @@
 						</item>
 						<item facs="#facs_10_r_2_2" rendition="#f" rend="findent" xml:id="i33">
 							<lb facs="#facs_10_tl_25" xml:id="z336"/>
-							<w xml:id="w3634">Kärner</w><pc xml:id="w3635">=</pc><w xml:id="w3636">Thor</w> <pc xml:id="w3637">/</pc>
-							<w xml:id="w3638">den</w>
-							<w xml:id="w3639">2</w><pc xml:id="w3640">.</pc>
-							<w xml:id="w3641">Aug</w><pc xml:id="w3642">.</pc>
-							<w xml:id="w3643">Herr</w>
+							<w xml:id="w3634">Kärner</w><pc xml:id="w3635">=</pc><w xml:id="w3636">Thor</w> <pc xml:id="w3637">/</pc> <w xml:id="w3638">den</w>
+							<w xml:id="w3639">2</w><pc xml:id="w3640">.</pc> <w xml:id="w3641">Aug</w><pc xml:id="w3642">.</pc> <w xml:id="w3643">Herr</w>
 							<w xml:id="w3644">Johann</w>
 							<w xml:id="w3645">Baptist</w>
 							<w xml:id="w3646">Dusch</w>
 							<w xml:id="w3647">Cammer</w><pc xml:id="w3648">=</pc><w xml:id="w3649">Officier</w>
 							<w xml:id="w3650">zu</w>
-							<w xml:id="w3651">In<pc xml:id="w3652">=</pc><lb facs="#facs_10_tl_26" xml:id="z337"/>sprugg</w> <pc xml:id="w3653">/</pc>
-							<w xml:id="w3654">ist</w>
+							<w xml:id="w3651">In<pc xml:id="w3652">=</pc><lb facs="#facs_10_tl_26" xml:id="z337"/>sprugg</w> <pc xml:id="w3653">/</pc> <w xml:id="w3654">ist</w>
 							<w xml:id="w3655">kommen</w>
 							<w xml:id="w3656">von</w>
-							<w xml:id="w3657">dannen</w> <pc xml:id="w3658">/</pc>
-							<w xml:id="w3659">log</w><supplied instant="false"><pc xml:id="w3660">.</pc></supplied>
+							<w xml:id="w3657">dannen</w> <pc xml:id="w3658">/</pc> <w xml:id="w3659">log</w><supplied instant="false"><pc xml:id="w3660">.</pc></supplied>
 							<w xml:id="w3661">im</w>
 							<w xml:id="w3662">Mattschacker</w><pc xml:id="w3663">=</pc><w xml:id="w3664">Hoff</w><pc xml:id="w3665">.</pc>
 						</item>
 						<item facs="#facs_10_r_2_3" rendition="#f" rend="findent" xml:id="i34">
 							<lb facs="#facs_10_tl_27" xml:id="z338"/>
-							<w xml:id="w3666">Stuben</w><pc xml:id="w3667">=</pc><w xml:id="w3668">Thor</w> <pc xml:id="w3669">/</pc>
-							<w xml:id="w3670">den</w>
-							<w xml:id="w3671">3</w><pc xml:id="w3672">.</pc>
-							<w xml:id="w3673">Aug</w><pc xml:id="w3674">.</pc>
-							<w xml:id="w3675">Ein</w>
-							<w xml:id="w3676">Käyserl</w><pc xml:id="w3677">.</pc>
-							<w xml:id="w3678">Courier</w> <pc xml:id="w3679">/</pc>
-							<w xml:id="w3680">ist</w>
+							<w xml:id="w3666">Stuben</w><pc xml:id="w3667">=</pc><w xml:id="w3668">Thor</w> <pc xml:id="w3669">/</pc> <w xml:id="w3670">den</w>
+							<w xml:id="w3671">3</w><pc xml:id="w3672">.</pc> <w xml:id="w3673">Aug</w><pc xml:id="w3674">.</pc> <w xml:id="w3675">Ein</w>
+							<w xml:id="w3676">Käyserl</w><pc xml:id="w3677">.</pc> <w xml:id="w3678">Courier</w> <pc xml:id="w3679">/</pc> <w xml:id="w3680">ist</w>
 							<w xml:id="w3681">kommen</w>
 							<w xml:id="w3682">von</w>
-							<w xml:id="w3683">Insprug</w><pc xml:id="w3684">.</pc>
-							<w xml:id="w3685">log</w><pc xml:id="w3686">.</pc>
+							<w xml:id="w3683">Insprug</w><pc xml:id="w3684">.</pc> <w xml:id="w3685">log</w><pc xml:id="w3686">.</pc>
 							<lb facs="#facs_10_tl_28" xml:id="z339"/>
 							<w xml:id="w3687">im</w>
 							<w xml:id="w3688">Post</w><pc xml:id="w3689">=</pc><w xml:id="w3690">Ambt</w><pc xml:id="w3691">.</pc>
 						</item>
 						<item facs="#facs_10_r_2_4" rendition="#f" rend="findent" xml:id="i35">
 							<lb facs="#facs_10_tl_29" xml:id="z340"/>
-							<w xml:id="w3692">Rothenthurn</w> <pc xml:id="w3693">/</pc>
-							<w xml:id="w3694">Herr</w>
+							<w xml:id="w3692">Rothenthurn</w> <pc xml:id="w3693">/</pc> <w xml:id="w3694">Herr</w>
 							<w xml:id="w3695">Hauptmann</w>
-							<w xml:id="w3696">Scheps</w> <pc xml:id="w3697">/</pc>
-							<w xml:id="w3698">vom</w>
-							<w xml:id="w3699">Gschwindis</w><pc xml:id="w3700">.</pc>
-							<w xml:id="w3701">Regiment</w>
+							<w xml:id="w3696">Scheps</w> <pc xml:id="w3697">/</pc> <w xml:id="w3698">vom</w>
+							<w xml:id="w3699">Gschwindis</w><pc xml:id="w3700">.</pc> <w xml:id="w3701">Regiment</w>
 							<w xml:id="w3702">ist</w>
 							<w xml:id="w3703">kom<pc xml:id="w3704">=</pc><lb facs="#facs_10_tl_30" xml:id="z341"/>men</w>
 							<w xml:id="w3705">auß</w>
-							<w xml:id="w3706">Tyroll</w> <pc xml:id="w3707">/</pc>
-							<w xml:id="w3708">log</w><pc xml:id="w3709">.</pc>
-							<w xml:id="w3710">im</w>
+							<w xml:id="w3706">Tyroll</w> <pc xml:id="w3707">/</pc> <w xml:id="w3708">log</w><pc xml:id="w3709">.</pc> <w xml:id="w3710">im</w>
 							<w xml:id="w3711">guldenen</w>
 							<w xml:id="w3712">Hirschen</w><pc xml:id="w3713">.</pc>
 						</item>
@@ -4032,33 +3605,24 @@
 							<w xml:id="w3715">Bortulando</w>
 							<w xml:id="w3716">Cornet</w>
 							<w xml:id="w3717">vom</w>
-							<w xml:id="w3718">Chussanis</w><pc xml:id="w3719">.</pc>
-							<w xml:id="w3720">Regiment</w>
+							<w xml:id="w3718">Chussanis</w><pc xml:id="w3719">.</pc> <w xml:id="w3720">Regiment</w>
 							<w xml:id="w3721">kombt</w>
 							<w xml:id="w3722">als</w>
 							<w xml:id="w3723">Courier</w>
 							<w xml:id="w3724">vom</w>
 							<w xml:id="w3725">Printz</w>
 							<lb facs="#facs_10_tl_32" xml:id="z343"/>
-							<w xml:id="w3726">Louis</w> <pc xml:id="w3727">/</pc>
-							<w xml:id="w3728">log</w><pc xml:id="w3729">.</pc>
-							<w xml:id="w3730">beym</w>
+							<w xml:id="w3726">Louis</w> <pc xml:id="w3727">/</pc> <w xml:id="w3728">log</w><pc xml:id="w3729">.</pc> <w xml:id="w3730">beym</w>
 							<w xml:id="w3731">Herrn</w>
 							<w xml:id="w3732">Baron</w>
 							<w xml:id="w3733">Greiff</w><pc xml:id="w3734">.</pc>
 						</item>
 						<item facs="#facs_10_r_2_6" rendition="#f" rend="findent" xml:id="i37">
 							<lb facs="#facs_10_tl_33" xml:id="z344"/>
-							<w xml:id="w3735">Kärner</w><pc xml:id="w3736">=</pc><w xml:id="w3737">Thor</w> <pc xml:id="w3738">/</pc>
-							<w xml:id="w3739">4</w><pc xml:id="w3740">.</pc>
-							<w xml:id="w3741">Aug</w><pc xml:id="w3742">.</pc>
-							<w xml:id="w3743">Hr</w><pc xml:id="w3744">.</pc>
-							<w xml:id="w3745">Baron</w>
-							<w xml:id="w3746">Lindtenberg</w> <pc xml:id="w3747">/</pc>
-							<w xml:id="w3748">kombt</w>
+							<w xml:id="w3735">Kärner</w><pc xml:id="w3736">=</pc><w xml:id="w3737">Thor</w> <pc xml:id="w3738">/</pc> <w xml:id="w3739">4</w><pc xml:id="w3740">.</pc> <w xml:id="w3741">Aug</w><pc xml:id="w3742">.</pc> <w xml:id="w3743">Hr</w><pc xml:id="w3744">.</pc> <w xml:id="w3745">Baron</w>
+							<w xml:id="w3746">Lindtenberg</w> <pc xml:id="w3747">/</pc> <w xml:id="w3748">kombt</w>
 							<w xml:id="w3749">von</w>
-							<w xml:id="w3750">Gratz</w> <pc xml:id="w3751">/</pc>
-							<w xml:id="w3752">log</w><supplied instant="false"><pc xml:id="w3753">.</pc></supplied>
+							<w xml:id="w3750">Gratz</w> <pc xml:id="w3751">/</pc> <w xml:id="w3752">log</w><supplied instant="false"><pc xml:id="w3753">.</pc></supplied>
 							<w xml:id="w3754">in</w>
 							<w xml:id="w3755">den</w>
 							<w xml:id="w3756">3</w>
@@ -4069,92 +3633,62 @@
 							<w xml:id="w3759">Herr</w>
 							<w xml:id="w3760">Graff</w>
 							<w xml:id="w3761">von</w>
-							<w xml:id="w3762">Weltz</w> <pc xml:id="w3763">/</pc>
-							<w xml:id="w3764">kombt</w>
+							<w xml:id="w3762">Weltz</w> <pc xml:id="w3763">/</pc> <w xml:id="w3764">kombt</w>
 							<w xml:id="w3765">von</w>
-							<w xml:id="w3766">Clagenfurth</w> <pc xml:id="w3767">/</pc>
-							<w xml:id="w3768">log</w><pc xml:id="w3769">.</pc>
-							<w xml:id="w3770">bey</w>
+							<w xml:id="w3766">Clagenfurth</w> <pc xml:id="w3767">/</pc> <w xml:id="w3768">log</w><pc xml:id="w3769">.</pc> <w xml:id="w3770">bey</w>
 							<w xml:id="w3771">seinem</w>
 							<w xml:id="w3772">Herrn</w>
 							<w xml:id="w3773">Vettern</w><pc xml:id="w3774">.</pc>
 						</item>
 						<item facs="#facs_10_r_2_8" rendition="#f" rend="findent" xml:id="i39">
 							<lb facs="#facs_10_tl_35" xml:id="z346"/>
-							<w xml:id="w3775">Rothenthurn</w> <pc xml:id="w3776">/</pc>
-							<w xml:id="w3777">Herr</w>
+							<w xml:id="w3775">Rothenthurn</w> <pc xml:id="w3776">/</pc> <w xml:id="w3777">Herr</w>
 							<w xml:id="w3778">von</w>
-							<w xml:id="w3779">Weinberg</w> <pc xml:id="w3780">/</pc>
-							<w xml:id="w3781">Königl</w><pc xml:id="w3782">.</pc>
-							<w xml:id="w3783">Dähnis</w><pc xml:id="w3784">.</pc>
-							<w xml:id="w3785">Gesandter</w> <pc xml:id="w3786">/</pc>
-							<w xml:id="w3787">kombt</w>
+							<w xml:id="w3779">Weinberg</w> <pc xml:id="w3780">/</pc> <w xml:id="w3781">Königl</w><pc xml:id="w3782">.</pc> <w xml:id="w3783">Dähnis</w><pc xml:id="w3784">.</pc> <w xml:id="w3785">Gesandter</w> <pc xml:id="w3786">/</pc> <w xml:id="w3787">kombt</w>
 							<w xml:id="w3788">von</w>
 							<w xml:id="w3789">dannen</w> <pc xml:id="w3790">/</pc>
 							<lb facs="#facs_10_tl_36" xml:id="z347"/>
-							<w xml:id="w3791">log</w><pc xml:id="w3792">.</pc>
-							<w xml:id="w3793">in</w>
-							<w xml:id="w3794">3</w><pc xml:id="w3795">.</pc>
-							<w xml:id="w3796">Hacken</w><pc xml:id="w3797">.</pc>
+							<w xml:id="w3791">log</w><pc xml:id="w3792">.</pc> <w xml:id="w3793">in</w>
+							<w xml:id="w3794">3</w><pc xml:id="w3795">.</pc> <w xml:id="w3796">Hacken</w><pc xml:id="w3797">.</pc>
 						</item>
 						<item facs="#facs_10_r_2_9" rendition="#f" rend="findent" xml:id="i40">
 							<lb facs="#facs_10_tl_37" xml:id="z348"/>
-							<w xml:id="w3798">Kärnerthor</w> <pc xml:id="w3799">/</pc>
-							<w xml:id="w3800">den</w>
-							<w xml:id="w3801">5</w><pc xml:id="w3802">.</pc>
-							<w xml:id="w3803">Aug</w><pc xml:id="w3804">.</pc>
-							<w xml:id="w3805">Ein</w>
+							<w xml:id="w3798">Kärnerthor</w> <pc xml:id="w3799">/</pc> <w xml:id="w3800">den</w>
+							<w xml:id="w3801">5</w><pc xml:id="w3802">.</pc> <w xml:id="w3803">Aug</w><pc xml:id="w3804">.</pc> <w xml:id="w3805">Ein</w>
 							<w xml:id="w3806">Käys</w>
-							<w xml:id="w3807">Courier</w> <pc xml:id="w3808">/</pc>
-							<w xml:id="w3809">kommt</w>
+							<w xml:id="w3807">Courier</w> <pc xml:id="w3808">/</pc> <w xml:id="w3809">kommt</w>
 							<w xml:id="w3810">auß</w>
-							<w xml:id="w3811">Tyrol</w> <pc xml:id="w3812">/</pc>
-							<w xml:id="w3813">log</w>
+							<w xml:id="w3811">Tyrol</w> <pc xml:id="w3812">/</pc> <w xml:id="w3813">log</w>
 							<w xml:id="w3814">im</w>
 							<w xml:id="w3815">Post</w><pc xml:id="w3816">=</pc><w xml:id="w3817">Ambt</w><pc xml:id="w3818">.</pc>
 						</item>
 						<item facs="#facs_10_r_2_10" rendition="#f" rend="findent" xml:id="i41">
 							<lb facs="#facs_10_tl_38" xml:id="z349"/>
-							<w xml:id="w3819">Stubenthor</w> <pc xml:id="w3820">/</pc>
-							<w xml:id="w3821">Herr</w>
-							<w xml:id="w3822">Gen</w><pc xml:id="w3823">.</pc>
-							<w xml:id="w3824">Gschwind</w> <pc xml:id="w3825">/</pc>
-							<w xml:id="w3826">kombt</w>
+							<w xml:id="w3819">Stubenthor</w> <pc xml:id="w3820">/</pc> <w xml:id="w3821">Herr</w>
+							<w xml:id="w3822">Gen</w><pc xml:id="w3823">.</pc> <w xml:id="w3824">Gschwind</w> <pc xml:id="w3825">/</pc> <w xml:id="w3826">kombt</w>
 							<w xml:id="w3827">auß</w>
-							<w xml:id="w3828">Tyroll</w> <pc xml:id="w3829">/</pc>
-							<w xml:id="w3830">log</w><pc xml:id="w3831">.</pc>
-							<w xml:id="w3832">in</w>
+							<w xml:id="w3828">Tyroll</w> <pc xml:id="w3829">/</pc> <w xml:id="w3830">log</w><pc xml:id="w3831">.</pc> <w xml:id="w3832">in</w>
 							<w xml:id="w3833">seim</w>
 							<w xml:id="w3834">Hauß</w><pc xml:id="w3835">.</pc>
 						</item>
 						<item facs="#facs_10_r_2_11" rendition="#f" rend="findent" xml:id="i42">
 							<lb facs="#facs_10_tl_39" xml:id="z350"/>
-							<w xml:id="w3836">Rothenthurn</w> <pc xml:id="w3837">/</pc>
-							<w xml:id="w3838">Hr</w><pc xml:id="w3839">.</pc>
-							<w xml:id="w3840">Lieut</w><pc xml:id="w3841">.</pc>
-							<w xml:id="w3842">Tromp</w> <pc xml:id="w3843">/</pc>
-							<w xml:id="w3844">kombt</w>
+							<w xml:id="w3836">Rothenthurn</w> <pc xml:id="w3837">/</pc> <w xml:id="w3838">Hr</w><pc xml:id="w3839">.</pc> <w xml:id="w3840">Lieut</w><pc xml:id="w3841">.</pc> <w xml:id="w3842">Tromp</w> <pc xml:id="w3843">/</pc> <w xml:id="w3844">kombt</w>
 							<w xml:id="w3845">auß</w>
-							<w xml:id="w3846">Dennemarck</w> <pc xml:id="w3847">/</pc>
-							<w xml:id="w3848">log</w><pc xml:id="w3849">.</pc>
-							<w xml:id="w3850">im</w>
+							<w xml:id="w3846">Dennemarck</w> <pc xml:id="w3847">/</pc> <w xml:id="w3848">log</w><pc xml:id="w3849">.</pc> <w xml:id="w3850">im</w>
 							<w xml:id="w3851">gulden</w>
 							<w xml:id="w3852">Hirschen</w><pc xml:id="w3853">.</pc>
 						</item>
 						<item facs="#facs_10_r_2_12" rendition="#f" rend="findent" xml:id="i43">
 							<lb facs="#facs_10_tl_40" xml:id="z351"/>
-							<w xml:id="w3854">Rothenthurn</w> <pc xml:id="w3855">/</pc>
-							<w xml:id="w3856">den</w>
-							<w xml:id="w3857">6</w><pc xml:id="w3858">.</pc>
-							<w xml:id="w3859">Aug</w>
+							<w xml:id="w3854">Rothenthurn</w> <pc xml:id="w3855">/</pc> <w xml:id="w3856">den</w>
+							<w xml:id="w3857">6</w><pc xml:id="w3858">.</pc> <w xml:id="w3859">Aug</w>
 							<w xml:id="w3860">Zwey</w>
 							<w xml:id="w3861">Herrn</w>
 							<w xml:id="w3862">von</w>
-							<w xml:id="w3863">Stumfalls</w> <pc xml:id="w3864">/</pc>
-							<w xml:id="w3865">kommen</w>
+							<w xml:id="w3863">Stumfalls</w> <pc xml:id="w3864">/</pc> <w xml:id="w3865">kommen</w>
 							<w xml:id="w3866">von</w>
-							<w xml:id="w3867">Prag</w> <pc xml:id="w3868">/</pc>
-							<w xml:id="w3869">logiren</w>
+							<w xml:id="w3867">Prag</w> <pc xml:id="w3868">/</pc> <w xml:id="w3869">logiren</w>
 							<lb facs="#facs_10_tl_41" xml:id="z352"/>
 							<w xml:id="w3870">im</w>
 							<w xml:id="w3871">wilden</w>
@@ -4163,9 +3697,7 @@
 						<item facs="#facs_10_r_2_13" rendition="#f" rend="findent" xml:id="i44">
 							<lb facs="#facs_10_tl_42" xml:id="z353"/>
 							<w xml:id="w3874">Den</w>
-							<w xml:id="w3875">7</w><pc xml:id="w3876">.</pc>
-							<w xml:id="w3877">Aug</w><pc xml:id="w3878">.</pc>
-							<w xml:id="w3879">ist</w>
+							<w xml:id="w3875">7</w><pc xml:id="w3876">.</pc> <w xml:id="w3877">Aug</w><pc xml:id="w3878">.</pc> <w xml:id="w3879">ist</w>
 							<w xml:id="w3880">niemand</w>
 							<w xml:id="w3881">kommen</w><pc xml:id="w3882">.</pc>
 						</item>
